@@ -1,6 +1,6 @@
 ---
 id: "sentpancard"
-order: 8
+order: 2
 tilt: "-2.8deg"
 image: "/images/sent_pancard.jpg"
 fr:

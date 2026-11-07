@@ -1,6 +1,6 @@
 ---
 id: "animaus"
-order: 8
+order: 3
 tilt: "-2.8deg"
 image: "/images/animaus.jpg"
 fr:
