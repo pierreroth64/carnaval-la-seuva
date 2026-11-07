@@ -15,6 +15,7 @@ permalink: "index.html"
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Grandstander:ital,wght@0,600;0,800;1,700&family=Patrick+Hand&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap" rel="stylesheet">
 
   <script>
     tailwind.config = {
@@ -25,6 +26,7 @@ permalink: "index.html"
             title: ['"Grandstander"', 'cursive', 'sans-serif'],
             body: ['"Fredoka"', 'system-ui', 'sans-serif'],
             hand: ['"Patrick Hand"', 'cursive'],
+            baby: ['"Oooh Baby"', 'cursive', 'sans-serif'],
           },
           colors: {
             moss: { 100: '#E6F3E6', 200: '#CBE5CC', 500: '#529E57', 700: '#2F6B34', 900: '#1B431F' },
@@ -195,7 +197,7 @@ permalink: "index.html"
       <h2 id="editoTitle" class="text-xl sm:text-2xl md:text-3xl font-title font-extrabold text-bark-900 mb-2 leading-tight"></h2>
       <p id="editoExcerpt" class="text-neutral-700 text-sm sm:text-base leading-relaxed font-body"></p>
 
-      <div id="editoExpandedContent" class="hidden overflow-hidden mt-4 pt-4 border-t-2 border-dashed border-moss-200 markdown-body"></div>
+      <div id="editoExpandedContent" class="hidden overflow-hidden mt-4 pt-4 border-t-2 border-dashed border-moss-500 markdown-body"></div>
 
       <div class="mt-3 flex items-center justify-end">
         <button id="editoToggleBtn" onclick="toggleEdito()" class="px-4 py-1.5 rounded-xl bg-moss-100 hover:bg-moss-200 text-bark-900 font-title font-bold text-xs sm:text-sm flex items-center gap-2 shadow-sm transition active:scale-95">
@@ -296,18 +298,18 @@ permalink: "index.html"
         tagline: "La chronique officielle de Sa Majesté Sent Pançard",
         excerpt: "Chaque année, à la fin des grands froids, le sous-bois s'agite d'une étrange rumeur. Les terriers s'ouvrent, les plumes se froissent, et les écureuils ressortent leurs plus belles réserves de confettis. Bienvenue à la plus déjantée des parades sylvestres !",
         full_markdown: `
-### Une tradition plus ancienne que le plus vieux des chênes
+    ### Une lettre à destination des Lasseubois postée par un messager inconut
 
-Chaque année, à la fin des grands froids, le sous-bois s'agite d'une étrange rumeur. Les terriers s'ouvrent, les plumes se froissent, et les écureuils ressortent leurs plus belles réserves de confettis. Bienvenue à la plus déjantée des parades sylvestres !
-
-Ici, point de protocole guindé ni d'étiquette austère : le Grand Conseil des Animaux a voté à l'unanimité l'inversion joyeuse de toutes les règles. Pendant trois jours et trois nuits de fête :
-* **Les renards** dansent le rigodon bras dessus bras dessous avec les mulots dodus.
-* **Les sangliers** troquent leur boue quotidienne contre des bains de pétales et de paillettes dorées.
-* **Barnabé et la Fanfare des Cuivres** réveillent les loirs endormis au son des trompettes d'écorce.
-
-> *"Celui qui n'a jamais vu une chouette hulotte enchaîner un solo endiablé de maracas sur une branche de bouleau n'a jamais vraiment connu la magie du carnaval forestier !"*
-
-Que vous soyez hérisson piquant en quête de samba, grenouille amatrice de haute couture nénuphar, ou simple promeneur égaré sous la canopée, revêtez votre plus beau masque d'écorce et rejoignez le cortège !
+<p class="whitespace-pre-line font-baby text-4xl text-amber-600">
+Adishatz La Seuva !
+Je quitte les contrées Aragonaises en début d'année pour rejoindre le Béarn.
+Il parait qu'à Lasseube, ce pays de brigands, je pourrais prendre du bon temps.
+Engraissez bien vos cochons et préparez vos chanchons car j'aime à faire ripaille.
+Entouré de ma garde rapprochée je pourrais arriver par Vic de baigt ou peut être par Lembeye de Haut - Je ferais certainement une pause à Côte blanche avant d'investir le village et d'encanailler la population.
+Si je franchis les Pyrénées sans embuches, je serais certainement aux portes de votre village le samedi 30 janvier en fin d'après midi.
+Tenez vous prêts et d'ici là portez vous bien.
+Sent Pançard    
+</p>
         `
       },
       oc: {
@@ -316,19 +318,19 @@ Que vous soyez hérisson piquant en quête de samba, grenouille amatrice de haut
         tagline: "Lo jornau oficiau de Sa Majestat Sent Pançard",
         excerpt: "Cada an, a la fin dels grands freds, lo sota-bòsc s'emira d'una rumor susprenenta. Los traucs se dubrisson, las plumas se desrevelhan, e los esquiròls tòrnan sortir lors melhors confetis. Planvenguts a la mai folha de las paradas sauvatjas !",
         full_markdown: `
-### Una tradicion mai anciana que lo mai vièlh dels euses
+    ### Ua letra a l'atencion deus seuvetons postada per un messatgèr inconegut
 
-Cada an, a la fin dels grands freds, lo sota-bòsc s'emira d'una rumor susprenenta. Los traucs se dubrisson, las plumas se desrevelhan, e los esquiròls tòrnan sortir lors melhors confetis. Planvenguts a la mai folha de las paradas sauvatjas !
-
-Aicí, cap de protocòl sarrat ni de lei trista : lo Gran Conselh de las Bèstias a votat a l'unanimitat la revirada gaujosa de totas las règlas. Pendent tres jorns e tres nuèchs de fèsta :
-* **Los rainals** dancan lo rigodon braç sus braç amb los campanhòls redonds.
-* **Los senglars** daissan lors banhs de fanga per de banhs de pètals de flors e de confetis daurats.
-* **Barnabé e la Fanfara dels Aramats** desvelhan los lirons assopits amb lors trompetas d'escòrça.
-
-> *"Aquel que jamai a pas vist una caüs menar un solo de maracas sus una branca d'avet sap pas çò qu'es la magia veritabla de la selva!"*
-
-Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura dels nenufars, o simple passejaire dels camins, metètz vòstra masqueta de fusta e venètz far la fèsta amb nosautres !
-        `
+<p class="whitespace-pre-line font-baby text-4xl text-amber-600">
+Adishatz La Seuva !
+Que quiti las contradas Aragonesas en debuta d'annada entà tornar en Biarn.
+Que's paresi qu'a La Seuva, pais de brigans, que poderi préner un drin de bon temps.
+Engreishatz plan los vostes porcs e preparatz los chinchons per'mor qu'aimi hartar !
+Dab la mia guarda, que poderi arribar per Vic de Baigt o dilhèu Lembeja de Haut. Que harèi ua pausa de cap a Costa Blanca abanç de destimborlar lo vilatge e encanalhar la populacion.
+Si trauqui los Pireneus shens chepics, que serèi a l'entrada de La Seuva lo dissabte 30 de genèr en fin de vrèspe..
+Tienetz-vse prèsts e portatz-vse plan !
+Sent Pançard        
+</p>
+    `
       }
     };
 
