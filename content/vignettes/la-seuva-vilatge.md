@@ -1,7 +1,7 @@
 ---
 id: "laseuva"
 order: 1
-tilt: "-2.8deg"
+tilt: "2.0deg"
 image: "/images/la_seuva_vilatge.jpg"
 fr:
   title: "La Seuva"

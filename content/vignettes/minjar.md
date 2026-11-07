@@ -1,7 +1,7 @@
 ---
 id: "minjar"
 order: 6
-tilt: "-2.8deg"
+tilt: "2.8deg"
 image: "/images/minjar.jpg"
 fr:
   title: "Où et quoi manger ?"
