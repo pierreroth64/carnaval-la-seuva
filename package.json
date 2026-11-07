@@ -1,0 +1,12 @@
+{
+  "name": "carnaval-foret",
+  "version": "1.0.0",
+  "description": "Site statique du Carnaval de la Forêt (Bilingue FR / OC)",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
