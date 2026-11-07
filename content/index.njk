@@ -374,7 +374,7 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         prevBtn: "Précédent",
         nextBtn: "Suivant",
         confettiLabel: "Confettis !",
-        footerQuote: "🌳 \"A la seuva qu'avem coratge\" 🌿",
+        footerQuote: "🌳 \"A La Seuva qu'avem coratge\" 🌿",
         criPrefix: "Cri : ",
         emptyFilter: "Aucune vignette trouvée pour cette catégorie !",
         editoMore: "En savoir plus",
@@ -396,7 +396,7 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         prevBtn: "Precedent",
         nextBtn: "Seguent",
         confettiLabel: "Confetis !",
-        footerQuote: "🌳 \"A la seuva qu'avem coratge\" 🌿",
+        footerQuote: "🌳 \"A La Seuva qu'avem coratge\" 🌿",
         criPrefix: "Crit : ",
         emptyFilter: "Nada vinheta trobada per aquesta categoria !",
         editoMore: "Ne saber mai",
@@ -527,7 +527,7 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         let badgeColor = 'bg-mushroom-500';
         if (art.fr.category === 'Histoire') badgeColor = 'bg-festive-orange';
         if (art.fr.category === 'Faire Carnaval') badgeColor = 'bg-festive-teal';
-        if (art.fr.category === 'Infos utiles') badgeColor = 'bg-moss-700';
+        if (art.fr.category === 'Infos pratiques') badgeColor = 'bg-moss-700';
 
         card.innerHTML = `
           <div>
@@ -536,9 +536,11 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
               <span class="absolute top-2.5 right-2.5 text-[11px] font-title font-extrabold px-3 py-1 rounded-full ${badgeColor} text-white shadow-md">
                 ${itemData.category}
               </span>
+              {% if itemData.cri and itemData.cri | trim %}
               <span class="absolute bottom-2 left-2 bg-bark-900/85 text-firefly text-[11px] px-2 py-0.5 rounded-lg font-hand font-bold">
                 📢 ${itemData.cri}
               </span>
+              {% endif %}
             </div>
             <h3 class="font-title text-lg sm:text-xl font-black text-bark-900 group-hover:text-mushroom-600 transition-colors">
               ${itemData.title}
