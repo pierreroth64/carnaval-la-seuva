@@ -106,6 +106,12 @@
     }
     .no-scrollbar::-webkit-scrollbar { display: none; }
     .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    
+    .oc-cross {
+      display: inline-block;
+      vertical-align: middle;
+      flex-shrink: 0;
+    }
   </style>
 </head>
 <body class="forest-bg text-neutral-100 min-h-screen flex flex-col font-body selection:bg-firefly selection:text-bark-900 overflow-x-hidden">
@@ -123,8 +129,8 @@
   <!-- Header -->
   <header class="w-full max-w-6xl mx-auto px-4 py-3 sm:py-4 flex flex-wrap items-center justify-between gap-3 z-30">
     <div class="flex items-center gap-3 cursor-pointer group" onclick="navigateHome()">
-      <div class="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-firefly text-bark-900 flex items-center justify-center text-2xl sm:text-3xl shadow-wooden group-hover:rotate-12 transition-transform">
-        🦡
+      <div class="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-firefly text-bark-900 flex items-center justify-center text-2xl sm:text-3xl shadow-wooden group-hover:rotate-12 transition-transform" title="Carnaval de la Forêt">
+        🌳
       </div>
       <div>
         <h1 id="headerTitle" class="text-xl sm:text-3xl md:text-4xl font-title font-extrabold tracking-tight text-white drop-shadow flex items-center gap-2">
@@ -138,13 +144,33 @@
 
     <!-- Actions & Langues -->
     <div class="flex items-center gap-2">
-      <!-- Sélecteur de langue Global FR / OC -->
+      <!-- Sélecteur de langue Global FR / OC avec Croix Occitane élégante -->
       <div class="bg-foliage/90 p-1 rounded-2xl border border-white/20 flex items-center shadow-wooden">
-        <button id="langFrBtn" onclick="setLanguage('fr')" class="px-2.5 py-1 rounded-xl text-xs font-title font-extrabold bg-firefly text-bark-900 shadow transition">
-          FR 🇫🇷
+        <button id="langFrBtn" onclick="setLanguage('fr')" class="px-2.5 py-1 rounded-xl text-xs font-title font-extrabold bg-firefly text-bark-900 shadow transition flex items-center gap-1.5">
+          <span>FR</span>
+          <span class="text-[13px]">🇫🇷</span>
         </button>
-        <button id="langOcBtn" onclick="setLanguage('oc')" class="px-2.5 py-1 rounded-xl text-xs font-title font-extrabold text-moss-200 hover:text-white transition">
-          OC 🌰
+        <button id="langOcBtn" onclick="setLanguage('oc')" class="px-2.5 py-1 rounded-xl text-xs font-title font-extrabold text-moss-200 hover:text-white transition flex items-center gap-1.5" title="Passar en Lenga d'Òc">
+          <span>OC</span>
+          <!-- Croix Occitane SVG stylisée -->
+          <svg class="oc-cross w-4 h-4 fill-current text-festive-gold" viewBox="0 0 100 100">
+            <rect width="100" height="100" rx="20" fill="#E63946" />
+            <!-- Croix de Toulouse / Occitane dorée à 12 boules vidées -->
+            <path d="M 50 14 C 47 24, 42 28, 30 30 C 32 40, 32 44, 18 50 C 32 56, 32 60, 30 70 C 42 72, 47 76, 50 86 C 53 76, 58 72, 70 70 C 68 60, 68 56, 82 50 C 68 44, 68 40, 70 30 C 58 28, 53 24, 50 14 Z" fill="#FFD152" stroke="#2B1A0F" stroke-width="2.5" />
+            <!-- Pommettes / Boules vidées aux 12 pointes -->
+            <circle cx="50" cy="18" r="3.2" fill="#E63946" />
+            <circle cx="43" cy="24" r="2.8" fill="#E63946" />
+            <circle cx="57" cy="24" r="2.8" fill="#E63946" />
+            <circle cx="82" cy="50" r="3.2" fill="#E63946" />
+            <circle cx="76" cy="43" r="2.8" fill="#E63946" />
+            <circle cx="76" cy="57" r="2.8" fill="#E63946" />
+            <circle cx="50" cy="82" r="3.2" fill="#E63946" />
+            <circle cx="43" cy="76" r="2.8" fill="#E63946" />
+            <circle cx="57" cy="76" r="2.8" fill="#E63946" />
+            <circle cx="18" cy="50" r="3.2" fill="#E63946" />
+            <circle cx="24" cy="43" r="2.8" fill="#E63946" />
+            <circle cx="24" cy="57" r="2.8" fill="#E63946" />
+          </svg>
         </button>
       </div>
 
@@ -156,8 +182,32 @@
     </div>
   </header>
 
-  <!-- Catégories -->
-  <div class="max-w-6xl w-full mx-auto px-4 mt-2 flex items-center justify-between gap-3 text-sm">
+  <!-- Édito en-tête persistant -->
+  <section class="max-w-6xl w-full mx-auto px-4 mt-2 mb-4">
+    <div class="bg-[#FFFDF7] text-neutral-900 sketch-border p-4 sm:p-6 shadow-wobble relative rounded-3xl transition-all">
+      <div class="flex items-center justify-between gap-2 mb-2">
+        <span class="inline-flex items-center gap-1.5 bg-festive-orange text-white text-[11px] sm:text-xs font-title font-bold px-3 py-1 rounded-full shadow-sm">
+          <span>📜</span> <span id="editoBadge">Éditorial du Carnaval</span>
+        </span>
+        <span id="editoTagline" class="text-xs font-hand text-moss-700 text-base hidden sm:inline font-bold"></span>
+      </div>
+
+      <h2 id="editoTitle" class="text-xl sm:text-2xl md:text-3xl font-title font-extrabold text-bark-900 mb-2 leading-tight"></h2>
+      <p id="editoExcerpt" class="text-neutral-700 text-sm sm:text-base leading-relaxed font-body"></p>
+
+      <div id="editoExpandedContent" class="hidden overflow-hidden mt-4 pt-4 border-t-2 border-dashed border-moss-200 markdown-body"></div>
+
+      <div class="mt-3 flex items-center justify-end">
+        <button id="editoToggleBtn" onclick="toggleEdito()" class="px-4 py-1.5 rounded-xl bg-moss-100 hover:bg-moss-200 text-bark-900 font-title font-bold text-xs sm:text-sm flex items-center gap-2 shadow-sm transition active:scale-95">
+          <span id="editoToggleText">En savoir plus</span>
+          <i id="editoToggleIcon" class="fa-solid fa-chevron-down text-xs text-festive-orange transition-transform duration-300"></i>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filtres par catégorie -->
+  <div class="max-w-6xl w-full mx-auto px-4 mt-1 flex items-center justify-between gap-3 text-sm">
     <div class="flex items-center gap-2 overflow-x-auto no-scrollbar py-1 max-w-full">
       <span id="filterLabel" class="text-xs text-moss-200 font-bold uppercase tracking-wider whitespace-nowrap mr-1">Troupes :</span>
       <button onclick="filterCategory('all')" class="cat-pill active px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-firefly text-bark-900 shadow" id="catAll">Tous</button>
@@ -168,8 +218,7 @@
   </div>
 
   <!-- Contenu Principal -->
-  <main class="flex-grow max-w-6xl w-full mx-auto px-4 py-6">
-    <!-- Galerie -->
+  <main class="flex-grow max-w-6xl w-full mx-auto px-4 py-5">
     <section id="galleryView">
       <div class="text-center max-w-2xl mx-auto mb-6 sm:mb-8">
         <h2 id="galleryTitle" class="text-2xl sm:text-4xl font-title font-black text-firefly drop-shadow-md">
@@ -180,9 +229,7 @@
         </p>
       </div>
 
-      <div id="drawingsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-10 pt-2 pb-12">
-        <!-- Rendu via JS depuis les données 11ty compilées -->
-      </div>
+      <div id="drawingsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-10 pt-2 pb-12"></div>
     </section>
 
     <!-- Vue Détail -->
@@ -193,10 +240,18 @@
           <span id="backBtnLabel">Retour au Défilé</span>
         </button>
 
-        <!-- Sélecteur FR / OC dans la fiche -->
+        <!-- Sélecteur FR / OC dans la fiche avec croix occitane -->
         <div class="bg-[#FFFDF7] p-1 rounded-2xl border-2 border-bark-700 flex items-center shadow-md">
-          <button id="detailFrBtn" onclick="setLanguage('fr')" class="px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold bg-mushroom-500 text-white transition">FR</button>
-          <button id="detailOcBtn" onclick="setLanguage('oc')" class="px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold text-bark-900 hover:text-mushroom-500 transition">OC</button>
+          <button id="detailFrBtn" onclick="setLanguage('fr')" class="px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold bg-mushroom-500 text-white transition flex items-center gap-1">
+            <span>FR</span>
+          </button>
+          <button id="detailOcBtn" onclick="setLanguage('oc')" class="px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold text-bark-900 hover:text-mushroom-500 transition flex items-center gap-1">
+            <span>OC</span>
+            <svg class="oc-cross w-3.5 h-3.5" viewBox="0 0 100 100">
+              <rect width="100" height="100" rx="20" fill="#E63946" />
+              <path d="M 50 14 C 47 24, 42 28, 30 30 C 32 40, 32 44, 18 50 C 32 56, 32 60, 30 70 C 42 72, 47 76, 50 86 C 53 76, 58 72, 70 70 C 68 60, 68 56, 82 50 C 68 44, 68 40, 70 30 C 58 28, 53 24, 50 14 Z" fill="#FFD152" />
+            </svg>
+          </button>
         </div>
       </div>
 
@@ -237,8 +292,50 @@
     <p class="mt-1 opacity-70">Carnaval de la Forêt Enchantée • 100% Statique (Markdown + Eleventy)</p>
   </footer>
 
-  <!-- DONNÉES INJECTÉES PAR ELEVENTY DEPUIS LES FICHIERS MARKDOWN -->
   <script>
+    const EDITO_DATA = {
+      fr: {
+        badge: "Éditorial du Défilé",
+        title: "🌿 L'Édito du Grand Défilé : Quand la forêt s'éveille !",
+        tagline: "La chronique officielle du Roi Blaireau & des gardes champêtres",
+        excerpt: "Chaque année, à la fin des grands froids, le sous-bois s'agite d'une étrange rumeur. Les terriers s'ouvrent, les plumes se froissent, et les écureuils ressortent leurs plus belles réserves de confettis. Bienvenue à la plus déjantée des parades sylvestres !",
+        full_markdown: `
+### Une tradition plus ancienne que le plus vieux des chênes
+
+Chaque année, à la fin des grands froids, le sous-bois s'agite d'une étrange rumeur. Les terriers s'ouvrent, les plumes se froissent, et les écureuils ressortent leurs plus belles réserves de confettis. Bienvenue à la plus déjantée des parades sylvestres !
+
+Ici, point de protocole guindé ni d'étiquette austère : le Grand Conseil des Animaux a voté à l'unanimité l'inversion joyeuse de toutes les règles. Pendant trois jours et trois nuits de fête :
+* **Les renards** dansent le rigodon bras dessus bras dessous avec les mulots dodus.
+* **Les sangliers** troquent leur boue quotidienne contre des bains de pétales et de paillettes dorées.
+* **Barnabé et la Fanfare des Cuivres** réveillent les loirs endormis au son des trompettes d'écorce.
+
+> *"Celui qui n'a jamais vu une chouette hulotte enchaîner un solo endiablé de maracas sur une branche de bouleau n'a jamais vraiment connu la magie du carnaval forestier !"*
+
+Que vous soyez hérisson piquant en quête de samba, grenouille amatrice de haute couture nénuphar, ou simple promeneur égaré sous la canopée, revêtez votre plus beau masque d'écorce et rejoignez le cortège !
+        `
+      },
+      oc: {
+        badge: "Editorial de la Parada",
+        title: "🌿 L'Editorial de la Granda Parada : Quand la selva se desrevelha !",
+        tagline: "La cronica oficiala deu Rei Taisson & dels gardas deu bòsc",
+        excerpt: "Cada an, a la fin dels grands freds, lo sota-bòsc s'emira d'una rumor susprenenta. Los traucs se dubrisson, las plumas se desrevelhan, e los esquiròls tòrnan sortir lors melhors confetis. Planvenguts a la mai folha de las paradas sauvatjas !",
+        full_markdown: `
+### Una tradicion mai anciana que lo mai vièlh dels euses
+
+Cada an, a la fin dels grands freds, lo sota-bòsc s'emira d'una rumor susprenenta. Los traucs se dubrisson, las plumas se desrevelhan, e los esquiròls tòrnan sortir lors melhors confetis. Planvenguts a la mai folha de las paradas sauvatjas !
+
+Aicí, cap de protocòl sarrat ni de lei trista : lo Gran Conselh de las Bèstias a votat a l'unanimitat la revirada gaujosa de totas las règlas. Pendent tres jorns e tres nuèchs de fèsta :
+* **Los rainals** dancan lo rigodon braç sus braç amb los campanhòls redonds.
+* **Los senglars** daissan lors banhs de fanga per de banhs de pètals de flors e de confetis daurats.
+* **Barnabé e la Fanfara dels Aramats** desvelhan los lirons assopits amb lors trompetas d'escòrça.
+
+> *"Aquel que jamai a pas vist una caüs menar un solo de maracas sus una branca d'avet sap pas çò qu'es la magia veritabla de la selva!"*
+
+Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura dels nenufars, o simple passejaire dels camins, metètz vòstra masqueta de fusta e venètz far la fèsta amb nosautres !
+        `
+      }
+    };
+
     const CARNAVAL_DATA = [
       
       {
@@ -401,7 +498,9 @@
         footerQuote: "🎪 \"Aucun blaireau n'a été blessé durant les lancers de confettis.\" 🎪",
         troupePrefix: "Troupe : ",
         criPrefix: "Cri : ",
-        emptyFilter: "Aucun participant trouvé pour cette troupe !"
+        emptyFilter: "Aucun participant trouvé pour cette troupe !",
+        editoMore: "En savoir plus",
+        editoLess: "Réduire la lecture"
       },
       oc: {
         pageTitle: "🎪 Carnaval de la Selva — La Granda Parada",
@@ -422,38 +521,72 @@
         footerQuote: "🎪 \"Cap de taisson foguèt pas ferit durant los getons de confetis.\" 🎪",
         troupePrefix: "Tropa : ",
         criPrefix: "Crit : ",
-        emptyFilter: "Cap de participant trobat per aquesta tropa !"
+        emptyFilter: "Cap de participant trobat per aquesta tropa !",
+        editoMore: "Ne saber mai",
+        editoLess: "Reduire la lectura"
       }
     };
 
     let currentLang = 'fr';
     let currentFilter = 'all';
     let currentArtworkIndex = 0;
+    let isEditoOpen = false;
+
+    function toggleEdito() {
+      isEditoOpen = !isEditoOpen;
+      const content = document.getElementById('editoExpandedContent');
+      const text = document.getElementById('editoToggleText');
+      const icon = document.getElementById('editoToggleIcon');
+      const t = UI_I18N[currentLang];
+
+      if (isEditoOpen) {
+        content.classList.remove('hidden');
+        text.textContent = t.editoLess;
+        icon.classList.add('rotate-180');
+      } else {
+        content.classList.add('hidden');
+        text.textContent = t.editoMore;
+        icon.classList.remove('rotate-180');
+      }
+    }
+
+    function updateEdito() {
+      const edito = EDITO_DATA[currentLang];
+      const t = UI_I18N[currentLang];
+      
+      document.getElementById('editoBadge').textContent = edito.badge;
+      document.getElementById('editoTagline').textContent = edito.tagline;
+      document.getElementById('editoTitle').textContent = edito.title;
+      document.getElementById('editoExcerpt').textContent = edito.excerpt;
+      
+      const editoContent = document.getElementById('editoExpandedContent');
+      editoContent.innerHTML = window.marked ? marked.parse(edito.full_markdown.trim()) : edito.full_markdown;
+
+      document.getElementById('editoToggleText').textContent = isEditoOpen ? t.editoLess : t.editoMore;
+    }
 
     function setLanguage(lang) {
       currentLang = lang;
       
-      // Mettre à jour les boutons d'en-tête
       const frBtn = document.getElementById('langFrBtn');
       const ocBtn = document.getElementById('langOcBtn');
       if (lang === 'fr') {
-        frBtn.className = "px-2.5 py-1 rounded-xl text-xs font-title font-extrabold bg-firefly text-bark-900 shadow transition";
-        ocBtn.className = "px-2.5 py-1 rounded-xl text-xs font-title font-extrabold text-moss-200 hover:text-white transition";
+        frBtn.className = "px-2.5 py-1 rounded-xl text-xs font-title font-extrabold bg-firefly text-bark-900 shadow transition flex items-center gap-1.5";
+        ocBtn.className = "px-2.5 py-1 rounded-xl text-xs font-title font-extrabold text-moss-200 hover:text-white transition flex items-center gap-1.5";
       } else {
-        ocBtn.className = "px-2.5 py-1 rounded-xl text-xs font-title font-extrabold bg-firefly text-bark-900 shadow transition";
-        frBtn.className = "px-2.5 py-1 rounded-xl text-xs font-title font-extrabold text-moss-200 hover:text-white transition";
+        ocBtn.className = "px-2.5 py-1 rounded-xl text-xs font-title font-extrabold bg-firefly text-bark-900 shadow transition flex items-center gap-1.5";
+        frBtn.className = "px-2.5 py-1 rounded-xl text-xs font-title font-extrabold text-moss-200 hover:text-white transition flex items-center gap-1.5";
       }
 
-      // Mettre à jour les boutons de fiche détail
       const detailFr = document.getElementById('detailFrBtn');
       const detailOc = document.getElementById('detailOcBtn');
       if (detailFr && detailOc) {
         if (lang === 'fr') {
-          detailFr.className = "px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold bg-mushroom-500 text-white transition";
-          detailOc.className = "px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold text-bark-900 hover:text-mushroom-500 transition";
+          detailFr.className = "px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold bg-mushroom-500 text-white transition flex items-center gap-1";
+          detailOc.className = "px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold text-bark-900 hover:text-mushroom-500 transition flex items-center gap-1";
         } else {
-          detailOc.className = "px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold bg-mushroom-500 text-white transition";
-          detailFr.className = "px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold text-bark-900 hover:text-mushroom-500 transition";
+          detailOc.className = "px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold bg-mushroom-500 text-white transition flex items-center gap-1";
+          detailFr.className = "px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold text-bark-900 hover:text-mushroom-500 transition flex items-center gap-1";
         }
       }
 
@@ -474,9 +607,9 @@
       document.getElementById('confettiBtnLabel').textContent = t.confettiLabel;
       document.getElementById('footerQuote').textContent = t.footerQuote;
 
+      updateEdito();
       renderGallery();
 
-      // Si la vue détail est affichée, rafraîchir
       if (!document.getElementById('detailView').classList.contains('hidden')) {
         openArtwork(CARNAVAL_DATA[currentArtworkIndex].id, false);
       }

@@ -1,7 +1,7 @@
 {
   "name": "carnaval-foret",
-  "version": "1.0.0",
-  "description": "Site statique du Carnaval de la Forêt (Bilingue FR / OC)",
+  "version": "1.2.0",
+  "description": "Site statique du Carnaval de la Forêt (Bilingue FR / OC avec croix occitane SVG)",
   "scripts": {
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve"
