@@ -5,14 +5,12 @@ tilt: "2.8deg"
 image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80"
 fr:
   title: "Le Char du Grand Blaireau Fouisseur"
-  category: "Char"
-  troupe: "Les Terrassiers Masqués"
+  category: "Faire Carnaval"
   accessoire: "Pelleteuse en bois & Canon à glands"
   cri: "ON CREUSE L'AMBIANCE !"
 oc:
   title: "Lo Carri deu Gran Taisson Foronador"
-  category: "Carri"
-  troupe: "Los Terrassièrs Mascats"
+  category: "Far Carnaval"
   accessoire: "Pala mecanica en fusta & Canon de calhaus"
   cri: "FORONAM LA FÈSTA !"
   description: |

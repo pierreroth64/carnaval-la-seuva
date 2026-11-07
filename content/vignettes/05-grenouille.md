@@ -5,14 +5,12 @@ tilt: "-3.8deg"
 image: "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80"
 fr:
   title: "Princesse Rainette des Nénuphars"
-  category: "Costume"
-  troupe: "L'Ordre du Marais Guilleret"
+  category: "Histoire"
   accessoire: "Couronne en fleur de lotus & Tutu de prêle"
   cri: "COÂÂÂ COÂÂÂ GLAM !"
 oc:
   title: "Princessa Raineta dels Nenufars"
-  category: "Costum"
-  troupe: "L'Òrdre del Palun Gaujós"
+  category: "Istòria"
   accessoire: "Corona en flor de loto & Tutú d'escurada"
   cri: "COAÂÂ COAÂÂ GLAM !"
   description: |

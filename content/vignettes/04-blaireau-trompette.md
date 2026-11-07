@@ -5,14 +5,12 @@ tilt: "3.2deg"
 image: "https://images.unsplash.com/photo-1507666405895-422efe7d517f?auto=format&fit=crop&w=800&q=80"
 fr:
   title: "Barnabé le Blaireau Trompettiste"
-  category: "Fanfare"
-  troupe: "Les Cuivres de la Tanière"
+  category: "Histoire"
   accessoire: "Trompette en écorce d'aulne"
   cri: "TUT-TUT-POUET !"
 oc:
   title: "Barnabé lo Taisson Trompetaire"
-  category: "Fanfara"
-  troupe: "Los Aramats del Cròs"
+  category: "Istòria"
   accessoire: "Trompeta d'escòrça de vèrnhe"
   cri: "TUT-TUT-POT !"
   description: |

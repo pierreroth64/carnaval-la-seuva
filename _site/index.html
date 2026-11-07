@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title id="pageTitle">🎪 Carnaval de la Forêt — Le Grand Défilé</title>
+  <title id="pageTitle">🎪 Carnaval de Lasseube — Le Grand Défilé</title>
   
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -129,12 +129,12 @@
   <!-- Header -->
   <header class="w-full max-w-6xl mx-auto px-4 py-3 sm:py-4 flex flex-wrap items-center justify-between gap-3 z-30">
     <div class="flex items-center gap-3 cursor-pointer group" onclick="navigateHome()">
-      <div class="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-firefly text-bark-900 flex items-center justify-center text-2xl sm:text-3xl shadow-wooden group-hover:rotate-12 transition-transform" title="Carnaval de la Forêt">
+      <div class="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-firefly text-bark-900 flex items-center justify-center text-2xl sm:text-3xl shadow-wooden group-hover:rotate-12 transition-transform" title="Carnaval de Lasseube">
         🌳
       </div>
       <div>
         <h1 id="headerTitle" class="text-xl sm:text-3xl md:text-4xl font-title font-extrabold tracking-tight text-white drop-shadow flex items-center gap-2">
-          Carnaval de la Forêt <span class="text-xl sm:text-2xl animate-bounce">🎉</span>
+          Carnaval de Lasseube <span class="text-xl sm:text-2xl animate-bounce">🎉</span>
         </h1>
         <p id="headerSubtitle" class="text-xs sm:text-sm text-moss-200 font-hand text-base sm:text-lg">
           Costumes loufoques &amp; créatures déchaînées!
@@ -144,7 +144,7 @@
 
     <!-- Actions & Langues -->
     <div class="flex items-center gap-2">
-      <!-- Sélecteur de langue Global FR / OC avec Croix Occitane élégante -->
+      <!-- Sélecteur de langue Global FR / OC avec Croix Occitane -->
       <div class="bg-foliage/90 p-1 rounded-2xl border border-white/20 flex items-center shadow-wooden">
         <button id="langFrBtn" onclick="setLanguage('fr')" class="px-2.5 py-1 rounded-xl text-xs font-title font-extrabold bg-firefly text-bark-900 shadow transition flex items-center gap-1.5">
           <span>FR</span>
@@ -152,12 +152,9 @@
         </button>
         <button id="langOcBtn" onclick="setLanguage('oc')" class="px-2.5 py-1 rounded-xl text-xs font-title font-extrabold text-moss-200 hover:text-white transition flex items-center gap-1.5" title="Passar en Lenga d'Òc">
           <span>OC</span>
-          <!-- Croix Occitane SVG stylisée -->
           <svg class="oc-cross w-4 h-4 fill-current text-festive-gold" viewBox="0 0 100 100">
             <rect width="100" height="100" rx="20" fill="#E63946" />
-            <!-- Croix de Toulouse / Occitane dorée à 12 boules vidées -->
             <path d="M 50 14 C 47 24, 42 28, 30 30 C 32 40, 32 44, 18 50 C 32 56, 32 60, 30 70 C 42 72, 47 76, 50 86 C 53 76, 58 72, 70 70 C 68 60, 68 56, 82 50 C 68 44, 68 40, 70 30 C 58 28, 53 24, 50 14 Z" fill="#FFD152" stroke="#2B1A0F" stroke-width="2.5" />
-            <!-- Pommettes / Boules vidées aux 12 pointes -->
             <circle cx="50" cy="18" r="3.2" fill="#E63946" />
             <circle cx="43" cy="24" r="2.8" fill="#E63946" />
             <circle cx="57" cy="24" r="2.8" fill="#E63946" />
@@ -209,11 +206,12 @@
   <!-- Filtres par catégorie -->
   <div class="max-w-6xl w-full mx-auto px-4 mt-1 flex items-center justify-between gap-3 text-sm">
     <div class="flex items-center gap-2 overflow-x-auto no-scrollbar py-1 max-w-full">
-      <span id="filterLabel" class="text-xs text-moss-200 font-bold uppercase tracking-wider whitespace-nowrap mr-1">Troupes :</span>
-      <button onclick="filterCategory('all')" class="cat-pill active px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-firefly text-bark-900 shadow" id="catAll">Tous</button>
-      <button onclick="filterCategory('Costume')" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catCostume">🎭 Costumes</button>
-      <button onclick="filterCategory('Char')" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catChar">🚜 Chars</button>
-      <button onclick="filterCategory('Fanfare')" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catFanfare">🎺 Fanfares</button>
+      <span id="filterLabel" class="text-xs text-moss-200 font-bold uppercase tracking-wider whitespace-nowrap mr-1">Catégories :</span>
+      <button onclick="filterCategory('all', event)" class="cat-pill active px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-firefly text-bark-900 shadow" id="catAll">Tous</button>
+      <button onclick="filterCategory('Personnages', event)" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catPersonnages">🎭 Personnages</button>
+      <button onclick="filterCategory('Histoire', event)" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catHistoire">📜 Histoire</button>
+      <button onclick="filterCategory('Faire Carnaval', event)" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catFaireCarnaval">🎉 Faire Carnaval</button>
+      <button onclick="filterCategory('Infos utiles', event)" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catInfosUtiles">ℹ️ Infos utiles</button>
     </div>
   </div>
 
@@ -222,7 +220,7 @@
     <section id="galleryView">
       <div class="text-center max-w-2xl mx-auto mb-6 sm:mb-8">
         <h2 id="galleryTitle" class="text-2xl sm:text-4xl font-title font-black text-firefly drop-shadow-md">
-          Les Vignettes Déjantées du Grand Défilé
+          Plonger dans l'univers du Carnaval de Lasseube
         </h2>
         <p id="gallerySubtitle" class="text-moss-100 text-xs sm:text-sm mt-1 sm:mt-2 font-body">
           Cliquez sur un dessin penché pour lire son histoire secrète !
@@ -240,7 +238,6 @@
           <span id="backBtnLabel">Retour au Défilé</span>
         </button>
 
-        <!-- Sélecteur FR / OC dans la fiche avec croix occitane -->
         <div class="bg-[#FFFDF7] p-1 rounded-2xl border-2 border-bark-700 flex items-center shadow-md">
           <button id="detailFrBtn" onclick="setLanguage('fr')" class="px-2.5 py-0.5 rounded-xl text-xs font-title font-extrabold bg-mushroom-500 text-white transition flex items-center gap-1">
             <span>FR</span>
@@ -264,7 +261,6 @@
         <div class="border-b-4 border-dashed border-moss-200 pb-4 mb-5">
           <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-1">
             <h2 id="detailTitle" class="text-2xl sm:text-4xl font-title font-extrabold text-bark-900"></h2>
-            <span id="detailTroupe" class="text-base sm:text-xl font-hand text-festive-berry font-bold"></span>
           </div>
           <div class="flex flex-wrap items-center gap-2 sm:gap-3 mt-2 text-xs font-bold text-moss-700">
             <span id="detailAccessoire" class="bg-moss-100 px-3 py-1 rounded-full"></span>
@@ -289,7 +285,7 @@
 
   <footer class="mt-auto border-t-2 border-white/10 bg-foliage/90 py-5 text-center text-xs text-moss-200">
     <p class="font-hand text-lg sm:text-xl text-firefly" id="footerQuote">🎪 "Aucun blaireau n'a été blessé durant les lancers de confettis." 🎪</p>
-    <p class="mt-1 opacity-70">Carnaval de la Forêt Enchantée • 100% Statique (Markdown + Eleventy)</p>
+    <p class="mt-1 opacity-70">Carnaval de Lasseube • 100% Statique (Markdown + Eleventy)</p>
   </footer>
 
   <script>
@@ -345,16 +341,14 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
         fr: {
           title: "Gontran le Hérisson Fluo",
-          category: "Costume",
-          troupe: "Les Piques-Fêtes",
+          category: "Personnages",
           accessoire: "Confettis plantés sur les piquants",
           cri: "Pik-A-Boum !",
           description: "<h3>Le roi de la teinture aux baies sauvages</h3>\n<p>Gontran a passé trois semaines à tremper chacune de ses 5 000 épines dans un jus concentré de framboise et de myrtilles sauvages. Résultat : une crête multicolore qui brille au clair de lune !</p>\n<blockquote>\n<p><em>&quot;Ne me serrez pas trop fort dans vos bras pendant la samba, je suis festif mais perforant !&quot;</em></p>\n</blockquote>\n<h4>Ses faits d'armes carnavalesques :</h4>\n<ul>\n<li>A accidentellement crevé 42 ballons de baudruche en se roulant par terre lors de la farandole.</li>\n<li>Porte des lunettes de soleil en coquilles de noisettes fumées.</li>\n<li>Champion incontesté de breakdance sur mousse humide.</li>\n</ul>\n"
         },
         oc: {
           title: "Gontran l'Erisson Fluo",
-          category: "Costum",
-          troupe: "Los Pica-Fèstas",
+          category: "Personatges",
           accessoire: "Confetis ficats sus las ponchas",
           cri: "Pik-A-Boc !",
           description: "### Lo rei de la tenchura a las baias sauvatjas\n\nGontran passèt tres setmanas a trempar caduna de sas 5 000 espinas dins un chuc concentrat d'amoras e de fragas sauvatjas. Resultat: una cresta multicolora que bria a la lutz de la luna!\n\n> *\"Me sarrètz pas tròp fòrt dins vòstres braces pendent la samba, soi de fèsta mas fòrça perforant!\"*\n\n#### Sos fachs d'armas de carnaval:\n* Trauquèt per azard 42 balons en se rotlant pel sòl durant la farandòla.\n* Pòrta de lunetas de solelh fachas amb de claucons de noses fumats.\n* Campion incontestat de breakdance sus la molsa humida.\n"
@@ -368,16 +362,14 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80",
         fr: {
           title: "Le Char du Grand Blaireau Fouisseur",
-          category: "Char",
-          troupe: "Les Terrassiers Masqués",
+          category: "Faire Carnaval",
           accessoire: "Pelleteuse en bois & Canon à glands",
           cri: "ON CREUSE L'AMBIANCE !",
           description: "<h3>Le géant de bois et de branchages</h3>\n<p>Ce char monumental a été sculpté dans une souche de vieux chêne par la communauté des blaireaux des hauts bois. Lorsqu'il avance, ses pattes de bois articulées creusent le rythme de la farandole !</p>\n<pre><code>Fiche technique du char :\n- Motorisation : 4 paires de pattes et trois roues de charrette\n- Carburant : Jus de pomme fermenté\n- Capacité en confettis : 20 sacs d'aiguilles de pin dorées\n</code></pre>\n<p>Le masque principal crache des volutes de vapeur aromatisées au bois de sapin.</p>\n"
         },
         oc: {
           title: "Lo Carri deu Gran Taisson Foronador",
-          category: "Carri",
-          troupe: "Los Terrassièrs Mascats",
+          category: "Far Carnaval",
           accessoire: "Pala mecanica en fusta & Canon de calhaus",
           cri: "FORONAM LA FÈSTA !",
           description: "### Lo gigant de fusta e de brancas\n\nAqueste carri monumental es estat talhat dins una soca d'euse vièlh per la comunautat dels taissons dels bòsques nauts. Quand avança, sas patas de fusta articuladas cavan lo ritme de la farandòla!\n\n```\nFicha tecnica deu carri :\n- Motor : 4 parelhs de patas e tres ròdas de carreta\n- Propulsion : Chuc de poma fermentat\n- Capacitat de confetis : 20 sacs d'agulhas de pin dauradas\n```\n\nLa masqueta principala amaga un sistèma engenhós que fa sortir de fums de vapor aromatizada a la fusta d'avet.\n"
@@ -391,16 +383,14 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         image: "https://images.unsplash.com/photo-1574063413132-355dbfd83e25?auto=format&fit=crop&w=800&q=80",
         fr: {
           title: "Dame Hulotte & ses Maracas",
-          category: "Fanfare",
-          troupe: "La Batucada Nocturne",
+          category: "Personnages",
           accessoire: "Glands géants transformés en maracas",
           cri: "HOU-HOU CHA-CHA !",
           description: "<h3>La diva aux plumes à paillettes</h3>\n<p>Habituellement très austère et philosophique le jour, Dame Hulotte se métamorphose dès 19h00 en meneuse de revue latino-forestière.</p>\n<ul>\n<li><strong>Son costume :</strong> Un boa en lichen fluo et une toque faite d'un nid de pie garni de plumes de paon.</li>\n<li><strong>Sa devise :</strong> <em>&quot;Mieux vaut secouer ses plumes que ruminer dans son tronc !&quot;</em></li>\n</ul>\n<p>Elle est capable d'enchaîner un solo de maracas de 45 minutes sans jamais cligner des yeux.</p>\n"
         },
         oc: {
           title: "Dama Caüs & sas Maracas",
-          category: "Fanfara",
-          troupe: "La Batucada de la Nuèch",
+          category: "Personatges",
           accessoire: "Aglands gigants tornats en maracas",
           cri: "ÒU-ÒU CHA-CHA !",
           description: "### La diva de las plumas lusentas\n\nAbitualament plan seriosa pendent lo jorn, Dama Caüs se transforma tre que lo solelh s'acaba en menaira de revista ritmada e folha.\n\n* **Costum :** Un bòbl en likèn iridescent e un bonet fabricat amb un nis de gaja garnit de plumas de pavon.\n* **Devisa :** *\"Val mai brandar sas plumas que gemir dins un tronc vièlh!\"*\n\nEs capabla de téner un solo de maracas pendent tres quarts d'ora sens sarrar jamai los uèlhs.\n"
@@ -414,16 +404,14 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         image: "https://images.unsplash.com/photo-1507666405895-422efe7d517f?auto=format&fit=crop&w=800&q=80",
         fr: {
           title: "Barnabé le Blaireau Trompettiste",
-          category: "Fanfare",
-          troupe: "Les Cuivres de la Tanière",
+          category: "Histoire",
           accessoire: "Trompette en écorce d'aulne",
           cri: "TUT-TUT-POUET !",
           description: "<h3>Le souffle le plus puissant de la forêt</h3>\n<p>Barnabé souffle tellement fort dans sa corne d'écorce qu'il décoiffe systématiquement les lapins situés dans un rayon de six mètres.</p>\n<blockquote>\n<p><em>&quot;Le jazz manouche des bois, ça ne s'apprend pas au conservatoire, ça se hurle au fond d'un terrier !&quot;</em></p>\n</blockquote>\n<h4>Anecdote croustillante :</h4>\n<p>Un écureuil distrait avait caché ses réserves d'hiver dans le pavillon de sa trompette. Résultat : une volée de 85 glands a bombardé le jury du défilé. 10/10 pour l'ambiance !</p>\n"
         },
         oc: {
           title: "Barnabé lo Taisson Trompetaire",
-          category: "Fanfara",
-          troupe: "Los Aramats del Cròs",
+          category: "Istòria",
           accessoire: "Trompeta d'escòrça de vèrnhe",
           cri: "TUT-TUT-POT !",
           description: "### Lo buf mai poderós de tota la selva\n\nBarnabé bufa tant fòrt dins son còrn d'escòrça que descofis totes los conilhs situats a sièis mètres a l'entorn.\n\n> *\"Lo jazz manouche dels bòsques s'apren pas dins un conservatòri, se crida al fons d'un trauc!\"*\n\n#### Anecdòta sabrosa :\nUn esquiròl aviá amagat sas provisions d'ivèrn dins la campana de sa trompeta. Durant lo solo de dubertura, una ploja d'85 calhaus a bombardat los jutges del concors. 10/10 per la fòrça e lo rire!\n"
@@ -437,16 +425,14 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         image: "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
         fr: {
           title: "Princesse Rainette des Nénuphars",
-          category: "Costume",
-          troupe: "L'Ordre du Marais Guilleret",
+          category: "Histoire",
           accessoire: "Couronne en fleur de lotus & Tutu de prêle",
           cri: "COÂÂÂ COÂÂÂ GLAM !",
           description: "<h3>La Haute Couture batracienne</h3>\n<p>Installée fièrement sur sa brouette recouverte de mousse d'Irlande, Rainette salue la foule d'un geste auguste de la patte palmée.</p>\n<ul>\n<li><strong>Costume :</strong> Une traîne de 4 mètres tissée en toiles d'araignées scintillantes de rosée du matin.</li>\n<li><strong>Exigence de star :</strong> Ne boit que de l'eau d'orage filtrée par un filtre de fougère.</li>\n<li><strong>Gala :</strong> Elle a promis d'embrasser un crapaud déguisé en prince si le cortège atteint la mare avant minuit.</li>\n</ul>\n"
         },
         oc: {
           title: "Princessa Raineta dels Nenufars",
-          category: "Costum",
-          troupe: "L'Òrdre del Palun Gaujós",
+          category: "Istòria",
           accessoire: "Corona en flor de loto & Tutú d'escurada",
           cri: "COAÂÂ COAÂÂ GLAM !",
           description: "### La Nauta Costura de l'aiga viva\n\nAssetada fierament sus sa carretòla cubèrta de molsa verda, Raineta saluda lo pòble amb un fial de pateta doça.\n\n* **Costum :** Una vesta de 4 mètres teissuda amb de telas d'aranha lusentas de rosada.\n* **Exigéncia d'estela :** Bòu pas que d'aiga de tròn filtrada per un rastèl de falguièra.\n* **Fèsta :** A promés de potonar un grapaud deguisat en prince se lo cortègi arriba al gorg abans mièjanuèch.\n"
@@ -460,16 +446,14 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         image: "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=800&q=80",
         fr: {
           title: "Gaspard et le Char Noisette",
-          category: "Char",
-          troupe: "Les Chapardeurs Échevelés",
+          category: "Infos utiles",
           accessoire: "Canon propulseur de pop-corn au miel",
           cri: "KRIII-KRIII !",
           description: "<h3>Le plus grand stock de friandises du défilé</h3>\n<p>Gaspard a vidé tous les greniers de la région pour construire ce char en forme de gland doré à la feuille.</p>\n<h4>Déroulement de sa parade :</h4>\n<ol>\n<li>Gaspard lance des noisettes pralinées sur les spectateurs ravis.</li>\n<li>Sa queue rousse est coiffée en banane rock'n'roll avec de la résine de pin.</li>\n<li>Il s'arrête toutes les 3 minutes pour vérifier s'il n'a pas oublié une cachette sous une racine.</li>\n</ol>\n"
         },
         oc: {
           title: "Gaspard e lo Carri Nogueta",
-          category: "Carri",
-          troupe: "Los Rafaires Espelofats",
+          category: "Infos practicas",
           accessoire: "Canon projèctor de blat pop al mèl",
           cri: "CRII-CRII !",
           description: "### La resèrva màger de confisariás del desfilat\n\nGaspard a voidat totes los graners d'avellanetas del país per montar son carri daurat.\n\n#### Debanament de la parada :\n1. Gaspard geta de noses caramelizadas sus la fola enebriada.\n2. Sa coa rossa es pentinada en banana rock'n'roll amb de resina de pin.\n3. S'arrèsta cada tres minutas per verificar s'a pas doblidat una resèrva sota una raiç vièlha.\n"
@@ -480,48 +464,48 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
 
     const UI_I18N = {
       fr: {
-        pageTitle: "🎪 Carnaval de la Forêt — Le Grand Défilé",
-        headerTitle: "Carnaval de la Forêt",
+        pageTitle: "🎪 Carnaval de Lasseube — Le Grand Défilé",
+        headerTitle: "Carnaval de Lasseube",
         headerSubtitle: "Costumes loufoques & créatures déchaînées !",
-        galleryTitle: "Les Vignettes Déjantées du Grand Défilé",
+        galleryTitle: "Plonger dans l'univers du Carnaval de Lasseube",
         gallerySubtitle: "Cliquez sur un dessin penché pour lire son histoire secrète !",
-        filterLabel: "Troupes :",
+        filterLabel: "Catégories :",
         catAll: "Tous",
-        catCostume: "🎭 Costumes",
-        catChar: "🚜 Chars",
-        catFanfare: "🎺 Fanfares",
+        catPersonnages: "🎭 Personnages",
+        catHistoire: "📜 Histoire",
+        catFaireCarnaval: "🎉 Faire Carnaval",
+        catInfosUtiles: "ℹ️ Infos utiles",
         discoverBtn: "Découvrir l'histoire 📜",
         backBtn: "Retour au Défilé",
         prevBtn: "Précédent",
         nextBtn: "Suivant",
         confettiLabel: "Confettis !",
         footerQuote: "🎪 \"Aucun blaireau n'a été blessé durant les lancers de confettis.\" 🎪",
-        troupePrefix: "Troupe : ",
         criPrefix: "Cri : ",
-        emptyFilter: "Aucun participant trouvé pour cette troupe !",
+        emptyFilter: "Aucun participant trouvé pour cette catégorie !",
         editoMore: "En savoir plus",
         editoLess: "Réduire la lecture"
       },
       oc: {
-        pageTitle: "🎪 Carnaval de la Selva — La Granda Parada",
-        headerTitle: "Carnaval de la Selva",
+        pageTitle: "🎪 Carnaval de La Seuva — La Granda Parada",
+        headerTitle: "Carnaval de La Seuva",
         headerSubtitle: "Costums esboirats & bèstias endiabladas !",
-        galleryTitle: "Las Vinhetas Esboiradas de la Granda Parada",
+        galleryTitle: "Plonjar dens l'univèrs deu Carnaval de La Seuva",
         gallerySubtitle: "Clicatz sus un dessenh clinat per legir son istòria secreta !",
-        filterLabel: "Tropas :",
+        filterLabel: "Categorias :",
         catAll: "Totes",
-        catCostume: "🎭 Costums",
-        catChar: "🚜 Carris",
-        catFanfare: "🎺 Fanfaras",
+        catPersonnages: "🎭 Personatges",
+        catHistoire: "📜 Istòria",
+        catFaireCarnaval: "🎉 Far Carnaval",
+        catInfosUtiles: "ℹ️ Infos practicas",
         discoverBtn: "Descobrir l'istòria 📜",
         backBtn: "Tornar a la Parada",
         prevBtn: "Precedent",
         nextBtn: "Seguent",
         confettiLabel: "Confetis !",
         footerQuote: "🎪 \"Cap de taisson foguèt pas ferit durant los getons de confetis.\" 🎪",
-        troupePrefix: "Tropa : ",
         criPrefix: "Crit : ",
-        emptyFilter: "Cap de participant trobat per aquesta tropa !",
+        emptyFilter: "Cap de participant trobat per aquesta categoria !",
         editoMore: "Ne saber mai",
         editoLess: "Reduire la lectura"
       }
@@ -598,9 +582,10 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
       document.getElementById('gallerySubtitle').textContent = t.gallerySubtitle;
       document.getElementById('filterLabel').textContent = t.filterLabel;
       document.getElementById('catAll').textContent = t.catAll;
-      document.getElementById('catCostume').textContent = t.catCostume;
-      document.getElementById('catChar').textContent = t.catChar;
-      document.getElementById('catFanfare').textContent = t.catFanfare;
+      document.getElementById('catPersonnages').textContent = t.catPersonnages;
+      document.getElementById('catHistoire').textContent = t.catHistoire;
+      document.getElementById('catFaireCarnaval').textContent = t.catFaireCarnaval;
+      document.getElementById('catInfosUtiles').textContent = t.catInfosUtiles;
       document.getElementById('backBtnLabel').textContent = t.backBtn;
       document.getElementById('prevBtnLabel').textContent = t.prevBtn;
       document.getElementById('nextBtnLabel').textContent = t.nextBtn;
@@ -622,7 +607,7 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
 
       const filtered = currentFilter === 'all'
         ? CARNAVAL_DATA
-        : CARNAVAL_DATA.filter(item => item.fr.category.toLowerCase() === currentFilter.toLowerCase());
+        : CARNAVAL_DATA.filter(item => (item.fr && item.fr.category && item.fr.category.trim().toLowerCase() === currentFilter.trim().toLowerCase()));
 
       if (filtered.length === 0) {
         grid.innerHTML = `
@@ -648,8 +633,9 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         };
 
         let badgeColor = 'bg-mushroom-500';
-        if (art.fr.category === 'Char') badgeColor = 'bg-festive-orange';
-        if (art.fr.category === 'Fanfare') badgeColor = 'bg-festive-teal';
+        if (art.fr.category === 'Histoire') badgeColor = 'bg-festive-orange';
+        if (art.fr.category === 'Faire Carnaval') badgeColor = 'bg-festive-teal';
+        if (art.fr.category === 'Infos utiles') badgeColor = 'bg-moss-700';
 
         card.innerHTML = `
           <div>
@@ -665,9 +651,6 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
             <h3 class="font-title text-lg sm:text-xl font-black text-bark-900 group-hover:text-mushroom-600 transition-colors">
               ${itemData.title}
             </h3>
-            <p class="text-xs font-hand text-base sm:text-lg text-moss-700 mt-0.5">
-              ${itemData.troupe}
-            </p>
           </div>
           <div class="mt-4 pt-3 border-t-2 border-dashed border-moss-200 flex items-center justify-between text-xs font-title font-bold text-festive-orange">
             <span>${t.discoverBtn}</span>
@@ -680,14 +663,22 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
       });
     }
 
-    function filterCategory(cat) {
+    function filterCategory(cat, ev) {
       currentFilter = cat;
       document.querySelectorAll('.cat-pill').forEach(btn => {
         btn.classList.remove('active', 'bg-firefly', 'text-bark-900');
         btn.classList.add('bg-foliage/80', 'text-white');
       });
-      event.currentTarget.classList.add('active', 'bg-firefly', 'text-bark-900');
-      event.currentTarget.classList.remove('bg-foliage/80', 'text-white');
+      if (ev && ev.currentTarget) {
+        ev.currentTarget.classList.add('active', 'bg-firefly', 'text-bark-900');
+        ev.currentTarget.classList.remove('bg-foliage/80', 'text-white');
+      } else {
+        const activeBtn = document.querySelector(`[onclick*="'${cat}'"]`) || document.getElementById('catAll');
+        if (activeBtn) {
+          activeBtn.classList.add('active', 'bg-firefly', 'text-bark-900');
+          activeBtn.classList.remove('bg-foliage/80', 'text-white');
+        }
+      }
       renderGallery();
     }
 
@@ -703,7 +694,6 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
 
       document.getElementById('detailImage').src = art.image;
       document.getElementById('detailTitle').textContent = data.title;
-      document.getElementById('detailTroupe').textContent = `${t.troupePrefix} ${data.troupe}`;
       document.getElementById('detailBadge').textContent = data.category;
       document.getElementById('detailAccessoire').innerHTML = `<i class="fa-solid fa-hat-cowboy mr-1 text-festive-orange"></i> ${data.accessoire}`;
       document.getElementById('detailCri').innerHTML = `<i class="fa-solid fa-bullhorn mr-1 text-mushroom-500"></i> ${t.criPrefix} ${data.cri}`;

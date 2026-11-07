@@ -5,14 +5,12 @@ tilt: "2.1deg"
 image: "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=800&q=80"
 fr:
   title: "Gaspard et le Char Noisette"
-  category: "Char"
-  troupe: "Les Chapardeurs Échevelés"
+  category: "Infos utiles"
   accessoire: "Canon propulseur de pop-corn au miel"
   cri: "KRIII-KRIII !"
 oc:
   title: "Gaspard e lo Carri Nogueta"
-  category: "Carri"
-  troupe: "Los Rafaires Espelofats"
+  category: "Infos practicas"
   accessoire: "Canon projèctor de blat pop al mèl"
   cri: "CRII-CRII !"
   description: |

@@ -5,14 +5,12 @@ tilt: "-2.5deg"
 image: "https://images.unsplash.com/photo-1574063413132-355dbfd83e25?auto=format&fit=crop&w=800&q=80"
 fr:
   title: "Dame Hulotte & ses Maracas"
-  category: "Fanfare"
-  troupe: "La Batucada Nocturne"
+  category: "Personnages"
   accessoire: "Glands géants transformés en maracas"
   cri: "HOU-HOU CHA-CHA !"
 oc:
   title: "Dama Caüs & sas Maracas"
-  category: "Fanfara"
-  troupe: "La Batucada de la Nuèch"
+  category: "Personatges"
   accessoire: "Aglands gigants tornats en maracas"
   cri: "ÒU-ÒU CHA-CHA !"
   description: |

@@ -5,14 +5,12 @@ tilt: "-2.5deg"
 image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80"
 fr:
   title: "Gontran le Hérisson Fluo"
-  category: "Costume"
-  troupe: "Les Piques-Fêtes"
+  category: "Personnages"
   accessoire: "Confettis plantés sur les piquants"
   cri: "Pik-A-Boum !"
 oc:
   title: "Gontran l'Erisson Fluo"
-  category: "Costum"
-  troupe: "Los Pica-Fèstas"
+  category: "Personatges"
   accessoire: "Confetis ficats sus las ponchas"
   cri: "Pik-A-Boc !"
   description: |
