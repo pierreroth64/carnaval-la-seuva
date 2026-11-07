@@ -274,7 +274,7 @@
           <button onclick="navigateArtwork(-1)" class="px-3.5 py-2 rounded-xl bg-moss-100 hover:bg-moss-200 text-moss-900 flex items-center gap-1.5 transition">
             <i class="fa-solid fa-chevron-left text-xs"></i> <span id="prevBtnLabel">Précédent</span>
           </button>
-          <span class="font-hand text-lg sm:text-2xl text-festive-orange hidden sm:inline">🌲 Danse sous les sapins ! 🌲</span>
+          <span class="font-hand text-lg sm:text-2xl text-festive-orange hidden sm:inline">🌳 La Seuva, lo noste vilatge 🌳</span>
           <button onclick="navigateArtwork(1)" class="px-3.5 py-2 rounded-xl bg-moss-100 hover:bg-moss-200 text-moss-900 flex items-center gap-1.5 transition">
             <span id="nextBtnLabel">Suivant</span> <i class="fa-solid fa-chevron-right text-xs"></i>
           </button>
@@ -335,148 +335,43 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
     const CARNAVAL_DATA = [
       
       {
-        id: "herisson-punk",
+        id: "laseuva",
         order: 1,
-        tilt: "-2.5deg",
-        image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
+        tilt: "-2.8deg",
+        image: "/images/la_seuva_vilatge.jpg",
         fr: {
-          title: "Gontran le Hérisson Fluo",
-          category: "Personnages",
-          accessoire: "Confettis plantés sur les piquants",
-          cri: "Pik-A-Boum !",
-          description: "<h3>Le roi de la teinture aux baies sauvages</h3>\n<p>Gontran a passé trois semaines à tremper chacune de ses 5 000 épines dans un jus concentré de framboise et de myrtilles sauvages. Résultat : une crête multicolore qui brille au clair de lune !</p>\n<blockquote>\n<p><em>&quot;Ne me serrez pas trop fort dans vos bras pendant la samba, je suis festif mais perforant !&quot;</em></p>\n</blockquote>\n<h4>Ses faits d'armes carnavalesques :</h4>\n<ul>\n<li>A accidentellement crevé 42 ballons de baudruche en se roulant par terre lors de la farandole.</li>\n<li>Porte des lunettes de soleil en coquilles de noisettes fumées.</li>\n<li>Champion incontesté de breakdance sur mousse humide.</li>\n</ul>\n"
-        },
-        oc: {
-          title: "Gontran l'Erisson Fluo",
-          category: "Personatges",
-          accessoire: "Confetis ficats sus las ponchas",
-          cri: "Pik-A-Boc !",
-          description: "### Lo rei de la tenchura a las baias sauvatjas\n\nGontran passèt tres setmanas a trempar caduna de sas 5 000 espinas dins un chuc concentrat d'amoras e de fragas sauvatjas. Resultat: una cresta multicolora que bria a la lutz de la luna!\n\n> *\"Me sarrètz pas tròp fòrt dins vòstres braces pendent la samba, soi de fèsta mas fòrça perforant!\"*\n\n#### Sos fachs d'armas de carnaval:\n* Trauquèt per azard 42 balons en se rotlant pel sòl durant la farandòla.\n* Pòrta de lunetas de solelh fachas amb de claucons de noses fumats.\n* Campion incontestat de breakdance sus la molsa humida.\n"
-        }
-      },
-      
-      {
-        id: "char-blaireau",
-        order: 2,
-        tilt: "2.8deg",
-        image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80",
-        fr: {
-          title: "Le Char du Grand Blaireau Fouisseur",
-          category: "Faire Carnaval",
-          accessoire: "Pelleteuse en bois & Canon à glands",
-          cri: "ON CREUSE L'AMBIANCE !",
-          description: "<h3>Le géant de bois et de branchages</h3>\n<p>Ce char monumental a été sculpté dans une souche de vieux chêne par la communauté des blaireaux des hauts bois. Lorsqu'il avance, ses pattes de bois articulées creusent le rythme de la farandole !</p>\n<pre><code>Fiche technique du char :\n- Motorisation : 4 paires de pattes et trois roues de charrette\n- Carburant : Jus de pomme fermenté\n- Capacité en confettis : 20 sacs d'aiguilles de pin dorées\n</code></pre>\n<p>Le masque principal crache des volutes de vapeur aromatisées au bois de sapin.</p>\n"
-        },
-        oc: {
-          title: "Lo Carri deu Gran Taisson Foronador",
-          category: "Far Carnaval",
-          accessoire: "Pala mecanica en fusta & Canon de calhaus",
-          cri: "FORONAM LA FÈSTA !",
-          description: "### Lo gigant de fusta e de brancas\n\nAqueste carri monumental es estat talhat dins una soca d'euse vièlh per la comunautat dels taissons dels bòsques nauts. Quand avança, sas patas de fusta articuladas cavan lo ritme de la farandòla!\n\n```\nFicha tecnica deu carri :\n- Motor : 4 parelhs de patas e tres ròdas de carreta\n- Propulsion : Chuc de poma fermentat\n- Capacitat de confetis : 20 sacs d'agulhas de pin dauradas\n```\n\nLa masqueta principala amaga un sistèma engenhós que fa sortir de fums de vapor aromatizada a la fusta d'avet.\n"
-        }
-      },
-      
-      {
-        id: "chouette-maracas",
-        order: 3,
-        tilt: "-2.5deg",
-        image: "https://images.unsplash.com/photo-1574063413132-355dbfd83e25?auto=format&fit=crop&w=800&q=80",
-        fr: {
-          title: "Dame Hulotte & ses Maracas",
-          category: "Personnages",
-          accessoire: "Glands géants transformés en maracas",
-          cri: "HOU-HOU CHA-CHA !",
-          description: "<h3>La diva aux plumes à paillettes</h3>\n<p>Habituellement très austère et philosophique le jour, Dame Hulotte se métamorphose dès 19h00 en meneuse de revue latino-forestière.</p>\n<ul>\n<li><strong>Son costume :</strong> Un boa en lichen fluo et une toque faite d'un nid de pie garni de plumes de paon.</li>\n<li><strong>Sa devise :</strong> <em>&quot;Mieux vaut secouer ses plumes que ruminer dans son tronc !&quot;</em></li>\n</ul>\n<p>Elle est capable d'enchaîner un solo de maracas de 45 minutes sans jamais cligner des yeux.</p>\n"
-        },
-        oc: {
-          title: "Dama Caüs & sas Maracas",
-          category: "Personatges",
-          accessoire: "Aglands gigants tornats en maracas",
-          cri: "ÒU-ÒU CHA-CHA !",
-          description: "### La diva de las plumas lusentas\n\nAbitualament plan seriosa pendent lo jorn, Dama Caüs se transforma tre que lo solelh s'acaba en menaira de revista ritmada e folha.\n\n* **Costum :** Un bòbl en likèn iridescent e un bonet fabricat amb un nis de gaja garnit de plumas de pavon.\n* **Devisa :** *\"Val mai brandar sas plumas que gemir dins un tronc vièlh!\"*\n\nEs capabla de téner un solo de maracas pendent tres quarts d'ora sens sarrar jamai los uèlhs.\n"
-        }
-      },
-      
-      {
-        id: "blaireau-trompette",
-        order: 4,
-        tilt: "3.2deg",
-        image: "https://images.unsplash.com/photo-1507666405895-422efe7d517f?auto=format&fit=crop&w=800&q=80",
-        fr: {
-          title: "Barnabé le Blaireau Trompettiste",
+          title: "La Seuva",
           category: "Histoire",
-          accessoire: "Trompette en écorce d'aulne",
-          cri: "TUT-TUT-POUET !",
-          description: "<h3>Le souffle le plus puissant de la forêt</h3>\n<p>Barnabé souffle tellement fort dans sa corne d'écorce qu'il décoiffe systématiquement les lapins situés dans un rayon de six mètres.</p>\n<blockquote>\n<p><em>&quot;Le jazz manouche des bois, ça ne s'apprend pas au conservatoire, ça se hurle au fond d'un terrier !&quot;</em></p>\n</blockquote>\n<h4>Anecdote croustillante :</h4>\n<p>Un écureuil distrait avait caché ses réserves d'hiver dans le pavillon de sa trompette. Résultat : une volée de 85 glands a bombardé le jury du défilé. 10/10 pour l'ambiance !</p>\n"
+          accessoire: "Costume de paille, toile de jute & chapeau conique",
+          cri: "Nas de taishon ? Taishon !!!",
+          description: "<h3>La figure emblématique de la fin de l'hiver</h3>\n<p>Vêtu d'une combinaison de toile de jute rembourrée de paille fraîche, le <strong>Palhassa</strong> est le gardien des traditions du Carnaval de Lasseube. Le visage maquillé aux couleurs du soleil et du feu (jaune et rouge), il ouvre la marche en sautillant et en chassant l'hiver.</p>\n<blockquote>\n<p><em>&quot;Ni froid ni peur : le Palhassa secoue sa paille pour réveiller la terre et appeler le renouveau printanier !&quot;</em></p>\n</blockquote>\n<h4>Ses attributs carnavalesques :</h4>\n<ul>\n<li>Son costume en sac d'emballage est confectionné à la main par les habitants.</li>\n<li>Il disperse quelques brins de paille sur son passage en guise de porte-bonheur.</li>\n</ul>\n"
         },
         oc: {
-          title: "Barnabé lo Taisson Trompetaire",
+          title: "La Seuva",
           category: "Istòria",
-          accessoire: "Trompeta d'escòrça de vèrnhe",
-          cri: "TUT-TUT-POT !",
-          description: "### Lo buf mai poderós de tota la selva\n\nBarnabé bufa tant fòrt dins son còrn d'escòrça que descofis totes los conilhs situats a sièis mètres a l'entorn.\n\n> *\"Lo jazz manouche dels bòsques s'apren pas dins un conservatòri, se crida al fons d'un trauc!\"*\n\n#### Anecdòta sabrosa :\nUn esquiròl aviá amagat sas provisions d'ivèrn dins la campana de sa trompeta. Durant lo solo de dubertura, una ploja d'85 calhaus a bombardat los jutges del concors. 10/10 per la fòrça e lo rire!\n"
-        }
-      },
-      
-      {
-        id: "grenouille-reine",
-        order: 5,
-        tilt: "-3.8deg",
-        image: "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
-        fr: {
-          title: "Princesse Rainette des Nénuphars",
-          category: "Histoire",
-          accessoire: "Couronne en fleur de lotus & Tutu de prêle",
-          cri: "COÂÂÂ COÂÂÂ GLAM !",
-          description: "<h3>La Haute Couture batracienne</h3>\n<p>Installée fièrement sur sa brouette recouverte de mousse d'Irlande, Rainette salue la foule d'un geste auguste de la patte palmée.</p>\n<ul>\n<li><strong>Costume :</strong> Une traîne de 4 mètres tissée en toiles d'araignées scintillantes de rosée du matin.</li>\n<li><strong>Exigence de star :</strong> Ne boit que de l'eau d'orage filtrée par un filtre de fougère.</li>\n<li><strong>Gala :</strong> Elle a promis d'embrasser un crapaud déguisé en prince si le cortège atteint la mare avant minuit.</li>\n</ul>\n"
-        },
-        oc: {
-          title: "Princessa Raineta dels Nenufars",
-          category: "Istòria",
-          accessoire: "Corona en flor de loto & Tutú d'escurada",
-          cri: "COAÂÂ COAÂÂ GLAM !",
-          description: "### La Nauta Costura de l'aiga viva\n\nAssetada fierament sus sa carretòla cubèrta de molsa verda, Raineta saluda lo pòble amb un fial de pateta doça.\n\n* **Costum :** Una vesta de 4 mètres teissuda amb de telas d'aranha lusentas de rosada.\n* **Exigéncia d'estela :** Bòu pas que d'aiga de tròn filtrada per un rastèl de falguièra.\n* **Fèsta :** A promés de potonar un grapaud deguisat en prince se lo cortègi arriba al gorg abans mièjanuèch.\n"
-        }
-      },
-      
-      {
-        id: "ecureuil-glouton",
-        order: 6,
-        tilt: "2.1deg",
-        image: "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=800&q=80",
-        fr: {
-          title: "Gaspard et le Char Noisette",
-          category: "Infos utiles",
-          accessoire: "Canon propulseur de pop-corn au miel",
-          cri: "KRIII-KRIII !",
-          description: "<h3>Le plus grand stock de friandises du défilé</h3>\n<p>Gaspard a vidé tous les greniers de la région pour construire ce char en forme de gland doré à la feuille.</p>\n<h4>Déroulement de sa parade :</h4>\n<ol>\n<li>Gaspard lance des noisettes pralinées sur les spectateurs ravis.</li>\n<li>Sa queue rousse est coiffée en banane rock'n'roll avec de la résine de pin.</li>\n<li>Il s'arrête toutes les 3 minutes pour vérifier s'il n'a pas oublié une cachette sous une racine.</li>\n</ol>\n"
-        },
-        oc: {
-          title: "Gaspard e lo Carri Nogueta",
-          category: "Infos practicas",
-          accessoire: "Canon projèctor de blat pop al mèl",
-          cri: "CRII-CRII !",
-          description: "### La resèrva màger de confisariás del desfilat\n\nGaspard a voidat totes los graners d'avellanetas del país per montar son carri daurat.\n\n#### Debanament de la parada :\n1. Gaspard geta de noses caramelizadas sus la fola enebriada.\n2. Sa coa rossa es pentinada en banana rock'n'roll amb de resina de pin.\n3. S'arrèsta cada tres minutas per verificar s'a pas doblidat una resèrva sota una raiç vièlha.\n"
+          accessoire: "Costum de palha, tela de bruta & capèth",
+          cri: "Nas de taishon ? Taishon !!!",
+          description: "### La figura emblematica de la fin de l'ivèrn\n\nVestit de sacs de jute e clafit de palha d'avena, lo **Palhassa** es lo personatge centrau de la mascarada tradicionau de La Seuva. Amb lo son visatge pench de roge e de jaune, que sauva e que branda l'esperit de la prima que torna.\n\n> *\"Ni fred ni crenta : lo Palhassa que hè petar la joena e que caça las ombras deu bòsc !\"*\n\n#### Los sons secrets :\n* Lo son costum es fach a la man cada an amb de sacs d'agriculteurs deu vilatge.\n* Semena bocins de palha per tot lo cors deu desfilat per portar bona sòrt.\n"
         }
       },
       
       {
         id: "palhassa",
-        order: 7,
+        order: 5,
         tilt: "-2.8deg",
         image: "/images/palhassa.jpg",
         fr: {
-          title: "Le Palhassa",
+          title: "Lo Palhassa",
           category: "Personnages",
           accessoire: "Costume de paille, toile de jute & chapeau conique",
-          cri: "ÒP-ÒP-ÒP !",
+          cri: "Honhar !",
           description: "<h3>La figure emblématique de la fin de l'hiver</h3>\n<p>Vêtu d'une combinaison de toile de jute rembourrée de paille fraîche, le <strong>Palhassa</strong> est le gardien des traditions du Carnaval de Lasseube. Le visage maquillé aux couleurs du soleil et du feu (jaune et rouge), il ouvre la marche en sautillant et en chassant l'hiver.</p>\n<blockquote>\n<p><em>&quot;Ni froid ni peur : le Palhassa secoue sa paille pour réveiller la terre et appeler le renouveau printanier !&quot;</em></p>\n</blockquote>\n<h4>Ses attributs carnavalesques :</h4>\n<ul>\n<li>Son costume en sac d'emballage est confectionné à la main par les habitants.</li>\n<li>Il disperse quelques brins de paille sur son passage en guise de porte-bonheur.</li>\n</ul>\n"
         },
         oc: {
           title: "Lo Palhassa",
           category: "Personatges",
           accessoire: "Costum de palha, tela de bruta & capèth",
-          cri: "ÒP-ÒP-ÒP !",
+          cri: "Honhar !",
           description: "### La figura emblematica de la fin de l'ivèrn\n\nVestit de sacs de jute e clafit de palha d'avena, lo **Palhassa** es lo personatge centrau de la mascarada tradicionau de La Seuva. Amb lo son visatge pench de roge e de jaune, que sauva e que branda l'esperit de la prima que torna.\n\n> *\"Ni fred ni crenta : lo Palhassa que hè petar la joena e que caça las ombras deu bòsc !\"*\n\n#### Los sons secrets :\n* Lo son costum es fach a la man cada an amb de sacs d'agriculteurs deu vilatge.\n* Semena bocins de palha per tot lo cors deu desfilat per portar bona sòrt.\n"
         }
       },
@@ -519,6 +414,27 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
           category: "Personatges",
           accessoire: "Costum de palha, tela de bruta & capèth",
           cri: "ÒP-ÒP-ÒP !",
+          description: "### La figura emblematica de la fin de l'ivèrn\n\nVestit de sacs de jute e clafit de palha d'avena, lo **Palhassa** es lo personatge centrau de la mascarada tradicionau de La Seuva. Amb lo son visatge pench de roge e de jaune, que sauva e que branda l'esperit de la prima que torna.\n\n> *\"Ni fred ni crenta : lo Palhassa que hè petar la joena e que caça las ombras deu bòsc !\"*\n\n#### Los sons secrets :\n* Lo son costum es fach a la man cada an amb de sacs d'agriculteurs deu vilatge.\n* Semena bocins de palha per tot lo cors deu desfilat per portar bona sòrt.\n"
+        }
+      },
+      
+      {
+        id: "sentpancard",
+        order: 8,
+        tilt: "-2.8deg",
+        image: "/images/sent_pancard.jpg",
+        fr: {
+          title: "Sent Pançard",
+          category: "Personnages",
+          accessoire: "Couronne flamboyante, collier de saucisses & sceptre",
+          cri: "Avisatz-ve... Que torni !",
+          description: "<h3>La figure emblématique de la fin de l'hiver</h3>\n<p>Vêtu d'une combinaison de toile de jute rembourrée de paille fraîche, le <strong>Palhassa</strong> est le gardien des traditions du Carnaval de Lasseube. Le visage maquillé aux couleurs du soleil et du feu (jaune et rouge), il ouvre la marche en sautillant et en chassant l'hiver.</p>\n<blockquote>\n<p><em>&quot;Ni froid ni peur : le Palhassa secoue sa paille pour réveiller la terre et appeler le renouveau printanier !&quot;</em></p>\n</blockquote>\n<h4>Ses attributs carnavalesques :</h4>\n<ul>\n<li>Son costume en sac d'emballage est confectionné à la main par les habitants.</li>\n<li>Il disperse quelques brins de paille sur son passage en guise de porte-bonheur.</li>\n</ul>\n"
+        },
+        oc: {
+          title: "Sent Pançard",
+          category: "Personatges",
+          accessoire: "Costum de palha, tela de bruta & capèth",
+          cri: "Avisatz-ve... Que torni !",
           description: "### La figura emblematica de la fin de l'ivèrn\n\nVestit de sacs de jute e clafit de palha d'avena, lo **Palhassa** es lo personatge centrau de la mascarada tradicionau de La Seuva. Amb lo son visatge pench de roge e de jaune, que sauva e que branda l'esperit de la prima que torna.\n\n> *\"Ni fred ni crenta : lo Palhassa que hè petar la joena e que caça las ombras deu bòsc !\"*\n\n#### Los sons secrets :\n* Lo son costum es fach a la man cada an amb de sacs d'agriculteurs deu vilatge.\n* Semena bocins de palha per tot lo cors deu desfilat per portar bona sòrt.\n"
         }
       }

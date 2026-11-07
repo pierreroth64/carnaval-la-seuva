@@ -1,18 +1,18 @@
 ---
 id: "palhassa"
-order: 7
+order: 5
 tilt: "-2.8deg"
 image: "/images/palhassa.jpg"
 fr:
-  title: "Le Palhassa"
+  title: "Lo Palhassa"
   category: "Personnages"
   accessoire: "Costume de paille, toile de jute & chapeau conique"
-  cri: "ÒP-ÒP-ÒP !"
+  cri: "Honhar !"
 oc:
   title: "Lo Palhassa"
   category: "Personatges"
   accessoire: "Costum de palha, tela de bruta & capèth"
-  cri: "ÒP-ÒP-ÒP !"
+  cri: "Honhar !"
   description: |
     ### La figura emblematica de la fin de l'ivèrn
 
