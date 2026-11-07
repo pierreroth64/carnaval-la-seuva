@@ -211,7 +211,7 @@
       <button onclick="filterCategory('Personnages', event)" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catPersonnages">🎭 Personnages</button>
       <button onclick="filterCategory('Histoire', event)" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catHistoire">📜 Histoire</button>
       <button onclick="filterCategory('Faire Carnaval', event)" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catFaireCarnaval">🎉 Faire Carnaval</button>
-      <button onclick="filterCategory('Infos utiles', event)" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catInfosUtiles">ℹ️ Infos utiles</button>
+      <button onclick="filterCategory('Infos pratiques', event)" class="cat-pill px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catInfosPratiques">ℹ️ Infos pratiques</button>
     </div>
   </div>
 
@@ -222,9 +222,6 @@
         <h2 id="galleryTitle" class="text-2xl sm:text-4xl font-title font-black text-firefly drop-shadow-md">
           Plonger dans l'univers du Carnaval de Lasseube
         </h2>
-        <p id="gallerySubtitle" class="text-moss-100 text-xs sm:text-sm mt-1 sm:mt-2 font-body">
-          Cliquez sur un dessin penché pour lire son histoire secrète !
-        </p>
       </div>
 
       <div id="drawingsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-10 pt-2 pb-12"></div>
@@ -398,22 +395,43 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
       },
       
       {
-        id: "palhassa",
+        id: "palhassas",
         order: 5,
         tilt: "-2.8deg",
-        image: "/images/palhassa.jpg",
+        image: "/images/palhassas.jpg",
         fr: {
-          title: "Lo Palhassa",
+          title: "Los Palhassa",
           category: "Personnages",
-          accessoire: "Costume de paille, toile de jute & chapeau conique",
+          accessoire: "Costume en toile de jute & chapeau de paille",
           cri: "Honhar !",
-          description: "<h3>La figure emblématique de la fin de l'hiver</h3>\n<p>Vêtu d'une combinaison de toile de jute rembourrée de paille fraîche, le <strong>Palhassa</strong> est le gardien des traditions du Carnaval de Lasseube. Le visage maquillé aux couleurs du soleil et du feu (jaune et rouge), il ouvre la marche en sautillant et en chassant l'hiver.</p>\n<blockquote>\n<p><em>&quot;Ni froid ni peur : le Palhassa secoue sa paille pour réveiller la terre et appeler le renouveau printanier !&quot;</em></p>\n</blockquote>\n<h4>Ses attributs carnavalesques :</h4>\n<ul>\n<li>Son costume en sac d'emballage est confectionné à la main par les habitants.</li>\n<li>Il disperse quelques brins de paille sur son passage en guise de porte-bonheur.</li>\n</ul>\n"
+          description: "<h3>Qui sont-ils ?</h3>\n<p>Vêtus &quot;d'uniformes&quot; de toile de jute rembourrés de paille fraîche, les <strong>Palhassas</strong> sont les gardes du corps de Sent Pançard. Ces personnages imposants et bruyants aux visages peints de rouge et jaune, couleurs du béarn, ne sont certes pas des prix nobels mais sont de fidèles serviteurs de Sa Majesté. Il n'hésiteront pas à défier les gendarmes pour entrer en force dans le village et porter à bout de bras leur Roi.</p>\n<blockquote>\n<p><em>&quot;Avisatz-vse aus palhassas ! (proverbe à trouver)&quot;</em></p>\n</blockquote>\n<h3>Leurs caractéristiques :</h3>\n<ul>\n<li>Un peu (beaucoup !) bêtat.</li>\n<li>Costaud et bagarreur</li>\n<li>Mais coeur tendre et influençable</li>\n<li>Suit le même régime strict que Sent Pançard</li>\n</ul>\n"
         },
         oc: {
-          title: "Lo Palhassa",
+          title: "Los Palhassas",
           category: "Personatges",
-          accessoire: "Costum de palha, tela de bruta & capèth",
+          accessoire: "Costum de tela de bruta & capèth de palha",
           cri: "Honhar !",
+          description: "### La figura emblematica de la fin de l'ivèrn\n\nVestit de sacs de jute e clafit de palha d'avena, lo **Palhassa** es lo personatge centrau de la mascarada tradicionau de La Seuva. Amb lo son visatge pench de roge e de jaune, que sauva e que branda l'esperit de la prima que torna.\n\n> *\"Ni fred ni crenta : lo Palhassa que hè petar la joena e que caça las ombras deu bòsc !\"*\n\n#### Los sons secrets :\n* Lo son costum es fach a la man cada an amb de sacs d'agriculteurs deu vilatge.\n* Semena bocins de palha per tot lo cors deu desfilat per portar bona sòrt.\n"
+        }
+      },
+      
+      {
+        id: "minjar",
+        order: 6,
+        tilt: "-2.8deg",
+        image: "/images/minjar.jpg",
+        fr: {
+          title: "Où et quoi manger ?",
+          category: "Infos pratiques",
+          accessoire: "",
+          cri: "",
+          description: "<h3>Un repas populaire</h3>\n<p>Un repas populaire est proposé aux carnavaliers à la salle polyvalente, lieu d'arrivée du défilé. Volontairement bon marché, il permettra - nous l'espérons - à tout le monde de profiter d'un bon moment ensemble pour se réchauffer quel que soit la profondeur de son porte-monnaie</p>\n<h3>Pour les adultes (10 €)</h3>\n<p>Un plateau avec...</p>\n<ul>\n<li>Un bol de garbure améliorée</li>\n<li>Un verre de vin</li>\n<li>Un morceau de pain</li>\n<li>2 tranches de fromage du pays</li>\n<li>1 part de Pastis</li>\n<li>1 café</li>\n</ul>\n<h3>Pour les enfants (5 €)</h3>\n<p>Un sachet comprenant...</p>\n<ul>\n<li>un sandwich</li>\n<li>un paquet de chips</li>\n<li>une boisson</li>\n<li>quelques bonbons</li>\n</ul>\n"
+        },
+        oc: {
+          title: "Ont e que minjar ?",
+          category: "Infòs practicas",
+          accessoire: "",
+          cri: "",
           description: "### La figura emblematica de la fin de l'ivèrn\n\nVestit de sacs de jute e clafit de palha d'avena, lo **Palhassa** es lo personatge centrau de la mascarada tradicionau de La Seuva. Amb lo son visatge pench de roge e de jaune, que sauva e que branda l'esperit de la prima que torna.\n\n> *\"Ni fred ni crenta : lo Palhassa que hè petar la joena e que caça las ombras deu bòsc !\"*\n\n#### Los sons secrets :\n* Lo son costum es fach a la man cada an amb de sacs d'agriculteurs deu vilatge.\n* Semena bocins de palha per tot lo cors deu desfilat per portar bona sòrt.\n"
         }
       },
@@ -446,14 +464,13 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         pageTitle: "🎪 Carnaval Biarnés de Lasseube",
         headerTitle: "Carnaval Biarnés de La Seuva",
         headerSubtitle: "Carnaval Pyrénéen, le 30 janvier 2027 !",
-        galleryTitle: "Plonger dans l'univers du Carnaval de Lasseube",
-        gallerySubtitle: "Cliquez sur une vignette pour lire son histoire secrète !",
+        galleryTitle: "Plongez dans l'univers du Carnaval Béarnais de Lasseube",
         filterLabel: "Catégories :",
         catAll: "Tous",
         catPersonnages: "🎭 Personnages",
         catHistoire: "📜 Histoire",
         catFaireCarnaval: "🎉 Faire Carnaval",
-        catInfosUtiles: "ℹ️ Infos utiles",
+        catInfosPratiques: "ℹ️ Infos pratiques",
         discoverBtn: "Découvrir 📜",
         backBtn: "Retour",
         prevBtn: "Précédent",
@@ -469,14 +486,13 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
         pageTitle: "🎪 Carnaval Biarnés de La Seuva",
         headerTitle: "Carnaval Biarnés de La Seuva",
         headerSubtitle: "Carnaval Pireneenc, lo 30 de genèr 2027 !",
-        galleryTitle: "Plonjar dens l'univèrs deu Carnaval de La Seuva",
-        gallerySubtitle: "Clicatz sus un dessenh tà léger la soa istòria secreta !",
+        galleryTitle: "Plonjatz dens l'univèrs deu Carnaval Biarnés de La Seuva",
         filterLabel: "Categorias :",
         catAll: "Totas",
         catPersonnages: "🎭 Personatges",
         catHistoire: "📜 Istòria",
         catFaireCarnaval: "🎉 Har Carnaval",
-        catInfosUtiles: "ℹ️ Infòs practicas",
+        catInfosPratiques: "ℹ️ Infòs practicas",
         discoverBtn: "Descobrir 📜",
         backBtn: "Tornar",
         prevBtn: "Precedent",
@@ -558,13 +574,12 @@ Que siatz erisson ponchut cercant la samba, raineta afisada a la nauta costura d
       document.getElementById('headerTitle').childNodes[0].nodeValue = t.headerTitle + ' ';
       document.getElementById('headerSubtitle').textContent = t.headerSubtitle;
       document.getElementById('galleryTitle').textContent = t.galleryTitle;
-      document.getElementById('gallerySubtitle').textContent = t.gallerySubtitle;
       document.getElementById('filterLabel').textContent = t.filterLabel;
       document.getElementById('catAll').textContent = t.catAll;
       document.getElementById('catPersonnages').textContent = t.catPersonnages;
       document.getElementById('catHistoire').textContent = t.catHistoire;
       document.getElementById('catFaireCarnaval').textContent = t.catFaireCarnaval;
-      document.getElementById('catInfosUtiles').textContent = t.catInfosUtiles;
+      document.getElementById('catInfosPratiques').textContent = t.catInfosPratiques;
       document.getElementById('backBtnLabel').textContent = t.backBtn;
       document.getElementById('prevBtnLabel').textContent = t.prevBtn;
       document.getElementById('nextBtnLabel').textContent = t.nextBtn;
