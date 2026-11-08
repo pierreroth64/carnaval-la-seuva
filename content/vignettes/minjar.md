@@ -14,15 +14,27 @@ oc:
   accessoire: ""
   cri: ""
   description: |
-    ### La figura emblematica de la fin de l'ivèrn
+    ### Un repaish populari
 
-    Vestit de sacs de jute e clafit de palha d'avena, lo **Palhassa** es lo personatge centrau de la mascarada tradicionau de La Seuva. Amb lo son visatge pench de roge e de jaune, que sauva e que branda l'esperit de la prima que torna.
+    Un repas populari qu'ei prepausaat aus carnavalèrs a la sala polyvalenta, loc d'arribada deu passei. Volontàriament bon mercat, que permeterà - que l'esperam - a tot lo monde de profieitar d'un bon moment tots amassa entà's rescauhar quau que sia la pregondor deu son porta moneda
 
-    > *"Ni fred ni crenta : lo Palhassa que hè petar la joena e que caça las ombras deu bòsc !"*
+    ### Taus adultes (10 €)
 
-    #### Los sons secrets :
-    * Lo son costum es fach a la man cada an amb de sacs d'agriculteurs deu vilatge.
-    * Semena bocins de palha per tot lo cors deu desfilat per portar bona sòrt.
+    Un platèu dab...
+    * Ua bola de garbura melhorada
+    * Un veire de vin
+    * Un troç de pan
+    * 2 talhucs de hromatge deu pais
+    * 1 part de Pastis
+    * 1 cafè
+
+    ### Taus mainats (5 €)
+
+    Un sachet dab...
+    * un enterpan
+    * un paquet de chips
+    * ua bebuda
+    * quauques bonbons
 ---
 
 ### Un repas populaire
