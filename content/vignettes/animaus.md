@@ -4,12 +4,12 @@ order: 3
 tilt: "-2.8deg"
 image: "/images/animaus.jpg"
 fr:
-  title: "Les enfants en animaus"
+  title: "Les enfants en animaux !"
   category: "Faire Carnaval"
   accessoire: "Costume de paille, toile de jute & chapeau conique"
   cri: "Yahaaaa !"
 oc:
-  title: "Los mainats en animaus"
+  title: "Los mainats en animaus !"
   category: "Har Carnaval"
   accessoire: "Costum de palha, tela de bruta & capèth"
   cri: "Yahaaaa !"
