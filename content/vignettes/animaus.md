@@ -6,31 +6,39 @@ image: "/images/animaus.jpg"
 fr:
   title: "Les enfants en animaux !"
   category: "Faire Carnaval"
-  accessoire: "Costume de paille, toile de jute & chapeau conique"
-  cri: "Yahaaaa !"
+  accessoire: "Costumes d'animaux, maquillage"
+  cri: "Visca carnaval !"
 oc:
   title: "Los mainats en animaus !"
   category: "Har Carnaval"
   accessoire: "Costum de palha, tela de bruta & capèth"
-  cri: "Yahaaaa !"
+  cri: "Visca carnaval !"
   description: |
-    ### La figura emblematica de la fin de l'ivèrn
+    ### Los mainats en animaus de la seuva
 
-    Vestit de sacs de jute e clafit de palha d'avena, lo **Palhassa** es lo personatge centrau de la mascarada tradicionau de La Seuva. Amb lo son visatge pench de roge e de jaune, que sauva e que branda l'esperit de la prima que torna.
+    La Seuva que porta plan lo son nom. Majestuosa, la seuva qu'enviroa calorosament lo noste vilatge. Dens los sons mantuns recantons, los animaus que s'esconen.
 
-    > *"Ni fred ni crenta : lo Palhassa que hè petar la joena e que caça las ombras deu bòsc !"*
+    Lo dia deu Carnaval de La Seuva que son tots de sortida ! Esquirous, cabirous, taishons, ausèths, vops, etc... Tots que sorteishen deu bosc entà encanalhà's dens lo vilatge !
 
-    #### Los sons secrets :
-    * Lo son costum es fach a la man cada an amb de sacs d'agriculteurs deu vilatge.
-    * Semena bocins de palha per tot lo cors deu desfilat per portar bona sòrt.
+    ### Los costumas
+
+    Daubuns que profieiteràn de la pausa de Nadau entà sollicitar une mair bona costurèra 🪡... d'autes que voleràn a tot prètz confeccionar lo lor costuma tots sols. Ua cause de segura: las carrèras de La Seuva que seràn negadas de gaujos animaus de tota sorta e plan colorats !
+
+    ### A l'escola...
+
+    Los regents e la regentas que son au corrent: aqueth carnaval biarnés que va estar granàs. Que preparan dab los mainats dansas e cantas 🎶
 ---
 
-### La figure emblématique de la fin de l'hiver
+### Les enfants en animaux de la forêt
 
-Vêtu d'une combinaison de toile de jute rembourrée de paille fraîche, le **Palhassa** est le gardien des traditions du Carnaval de Lasseube. Le visage maquillé aux couleurs du soleil et du feu (jaune et rouge), il ouvre la marche en sautillant et en chassant l'hiver.
+Lasseube (La Seuva en Occitan) signifie la forêt. Majestueuse, elle entoure chaleureusement notre village. Dans ses multiples recoins, les animaux se cachent.
 
-> *"Ni froid ni peur : le Palhassa secoue sa paille pour réveiller la terre et appeler le renouveau printanier !"*
+Le jour du Carnaval de La Seuva ils sont tous de sortie ! Des écureuils, des chevreuils, des blaireaux, des oiseaux, des renards, etc... Tous sortent du bois pour s'encanailler dans le village !
 
-#### Ses attributs carnavalesques :
-* Son costume en sac d'emballage est confectionné à la main par les habitants.
-* Il disperse quelques brins de paille sur son passage en guise de porte-bonheur.
+### Les costumes
+
+Certains profiteront de la pause de Noël pour solliciter une mamie couturière 🪡... d'autres tiendront à confectionner leur costume tout seuls. Une chose est sûre: les rues de Lasseube seront envahies de joyeux animaux en tout genre et haut en couleur !
+
+### A l'école...
+
+Les maîtres et maîtresses sont au courant: ce carnaval biarnés va être grandiose. Ils préparent avec les enfants des danses et des chants 🎶
