@@ -4,12 +4,12 @@ order: 7
 tilt: "2.8deg"
 image: "/images/acces.jpg"
 fr:
-  title: "Comment venir, où se garer ?"
+  title: "Comment venir ?"
   category: "Infos pratiques"
   accessoire: ""
   cri: ""
 oc:
-  title: "Quin viéner, ont parcà's ?"
+  title: "Quin viéner ?"
   category: "Infòs practicas"
   accessoire: ""
   cri: ""

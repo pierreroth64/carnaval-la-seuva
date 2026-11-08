@@ -4,15 +4,15 @@ order: 3
 tilt: "-2.8deg"
 image: "/images/animaus.jpg"
 fr:
-  title: "Los animaus"
-  category: "Personnages"
+  title: "Les enfants en animaus"
+  category: "Faire Carnaval"
   accessoire: "Costume de paille, toile de jute & chapeau conique"
-  cri: "ÒP-ÒP-ÒP !"
+  cri: "Yahaaaa !"
 oc:
-  title: "Los animaus"
-  category: "Personatges"
+  title: "Los mainats en animaus"
+  category: "Har Carnaval"
   accessoire: "Costum de palha, tela de bruta & capèth"
-  cri: "ÒP-ÒP-ÒP !"
+  cri: "Yahaaaa !"
   description: |
     ### La figura emblematica de la fin de l'ivèrn
 

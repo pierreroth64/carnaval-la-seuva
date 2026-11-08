@@ -4,12 +4,12 @@ order: 6
 tilt: "2.8deg"
 image: "/images/minjar.jpg"
 fr:
-  title: "Où et quoi manger ?"
+  title: "Manger !"
   category: "Infos pratiques"
   accessoire: ""
   cri: ""
 oc:
-  title: "Ont e que minjar ?"
+  title: "Minjar !"
   category: "Infòs practicas"
   accessoire: ""
   cri: ""
