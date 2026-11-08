@@ -31,7 +31,7 @@ oc:
 ### Un programme copieux !
 
 * 16h30 : Rendez-vous sur la place du village, devant l'église (musique, danses)
-* 17h30 : Arrivée prévue de Sent Pançard... Franchira-t-il les portes du vilage ?
+* 17h30 : Arrivée prévue de Sent Pançard... Franchira-t-il les portes du village ?
 * 18h00 : Remise des clés du village par M. Le Maire
 * 18h15 : Défilé dans le village
 * 19h30 : Crémation des "Chepics"
