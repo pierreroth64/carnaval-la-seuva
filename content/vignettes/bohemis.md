@@ -4,7 +4,7 @@ order: 10
 tilt: "-2.8deg"
 image: "/images/bohemis.jpg"
 fr:
-  title: "Les parents en... végétaux ?"
+  title: "Les parents en... bohémiens ?"
   category: "Faire Carnaval"
   accessoire: "Costume de paille, toile de jute & chapeau conique"
   cri: "ÒP-ÒP-ÒP !"
