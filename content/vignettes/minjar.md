@@ -1,6 +1,6 @@
 ---
 id: "minjar"
-order: 6
+order: 13
 tilt: "2.8deg"
 image: "/images/minjar.jpg"
 fr:

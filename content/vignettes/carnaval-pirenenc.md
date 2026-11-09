@@ -1,17 +1,17 @@
 ---
-id: "laseuva"
+id: "carnavalpirenenc"
 order: 1
 tilt: "2.0deg"
 image: "/images/la_seuva_vilatge.jpg"
 fr:
-  title: "La Seuva"
+  title: "Un carnaval Pyrénéen"
   category: "Histoire"
-  accessoire: "Costume de paille, toile de jute & chapeau conique"
+  accessoire: ""
   cri: "Nas de taishon ? Taishon !!!"
 oc:
-  title: "La Seuva"
+  title: "Un carnaval Pirenenc"
   category: "Istòria"
-  accessoire: "Costum de palha, tela de bruta & capèth"
+  accessoire: ""
   cri: "Nas de taishon ? Taishon !!!"
   description: |
     ### La figura emblematica de la fin de l'ivèrn

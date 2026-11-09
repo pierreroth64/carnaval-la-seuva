@@ -1,6 +1,6 @@
 ---
 id: "bohemis"
-order: 10
+order: 6
 tilt: "-2.8deg"
 image: "/images/bohemis.jpg"
 fr:

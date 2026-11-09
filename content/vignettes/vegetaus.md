@@ -1,6 +1,6 @@
 ---
 id: "vegetaus"
-order: 4
+order: 8
 tilt: "-2.8deg"
 image: "/images/vegetaus.jpg"
 fr:
