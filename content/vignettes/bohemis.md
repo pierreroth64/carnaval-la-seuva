@@ -6,31 +6,35 @@ image: "/images/bohemis.jpg"
 fr:
   title: "Les parents en... bohémiens ?"
   category: "Faire Carnaval"
-  accessoire: "Costume de paille, toile de jute & chapeau conique"
-  cri: "ÒP-ÒP-ÒP !"
+  accessoire: "Boucle d'oreille, foulard dans les cheveux, chapeaux et vestons"
+  cri: "Carnaval qu'avè solièrs de papèr"
 oc:
   title: "Los pairs en... bohèmis ?"
   category: "Har Carnaval"
   accessoire: "Costum de palha, tela de bruta & capèth"
-  cri: "ÒP-ÒP-ÒP !"
+  cri: "Carnaval qu'avè solièrs de papèr"
   description: |
-    ### La figura emblematica de la fin de l'ivèrn
+    ### Perqué los "Bohèmis" ?
 
-    Vestit de sacs de jute e clafit de palha d'avena, lo **Palhassa** es lo personatge centrau de la mascarada tradicionau de La Seuva. Amb lo son visatge pench de roge e de jaune, que sauva e que branda l'esperit de la prima que torna.
+    Los adultas que poden causir de mascà's en **"Bohèmis"**. 
+    Los Bohèmis qu'èran mespresats e discriminats.
+    Atau, lo carnaval pirenenc que hasè plaça tad aquera classa sociau sovent praube per denonciar aquera praticas xenofobs e perméter d'aficar la loa cultura shens bergonha dens las carrèras.
 
-    > *"Ni fred ni crenta : lo Palhassa que hè petar la joena e que caça las ombras deu bòsc !"*
+    ### Los costumas
 
-    #### Los sons secrets :
-    * Lo son costum es fach a la man cada an amb de sacs d'agriculteurs deu vilatge.
-    * Semena bocins de palha per tot lo cors deu desfilat per portar bona sòrt.
+    Los mainats en animaus de la seuva, los adultes que poden jogar tanben !
+    Berojas pendents d'aurelha, "foulards" dens lo pèu e polidas raubas longas tà las daunas.
+    Chapèus e vestons taus mossurs, pantelons un drin bracs aconselhats tà mei de fantesia ! 
 ---
 
-### La figure emblématique de la fin de l'hiver
+### Pourquoi des "Bohémiens" ?
 
-Vêtu d'une combinaison de toile de jute rembourrée de paille fraîche, le **Palhassa** est le gardien des traditions du Carnaval de Lasseube. Le visage maquillé aux couleurs du soleil et du feu (jaune et rouge), il ouvre la marche en sautillant et en chassant l'hiver.
+Les adultes peuvent choisir de se déguiser en **"Bohèmis"** (Bohémiens). 
+Les Bohémiens étaient méprisés et discriminés.
+Ainsi, le carnaval pyrénéen faisait une place pour cette classe sociale souvent pauvre afin de dénoncer ces pratiques xénophobes et permettre d'afficher leur culture sans honte dans les rues.
 
-> *"Ni froid ni peur : le Palhassa secoue sa paille pour réveiller la terre et appeler le renouveau printanier !"*
+### Les costumes
 
-#### Ses attributs carnavalesques :
-* Son costume en sac d'emballage est confectionné à la main par les habitants.
-* Il disperse quelques brins de paille sur son passage en guise de porte-bonheur.
+Les enfants en animaux de la fôret, les adultes peuvent aussi se prendre au jeu !
+De belles boucles d'oreilles, des foulards dans les cheveux et de jolies robes longues pour ces dames.
+Des chapeaux et des vestons pour ces messieurs, pantalons un peu courts conseillés pour plus de fantaisie ! 
