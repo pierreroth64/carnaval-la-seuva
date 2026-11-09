@@ -6,31 +6,29 @@ image: "/images/carronha.jpg"
 fr:
   title: "Carronha"
   category: "Personnages"
-  accessoire: "Couronne flamboyante, collier de saucisses & sceptre"
+  accessoire: "Robe sombre, mouchoir et parapluie"
   cri: "Be'n soi malurosa !"
 oc:
   title: "Carronha"
   category: "Personatges"
-  accessoire: "Costum de palha, tela de bruta & capèth"
+  accessoire: "Rauba escura, mocader e paraploja"
   cri: "Be'n soi malurosa !"
   description: |
-    ### La figura emblematica de la fin de l'ivèrn
+    ### Carronha la mau aimada
 
-    Vestit de sacs de jute e clafit de palha d'avena, lo **Palhassa** es lo personatge centrau de la mascarada tradicionau de La Seuva. Amb lo son visatge pench de roge e de jaune, que sauva e que branda l'esperit de la prima que torna.
+    Dens l'ombre deu son omi extravertit Sent Pançard, **Carronha** - la soa esposa - que'u seguesh pertot a maugrat de la soas fracas. Que'u defend peruc e urpas medish si non manca pas l'ocasion de l'enviar a pèisher ! Qu'ei reputada maishantassa...
 
-    > *"Ni fred ni crenta : lo Palhassa que hè petar la joena e que caça las ombras deu bòsc !"*
+    ### Lo son costuma
 
-    #### Los sons secrets :
-    * Lo son costum es fach a la man cada an amb de sacs d'agriculteurs deu vilatge.
-    * Semena bocins de palha per tot lo cors deu desfilat per portar bona sòrt.
+    Que la reconeisheratz ad aisa: Qu'ei vestida dab pelha escura e lo mocader entà aishugar las lagremas n'ei pas jamei luenh. Que pods estar acompanhada per amigas dab lengas de sèrps.
+    Avisatz-vse, qu'a lo cop de paraploja valent ! 
 ---
 
-### La figure emblématique de la fin de l'hiver
+### Carronha la mal aimée
 
-Vêtu d'une combinaison de toile de jute rembourrée de paille fraîche, le **Palhassa** est le gardien des traditions du Carnaval de Lasseube. Le visage maquillé aux couleurs du soleil et du feu (jaune et rouge), il ouvre la marche en sautillant et en chassant l'hiver.
+Dans l'ombre de son mari extraverti Sent Pançard, **Carronha** - son épouse - le suit partout malgré ses frasques. Elle le défend bec et ongles même si elle ne manque pas une occasion de l'envoyer paître ! Elle est réputée très méchante...
 
-> *"Ni froid ni peur : le Palhassa secoue sa paille pour réveiller la terre et appeler le renouveau printanier !"*
+### Son costume
 
-#### Ses attributs carnavalesques :
-* Son costume en sac d'emballage est confectionné à la main par les habitants.
-* Il disperse quelques brins de paille sur son passage en guise de porte-bonheur.
+Vous la reconnaîtrez facilement: Elle est vêtue d'habits sombres et le mouchoir pour essuyer ses larmes n'est jamais très loin. Elle peut être accompagnée d'amies langues de viperres.
+Faites attention, elle a le coup de parapluie facile ! 
