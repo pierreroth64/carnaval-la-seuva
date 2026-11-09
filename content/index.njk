@@ -560,6 +560,7 @@ Sent Pançard
     }
 
     function filterCategory(cat, ev) {
+      navigateHome();
       currentFilter = cat;
       document.querySelectorAll('.cat-pill').forEach(btn => {
         btn.classList.remove('active', 'bg-firefly', 'text-bark-900');
