@@ -1,7 +1,7 @@
 ---
 id: "gendarmas"
 order: 7
-tilt: "-2.8deg"
+tilt: "2.8deg"
 image: "/images/gendarmas.jpg"
 fr:
   title: "Les gendarmes"

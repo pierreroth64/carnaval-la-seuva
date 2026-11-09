@@ -1,7 +1,7 @@
 ---
 id: "palhassas"
 order: 3
-tilt: "-2.8deg"
+tilt: "-5.8deg"
 image: "/images/palhassas.jpg"
 fr:
   title: "Los Palhassa"
