@@ -14,31 +14,10 @@ oc:
   accessoire: "Costum de palha, tela de bruta & capèth"
   cri: "Rhhhhaaaaaaa !!!"
   description: |
-    ### Los mainats en sauvatges de la seuva
-
-    La Seuva que porta plan lo son nom. Majestuosa, la seuva qu'enviroa calorosament lo noste vilatge. Dens los sons mantuns recantons, los animaus que s'esconen.
-
-    Lo dia deu Carnaval de La Seuva que son tots de sortida ! Esquirous, cabirous, taishons, ausèths, vops, etc... Tots que sorteishen deu bosc entà encanalhà's dens lo vilatge !
-
-    ### Los costumas
-
-    Daubuns que profieiteràn de la pausa de Nadau entà sollicitar une mair bona costurèra 🪡... d'autes que voleràn a tot prètz confeccionar lo lor costuma tots sols. Ua cause de segura: las carrèras de La Seuva que seràn negadas de gaujos animaus de tota sorta e plan colorats !
-
-    ### A l'escola...
-
-    Los regents e la regentas que son au corrent: aqueth carnaval biarnés que va estar granàs. Que preparan dab los mainats dansas e cantas 🎶
+    ### TODO
+    A escriber
 ---
 
-### Les enfants en animaux de la forêt
+### TODO
 
-Lasseube (La Seuva en Occitan) signifie la forêt. Majestueuse, elle entoure chaleureusement notre village. Dans ses multiples recoins, les animaux se cachent.
-
-Le jour du Carnaval de La Seuva ils sont tous de sortie ! Des écureuils, des chevreuils, des blaireaux, des oiseaux, des renards, etc... Tous sortent du bois pour s'encanailler dans le village !
-
-### Les costumes
-
-Certains profiteront de la pause de Noël pour solliciter une mamie couturière 🪡... d'autres tiendront à confectionner leur costume tout seuls. Une chose est sûre: les rues de Lasseube seront envahies de joyeux animaux en tout genre et haut en couleur !
-
-### A l'école...
-
-Les maîtres et maîtresses sont au courant: ce carnaval biarnés va être grandiose. Ils préparent avec les enfants des danses et des chants 🎶
+A écrire
