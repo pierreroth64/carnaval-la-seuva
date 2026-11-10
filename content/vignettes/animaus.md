@@ -22,7 +22,7 @@ oc:
 
     ### Los costumas
 
-    Daubuns que profieiteràn de la pausa de Nadau entà sollicitar une mair bona costurèra 🪡... d'autes que voleràn a tot prètz confeccionar lo lor costuma tot sols. Ua cause de segura: las carrèras de La Seuva que seràn negadas de gaujos animaus de tota sorta e plan colorats !
+    Daubuns que profieiteràn de la pausa de Nadau entà sollicitar une mair bona costurèra 🪡... d'autes que voleràn a tot prètz confeccionar lo lor costuma tot sols. Ua cause de segura: las carrèras de La Seuva que seràn negadas de gaujos animaus de tota sòrta e plan colorats !
 
     ### A l'escola...
 
