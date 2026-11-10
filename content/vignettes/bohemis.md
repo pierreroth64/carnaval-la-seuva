@@ -16,14 +16,14 @@ oc:
   description: |
     ### Perqué los "Bohèmis" ?
 
-    Los adultas que poden causir de mascà's en **"Bohèmis"**. 
+    Los adultas que pòden causir de mascà's en **"Bohèmis"**. 
     Los Bohèmis qu'èran mespresats e discriminats.
-    Atau, lo carnaval pirenenc que hasè plaça tad aquera classa sociau sovent praube per denonciar aquera praticas xenofobs e perméter d'aficar la loa cultura shens bergonha dens las carrèras.
+    Atau, lo carnaval pirenenc que hasè plaça tad aquera classa sociau sovent praube per denonciar aquera praticas xenofòbs e perméter d'aficar la loa cultura shens bergonha dens las carrèras.
 
     ### Los costumas
 
-    Los mainats en animaus de la seuva, los adultes que poden jogar tanben !
-    Berojas pendents d'aurelha, "foulards" dens lo pèu e polidas raubas longas tà las daunas.
+    Los mainats en animaus de la seuva, los adultes que pòden jogar tanben !
+    Beròis pendents d'aurelha, teishuts dens lo pèu e polidas raubas longas tà las daunas.
     Chapèus e vestons taus mossurs, pantelons un drin bracs aconselhats tà mei de fantesia ! 
 ---
 

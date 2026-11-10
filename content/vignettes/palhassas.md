@@ -16,14 +16,14 @@ oc:
   description: |
     ### Qui son ?
 
-    Vestits "d'uniformas" de tela de bruta empleats de palh,, los **Palhassas** que son los guardas de Sent Pançard. Aqueths personatges gualhars e cridassèrs a las caras pintradas de roi e jaune, colors deu Biarn, ne son pas plan sapiens mes que son servidors fidèus de Sa Majestat. N'esitaràn pas a desfiar los gendarmes entà entrar en força dens lo viltage e portar haut lo lor Rei.
+    Vestits "d'uniformas" de tela de bruta empleats de palh,, los **Palhassas** que son los guardas de Sent Pançard. Aqueths personatges gualhars e cridassèrs a las caras pintradas de roi e jaune, colors deu Biarn, ne son pas plan sapiens mes que son servidors fidèus de Sa Majestat. N'esitaràn pas a desfiar los gendarmes entà entrar en fòrça dens lo viltage e portar haut lo lor Rei.
 
     ### Las loas caracteristicas :
 
     * Un drin (hèra !) asos.
     * Gualhar e bagaraire
-    * Mes cor tenhèr e influençable
-    * Seguesih lo medish regimi alimentari estrict que Sent Pançard
+    * Mes còr tenhèr e influençable
+    * Segueish lo medish regimi alimentari estrict que Sent Pançard
 ---
 
 ### Qui sont-ils ?

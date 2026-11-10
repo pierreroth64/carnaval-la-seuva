@@ -16,13 +16,13 @@ oc:
   description: |
     ### Ua banda des gaujos
 
-    Los **"gendarmas"** ne son pas guaire mei nets que los palhassas. Mei valent a l'ora de l'aperitiu que desiros d'arrestar los maishants,, que troban tostemps un pretèxte entà estancà's a ua bona taula.
-    Ua causa sola que's hè vàder hous: los Palhassas ! 
-    Qu'entertien ua rivalitat feroça e cada encontra qu'ei explosiva e qu'ei lo parat de patacs deus gormands ! 
+    Los **"gendarmas"** ne son pas guaire mei nets que los palhassas. Mei valents a l'òra de l'aperitiu que desiros d'arrestar los maishants,, que tròban tostemps un pretèxte entà estancà's a ua bona taula.
+    Ua causa sola que'us hè vàder hòus: los Palhassas ! 
+    Qu'entertienen ua rivalitat feròça e cada encontra qu'ei explosiva e qu'ei lo parat de patacs deus gormands ! 
 
     ### Identifiables ?
 
-    Que'us reconeisheratz a tot cop : granas casquetas, matracas miaçantas mes subertot, nas un drin trop rois... (de segur per'mor de las botelhas de vin esconudas devath deus vestons !)
+    Que'us reconeisheratz a tot còp : granas casquetas, matracas miaçantas mes subertot, nas un drin tròp rois... (de segur per'mor de las botelhas de vin esconudas devath deus vestons !)
 ---
 
 ### Une bande de joyeux lurons

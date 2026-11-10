@@ -17,7 +17,7 @@ oc:
     ### Un programa espes !
 
     * 16ò30 : Rendetz-vse sus la plaça deu vilatge, dabant la glèisa (musica, dansas)
-    * 17ò30 : Arribada prevista de Sent Pançard.. E passarà las portas deu vilatge ?
+    * 17ò30 : Arribada prevista de Sent Pançard.. E passarà las pòrtas deu vilatge ?
     * 18ò00 : Remesa de las claus deu viltage per M. Lo Maire
     * 18ò15 : Passei dens lo vilatge
     * 19ò30 : Cremacion deus "Chepics"

@@ -16,14 +16,14 @@ oc:
   description: |
     ### Un repaish populari
 
-    Un repas populari qu'ei prepausaat aus carnavalèrs a la sala polyvalenta, loc d'arribada deu passei. Volontàriament bon mercat, que permeterà - que l'esperam - a tot lo monde de profieitar d'un bon moment tots amassa entà's rescauhar quau que sia la pregondor deu son porta moneda
+    Un repas populari qu'ei prepausat aus carnavalèrs a la sala polyvalenta, lòc d'arribada deu passei. Volontàriament bon mercat, que permeterà - que l'esperam - a tot lo monde de profieitar d'un bon moment tots amassa entà's rescauhar quau que sia la pregondor deu son pòrta moneda.
 
     ### Taus adultes (10 €)
 
     Un platèu dab...
-    * Ua bola de garbura melhorada
+    * Ua bòla de garbura melhorada
     * Un veire de vin
-    * Un troç de pan
+    * Un tròç de pan
     * 2 talhucs de hromatge deu pais
     * 1 part de Pastis
     * 1 cafè

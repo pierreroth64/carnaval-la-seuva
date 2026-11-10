@@ -16,17 +16,17 @@ oc:
   description: |
     ### Los mainats en animaus de la seuva
 
-    La Seuva que porta plan lo son nom. Majestuosa, la seuva qu'enviroa calorosament lo noste vilatge. Dens los sons mantuns recantons, los animaus que s'esconen.
+    La Seuva que pòrta plan lo son nom. Majestuosa, la seuva qu'enviroa calorosament lo noste vilatge. Dens los sons mantuns recantons, los animaus que s'esconen.
 
-    Lo dia deu Carnaval de La Seuva que son tots de sortida ! Esquirous, cabirous, taishons, ausèths, vops, etc... Tots que sorteishen deu bosc entà encanalhà's dens lo vilatge !
+    Lo dia deu Carnaval de La Seuva que son tots de sortida ! Esquiròus, cabiròus, taishons, ausèths, vops, etc... Tots que sorteishen deu bòsc entà encanalhà's dens lo vilatge !
 
     ### Los costumas
 
-    Daubuns que profieiteràn de la pausa de Nadau entà sollicitar une mair bona costurèra 🪡... d'autes que voleràn a tot prètz confeccionar lo lor costuma tots sols. Ua cause de segura: las carrèras de La Seuva que seràn negadas de gaujos animaus de tota sorta e plan colorats !
+    Daubuns que profieiteràn de la pausa de Nadau entà sollicitar une mair bona costurèra 🪡... d'autes que voleràn a tot prètz confeccionar lo lor costuma tot sols. Ua cause de segura: las carrèras de La Seuva que seràn negadas de gaujos animaus de tota sorta e plan colorats !
 
     ### A l'escola...
 
-    Los regents e la regentas que son au corrent: aqueth carnaval biarnés que va estar granàs. Que preparan dab los mainats dansas e cantas 🎶
+    Los regents e la regentas que son assabentats: aqueth carnaval biarnés que va estar granàs ! Que preparan dab los mainats dansas e cantas ! 🎶
 ---
 
 ### Les enfants en animaux de la forêt
@@ -41,4 +41,4 @@ Certains profiteront de la pause de Noël pour solliciter une mamie couturière 
 
 ### A l'école...
 
-Les maîtres et maîtresses sont au courant: ce carnaval biarnés va être grandiose. Ils préparent avec les enfants des danses et des chants 🎶
+Les maîtres et maîtresses sont au courant: ce carnaval biarnés va être grandiose ! Ils préparent avec les enfants des danses et des chants ! 🎶
