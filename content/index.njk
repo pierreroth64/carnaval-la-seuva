@@ -262,7 +262,7 @@ permalink: "index.html"
           <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-1">
             <h2 id="detailTitle" class="text-2xl sm:text-4xl font-title font-extrabold text-bark-900"></h2>
           </div>
-          <div class="flex flex-wrap items-center gap-2 sm:gap-3 mt-2 text-xs font-bold text-moss-700">
+          <div id="detailCriEtAccessoire" class="flex flex-wrap items-center gap-2 sm:gap-3 mt-2 text-xs font-bold text-moss-700">
             <span id="detailAccessoire" class="bg-moss-100 px-3 py-1 rounded-full"></span>
             <span id="detailCri" class="bg-orange-100 text-orange-900 px-3 py-1 rounded-full"></span>
           </div>
@@ -341,6 +341,7 @@ Sent Pançard
         order: {{ item.data.order }},
         tilt: {{ item.data.tilt | dump | safe }},
         image: {{ item.data.image | dump | safe }},
+        useCriEtAccessoire: {{ item.data.useCriEtAccessoire | dump | safe }},
         fr: {
           title: {{ item.data.fr.title | dump | safe }},
           category: {{ item.data.fr.category | dump | safe }},
@@ -594,6 +595,11 @@ Sent Pançard
       document.getElementById('detailBadge').textContent = data.category;
       document.getElementById('detailAccessoire').innerHTML = `<i class="fa-solid fa-hat-cowboy mr-1 text-festive-orange"></i> ${data.accessoire}`;
       document.getElementById('detailCri').innerHTML = `<i class="fa-solid fa-bullhorn mr-1 text-mushroom-500"></i> ${t.criPrefix} ${data.cri}`;
+      if (art.useCriEtAccessoire) {
+        document.getElementById('detailCriEtAccessoire').classList.remove('hidden');
+      } else {
+        document.getElementById('detailCriEtAccessoire').classList.add('hidden');
+      }
 
       const detailMd = document.getElementById('detailMarkdown');
       if (currentLang === 'fr') {

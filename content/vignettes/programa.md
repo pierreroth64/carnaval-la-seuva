@@ -3,6 +3,7 @@ id: "programa"
 order: 12
 tilt: "-2.8deg"
 image: "/images/programa.jpg"
+useCriEtAccessoire: false
 fr:
   title: "Le programme !"
   category: "Infos pratiques"

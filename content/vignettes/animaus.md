@@ -3,6 +3,7 @@ id: "animaus"
 order: 4
 tilt: "-2.8deg"
 image: "/images/animaus.jpg"
+useCriEtAccessoire: true
 fr:
   title: "Les enfants en animaux !"
   category: "Faire Carnaval"

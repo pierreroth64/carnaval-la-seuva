@@ -3,6 +3,7 @@ id: "bohemis"
 order: 6
 tilt: "-2.8deg"
 image: "/images/bohemis.jpg"
+useCriEtAccessoire: true
 fr:
   title: "Les parents en... bohémiens ?"
   category: "Faire Carnaval"

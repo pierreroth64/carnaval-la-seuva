@@ -3,6 +3,7 @@ id: "carnavalpirenenc"
 order: 1
 tilt: "2.0deg"
 image: "/images/la_seuva_vilatge.jpg"
+useCriEtAccessoire: true
 fr:
   title: "Un carnaval Pyrénéen"
   category: "Histoire"

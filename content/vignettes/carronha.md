@@ -3,6 +3,7 @@ id: "carronha"
 order: 3
 tilt: "2.8deg"
 image: "/images/carronha.jpg"
+useCriEtAccessoire: true
 fr:
   title: "Carronha"
   category: "Personnages"

@@ -3,6 +3,7 @@ id: "acces"
 order: 14
 tilt: "2.8deg"
 image: "/images/acces.jpg"
+useCriEtAccessoire: false
 fr:
   title: "Comment venir ?"
   category: "Infos pratiques"
