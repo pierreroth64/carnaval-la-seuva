@@ -16,6 +16,8 @@ oc:
   description: |
     ### Un programa espes !
 
+    Qu'ei lo **30 de genèr 2027** !!! 🎉
+
     * 16ò30 : Rendetz-vse sus la plaça deu vilatge, dabant la glèisa (musica, dansas)
     * 17ò30 : Arribada prevista de Sent Pançard.. E passarà las pòrtas deu vilatge ?
     * 18ò00 : Remesa de las claus deu viltage per M. Lo Maire
@@ -29,6 +31,8 @@ oc:
 ---
 
 ### Un programme copieux !
+
+C'est le **30 janvier 2027** !!! 🎉
 
 * 16h30 : Rendez-vous sur la place du village, devant l'église (musique, danses)
 * 17h30 : Arrivée prévue de Sent Pançard... Franchira-t-il les portes du village ?
