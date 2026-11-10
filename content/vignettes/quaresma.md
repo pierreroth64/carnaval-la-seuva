@@ -3,7 +3,6 @@ id: "quaresma"
 order: 5
 tilt: "-2.8deg"
 image: "/images/quaresma.jpg"
-useCriEtAccessoire: true
 fr:
   title: "Quarèsma"
   category: "Personnages"

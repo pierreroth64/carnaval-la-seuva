@@ -3,7 +3,6 @@ id: "gendarmas"
 order: 7
 tilt: "2.8deg"
 image: "/images/gendarmas.jpg"
-useCriEtAccessoire: true
 fr:
   title: "Les gendarmes"
   category: "Personnages"

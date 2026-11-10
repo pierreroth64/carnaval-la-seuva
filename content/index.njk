@@ -341,7 +341,6 @@ Sent Pançard
         order: {{ item.data.order }},
         tilt: {{ item.data.tilt | dump | safe }},
         image: {{ item.data.image | dump | safe }},
-        useCriEtAccessoire: {{ item.data.useCriEtAccessoire | dump | safe }},
         fr: {
           title: {{ item.data.fr.title | dump | safe }},
           category: {{ item.data.fr.category | dump | safe }},
@@ -595,10 +594,15 @@ Sent Pançard
       document.getElementById('detailBadge').textContent = data.category;
       document.getElementById('detailAccessoire').innerHTML = `<i class="fa-solid fa-hat-cowboy mr-1 text-festive-orange"></i> ${data.accessoire}`;
       document.getElementById('detailCri').innerHTML = `<i class="fa-solid fa-bullhorn mr-1 text-mushroom-500"></i> ${t.criPrefix} ${data.cri}`;
-      if (art.useCriEtAccessoire) {
-        document.getElementById('detailCriEtAccessoire').classList.remove('hidden');
+      if (data.cri) {
+        document.getElementById('detailCri').classList.remove('hidden');
       } else {
-        document.getElementById('detailCriEtAccessoire').classList.add('hidden');
+        document.getElementById('detailCri').classList.add('hidden');
+      }
+      if (data.accessoire) {
+        document.getElementById('detailAccessoire').classList.remove('hidden');
+      } else {
+        document.getElementById('detailAccessoire').classList.add('hidden');
       }
 
       const detailMd = document.getElementById('detailMarkdown');

@@ -3,7 +3,6 @@ id: "sauvatges"
 order: 9
 tilt: "-2.8deg"
 image: "/images/sauvatges.jpg"
-useCriEtAccessoire: true
 fr:
   title: "Les hommes sauvages"
   category: "Personnages"

@@ -3,7 +3,6 @@ id: "minjar"
 order: 13
 tilt: "2.8deg"
 image: "/images/minjar.jpg"
-useCriEtAccessoire: false
 fr:
   title: "Manger !"
   category: "Infos pratiques"

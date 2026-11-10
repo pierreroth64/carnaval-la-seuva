@@ -3,7 +3,6 @@ id: "sentpancard"
 order: 2
 tilt: "-2.8deg"
 image: "/images/sent_pancard.jpg"
-useCriEtAccessoire: true
 fr:
   title: "Sent Pançard"
   category: "Personnages"

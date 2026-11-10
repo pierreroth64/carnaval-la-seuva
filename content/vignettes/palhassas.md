@@ -3,7 +3,6 @@ id: "palhassas"
 order: 3
 tilt: "-5.8deg"
 image: "/images/palhassas.jpg"
-useCriEtAccessoire: true
 fr:
   title: "Los Palhassa"
   category: "Personnages"

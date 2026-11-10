@@ -3,7 +3,6 @@ id: "vegetaus"
 order: 8
 tilt: "-2.8deg"
 image: "/images/vegetaus.jpg"
-useCriEtAccessoire: true
 fr:
   title: "Les parents en... végétaux ?"
   category: "Faire Carnaval"
