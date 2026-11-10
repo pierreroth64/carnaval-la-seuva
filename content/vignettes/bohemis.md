@@ -6,12 +6,12 @@ image: "/images/bohemis.jpg"
 fr:
   title: "Les parents en... bohémiens ?"
   category: "Faire Carnaval"
-  accessoire: "Boucle d'oreille, foulard dans les cheveux, chapeaux et vestons"
+  accessoire: "Boucles d'oreille, foulard dans les cheveux, chapeaux et vestons"
   cri: "Carnaval qu'avè solièrs de papèr"
 oc:
   title: "Los pairs en... bohèmis ?"
   category: "Har Carnaval"
-  accessoire: "Costum de palha, tela de bruta & capèth"
+  accessoire: "Pendents d'aurelha, teishut dens lo peu, capèths e vestons"
   cri: "Carnaval qu'avè solièrs de papèr"
   description: |
     ### Perqué los "Bohèmis" ?
