@@ -7,12 +7,12 @@ fr:
   title: "Un carnaval Pyrénéen"
   category: "Histoire"
   accessoire: ""
-  cri: "Nas de taishon ? Taishon !!!"
+  cri: ""
 oc:
   title: "Un carnaval Pirenenc"
   category: "Istòria"
   accessoire: ""
-  cri: "Nas de taishon ? Taishon !!!"
+  cri: ""
   description: |
     ### TODO
     A escriber

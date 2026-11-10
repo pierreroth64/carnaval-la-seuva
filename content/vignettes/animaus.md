@@ -7,12 +7,12 @@ fr:
   title: "Les enfants en animaux !"
   category: "Faire Carnaval"
   accessoire: "Costumes d'animaux, maquillage"
-  cri: "Visca carnaval !"
+  cri: "Nas de taishon ? Taishon !!!"
 oc:
   title: "Los mainats en animaus !"
   category: "Har Carnaval"
   accessoire: "Costum de palha, tela de bruta & capèth"
-  cri: "Visca carnaval !"
+  cri: "Nas de taishon ? Taishon !!!"
   description: |
     ### Los mainats en animaus de la seuva
 
