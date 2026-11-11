@@ -4,15 +4,15 @@ order: 8
 tilt: "-2.8deg"
 image: "/images/vegetaus.jpg"
 fr:
-  title: "Les parents en... végétaux ?"
+  title: "Les adultes en... végétaux ?"
   category: "Faire Carnaval"
-  accessoire: "Costume de paille, toile de jute & chapeau conique"
-  cri: "ÒP-ÒP-ÒP !"
+  accessoire: "..........."
+  cri: ""
 oc:
-  title: "Los pairs en... vegetaus ?"
+  title: "Los adultas en... vegetaus ?"
   category: "Har Carnaval"
-  accessoire: "Costum de palha, tela de bruta & capèth"
-  cri: "ÒP-ÒP-ÒP !"
+  accessoire: "..........."
+  cri: ""
   description: |
     ### TODO
     A escriber
