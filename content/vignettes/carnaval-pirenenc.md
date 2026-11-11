@@ -57,8 +57,8 @@ Tellement hâte de vous y retrouver, que vous soyez nés ici ou ailleurs.
 Amistats
 
 
-
-
 ¹ _pour faire la fête_
+
+_PS: pour être de la partie, vous avez quelques idées en cliquant sur:_       <button onclick="filterCategory('Faire Carnaval', event)" class="cat-pill px-3 py-1 rounded-full text-sm font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catFaireCarnaval">🎉 Faire Carnaval</button>
 
 
