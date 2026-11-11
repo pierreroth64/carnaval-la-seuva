@@ -200,7 +200,6 @@ permalink: "index.html"
         <span class="inline-flex items-center gap-1.5 bg-festive-orange text-white text-[11px] sm:text-xs font-title font-bold px-3 py-1 rounded-full shadow-sm">
           <span>📜</span> <span id="editoBadge">Éditorial du Carnaval</span>
         </span>
-        <span id="editoTagline" class="text-xs font-hand text-moss-700 text-base hidden sm:inline font-bold"></span>
       </div>
 
       <h2 id="editoTitle" class="text-xl sm:text-2xl md:text-3xl font-title font-extrabold text-bark-900 mb-2 leading-tight"></h2>
@@ -304,7 +303,6 @@ permalink: "index.html"
       fr: {
         badge: "Le journal du bois",
         title: "🌿 Il revient !",
-        tagline: "La chronique officielle de Sa Majesté Sent Pançard",
         excerpt: "Incroyable... 🔥 ... Nous avons reçu un message de la plus haute importance ! 🚨 Une lettre manuscrite que nous publions ici...",
         full_markdown: `
     ### Une lettre à destination des Lasseubois postée par un messager inconnu !
@@ -331,7 +329,6 @@ Sent Pançard
       oc: {
         badge: "Lo jornau deu bosc",
         title: "🌿 Que torna !",
-        tagline: "Lo jornau oficiau de Sa Majestat Sent Pançard",
         excerpt: "De non pas pensar... 🔥... Qu'avem recebut un messatge de la mei hauta importança ! 🚨 Ua letra escrivuda a la man qui publicam aci...",
         full_markdown: `
     ### Ua letra a l'atencion deus seuvetons postada per un messatgèr inconegut
@@ -457,7 +454,6 @@ Sent Pançard
       const t = UI_I18N[currentLang];
       
       document.getElementById('editoBadge').textContent = edito.badge;
-      document.getElementById('editoTagline').textContent = edito.tagline;
       document.getElementById('editoTitle').textContent = edito.title;
       document.getElementById('editoExcerpt').textContent = edito.excerpt;
       
