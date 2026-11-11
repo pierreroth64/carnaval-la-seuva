@@ -1,6 +1,6 @@
 ---
 id: "sauvatges"
-order: 9
+order: 10
 tilt: "-2.8deg"
 image: "/images/sauvatges.jpg"
 fr:
