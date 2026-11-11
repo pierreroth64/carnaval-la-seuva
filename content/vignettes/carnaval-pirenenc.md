@@ -48,7 +48,7 @@ Nous sommes, Lasseuboises & Lasseubois, fiers de notre village, de nos forêts, 
 
 Fiers de notre culture et de notre langue dont nous avons hérité.
 
-Alors ce carnaval, il aura toutes ces couleurs d'ici. Que ce soit dans les décors, les costumes, les histoires racontées, vous sentirez l'odeur de la terre, là sous nos pieds.
+Alors ce carnaval, il aura toutes les couleurs d'ici. Que ce soit dans les décors, les costumes, les histoires racontées, vous sentirez l'odeur de la terre, là sous nos pieds, la présence de la forêt qui nous est si chère. 🌳
 
 Tellement hâte de vous y retrouver, que vous soyez nés ici ou ailleurs.
 
