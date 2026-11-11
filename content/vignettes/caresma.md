@@ -14,8 +14,15 @@ oc:
   accessoire: "Vestit de blanc triste, canabèra dab un peish"
   cri: "Arridetz, arridetz... bèthlèu la fin de la hèsta"
   description: |
-    ### TODO
-    A escriber
+    ### Lo gran rivau de Sent Pançard
+
+    Carèsma qu'ei lo gran rivau de [Sent Pançard](./#vignette/pancard).
+
+    Personatge triste e escur, Carèsma qu'incarna **l'austeritat e la privacion**, la morala puritana e la volontat d'acabar los desbordaments. La soa enveja le viva: arrestar la hèsta e véder lo retorn de l'ordi 😞
+
+    ### Lo son costuma
+
+    Tot vestit de blanc, que'u véderatz de luenh enlà dab la soa canabèra giganta 🎣 dab au cap un peish qui dansa. Ne v'aproishatz pas... per'mor l'aulor que hè hasti !
 ---
 
 ### Le grand rival de Sent Pançard
