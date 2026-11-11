@@ -612,7 +612,7 @@ Sent Pançard
       document.getElementById('detailTitle').textContent = data.title;
       document.getElementById('detailBadge').textContent = data.category;
       document.getElementById('detailAccessoire').innerHTML = `<i class="fa-solid fa-hat-cowboy mr-1 text-festive-orange"></i> ${data.accessoire}`;
-      document.getElementById('detailCri').innerHTML = `<i class="fa-solid fa-bullhorn mr-1 text-mushroom-500"></i> ${t.criPrefix} ${data.cri}`;
+      document.getElementById('detailCri').innerHTML = `<i class="fa-solid fa-bullhorn mr-1 text-mushroom-500"></i> ${t.criPrefix} \"${data.cri}\"`;
       if (data.cri) {
         document.getElementById('detailCri').classList.remove('hidden');
       } else {
