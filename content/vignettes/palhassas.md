@@ -21,9 +21,9 @@ oc:
     ### Las loas caracteristicas :
 
     * Un drin (hèra !) asos.
-    * Gualhar e bagaraire
-    * Mes còr tenhèr e influençable
-    * Segueish lo medish regimi alimentari estrict que Sent Pançard
+    * Gualhards e bagaraires
+    * Mes còrs tenhèrs e influençables
+    * Segueishen lo medish regimi alimentari estrict que Sent Pançard 😄
 ---
 
 ### Qui sont-ils ?
@@ -32,7 +32,7 @@ Vêtus "d'uniformes" de toile de jute rembourrés de paille, les **Palhassas** s
 
 ### Leurs caractéristiques :
 
-* Un peu (beaucoup !) bêtat.
-* Costaud et bagarreur
-* Mais coeur tendre et influençable
-* Suit le même régime alimentaire strict que Sent Pançard
+* Un peu (beaucoup !) bêtats.
+* Costauds et bagarreurs
+* Mais coeurs tendres et influençables
+* Suivent le même régime alimentaire strict que Sent Pançard 😄
