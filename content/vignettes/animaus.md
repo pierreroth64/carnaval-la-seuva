@@ -4,12 +4,14 @@ order: 4
 tilt: "-2.8deg"
 image: "/images/animaus.jpg"
 fr:
-  title: "Les enfants en animaux !"
+  title: "Les animaux"
+  subtitle: "pour les enfants ?"
   category: "Faire Carnaval"
   accessoire: "Costumes d'animaux, maquillage"
   cri: "Nas de taishon ? Taishon !!!"
 oc:
-  title: "Los mainats en animaus !"
+  title: "Los animaus"
+  subtitle: "entaus mainats ?"
   category: "Har Carnaval"
   accessoire: "Costum de palha, tela de bruta & capèth"
   cri: "Nas de taishon ? Taishon !!!"

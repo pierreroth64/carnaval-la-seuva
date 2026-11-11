@@ -5,11 +5,13 @@ tilt: "2.0deg"
 image: "/images/la_seuva_vilatge.jpg"
 fr:
   title: "Un carnaval Pyrénéen"
+  subtitle: ""
   category: "Histoire"
   accessoire: ""
   cri: ""
 oc:
   title: "Un carnaval Pirenenc"
+  subtitle: ""
   category: "Istòria"
   accessoire: ""
   cri: ""

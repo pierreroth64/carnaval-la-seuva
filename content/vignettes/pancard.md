@@ -5,11 +5,13 @@ tilt: "-2.8deg"
 image: "/images/sent_pancard.jpg"
 fr:
   title: "Sent Pançard"
+  subtitle: ""
   category: "Personnages"
   accessoire: "Couronne flamboyante, collier de saucisses & sceptre"
   cri: "Avisatz-ve... Que torni !"
 oc:
   title: "Sent Pançard"
+  subtitle: ""
   category: "Personatges"
   accessoire: "Corona, colièr de saucissas & sèptre"
   cri: "Avisatz-ve... Que torni !"

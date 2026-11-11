@@ -4,12 +4,14 @@ order: 6
 tilt: "-2.8deg"
 image: "/images/bohemis.jpg"
 fr:
-  title: "Les adultes en... bohémiens !"
+  title: "Les Bohémiens"
+  subtitle: "pour les adultes ?"
   category: "Faire Carnaval"
   accessoire: "Boucles d'oreille, foulard dans les cheveux, chapeaux et vestons"
   cri: "Carnaval qu'avè solièrs de papèr"
 oc:
-  title: "Los adultas en... bohèmis !"
+  title: "Los Bohèmis"
+  subtitle: "entaus adultas ?"
   category: "Har Carnaval"
   accessoire: "Pendents d'aurelha, teishut dens lo peu, capèths e vestons"
   cri: "Carnaval qu'avè solièrs de papèr"

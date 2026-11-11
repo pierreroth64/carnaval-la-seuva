@@ -5,11 +5,13 @@ tilt: "2.8deg"
 image: "/images/gendarmas.jpg"
 fr:
   title: "Les gendarmes"
+  subtitle: ""
   category: "Personnages"
   accessoire: "Casquette, matraque et... bouteille de vin"
   cri: "Cargar !!!"
 oc:
   title: "Los gendarmas"
+  subtitle: ""
   category: "Personatges"
   accessoire: "Casqueta, matraca e... botelha de vin"
   cri: "Cargar !!!"

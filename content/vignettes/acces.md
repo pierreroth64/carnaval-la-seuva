@@ -5,11 +5,13 @@ tilt: "2.8deg"
 image: "/images/acces.jpg"
 fr:
   title: "Comment venir ?"
+  subtitle: ""
   category: "Infos pratiques"
   accessoire: ""
   cri: ""
 oc:
   title: "Quin viéner ?"
+  subtitle: ""
   category: "Infòs practicas"
   accessoire: ""
   cri: ""

@@ -5,11 +5,13 @@ tilt: "-2.8deg"
 image: "/images/caresma.jpg"
 fr:
   title: "Carèsma"
+  subtitle: ""
   category: "Personnages"
   accessoire: "Costume blanc austère, canne à pêche avec poisson"
   cri: "Arridetz, arridetz... bèthlèu la fin de la hèsta"
 oc:
   title: "Carèsma"
+  subtitle: ""
   category: "Personatges"
   accessoire: "Vestit de blanc triste, canabèra dab un peish"
   cri: "Arridetz, arridetz... bèthlèu la fin de la hèsta"

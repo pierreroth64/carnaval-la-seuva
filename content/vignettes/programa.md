@@ -4,12 +4,14 @@ order: 12
 tilt: "-2.8deg"
 image: "/images/programa.jpg"
 fr:
-  title: "Le programme !"
+  title: "Le programme"
+  subtitle: ""
   category: "Infos pratiques"
   accessoire: ""
   cri: ""
 oc:
-  title: "Lo programa !"
+  title: "Lo programa"
+  subtitle: ""
   category: "Infòs practicas"
   accessoire: ""
   cri: ""

@@ -5,11 +5,13 @@ tilt: "-5.8deg"
 image: "/images/palhassas.jpg"
 fr:
   title: "Los Palhassa"
+  subtitle: ""
   category: "Personnages"
   accessoire: "Costume en toile de jute & chapeau de paille"
   cri: "Honhar !!!"
 oc:
   title: "Los Palhassas"
+  subtitle: ""
   category: "Personatges"
   accessoire: "Costuma de tela de bruta & capèth de palha"
   cri: "Honhar !!!"

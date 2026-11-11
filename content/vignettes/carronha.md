@@ -5,11 +5,13 @@ tilt: "2.8deg"
 image: "/images/carronha.jpg"
 fr:
   title: "Carronha"
+  subtitle: ""
   category: "Personnages"
   accessoire: "Robe sombre, mouchoir et parapluie"
   cri: "Be'n soi malurosa !"
 oc:
   title: "Carronha"
+  subtitle: ""
   category: "Personatges"
   accessoire: "Rauba escura, mocader e paraploja"
   cri: "Be'n soi malurosa !"

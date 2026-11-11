@@ -4,14 +4,16 @@ order: 10
 tilt: "-2.8deg"
 image: "/images/sauvatges.jpg"
 fr:
-  title: "Les hommes sauvages"
+  title: "Les sauvages"
+  subtitle: "pour les ados ?"
   category: "Personnages"
-  accessoire: "Costumes d'animaux, maquillage"
+  accessoire: ".............."
   cri: "Rhhhhaaaaaaa !!!"
 oc:
-  title: "Los omis sauvatges"
+  title: "Los sauvatges"
+  subtitle: "entaus adòs ?"
   category: "Personatges"
-  accessoire: "Costum de palha, tela de bruta & capèth"
+  accessoire: "..............."
   cri: "Rhhhhaaaaaaa !!!"
   description: |
     ### TODO

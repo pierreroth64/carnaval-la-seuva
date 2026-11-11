@@ -4,12 +4,14 @@ order: 13
 tilt: "2.8deg"
 image: "/images/minjar.jpg"
 fr:
-  title: "Manger !"
+  title: "Manger"
+  subtitle: ""
   category: "Infos pratiques"
   accessoire: ""
   cri: ""
 oc:
-  title: "Minjar !"
+  title: "Minjar"
+  subtitle: ""
   category: "Infòs practicas"
   accessoire: ""
   cri: ""
