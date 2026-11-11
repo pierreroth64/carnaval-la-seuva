@@ -25,7 +25,7 @@ oc:
     ### Lo son retorn
 
     En exil en Aragon, que trauca los pireneus acompanhat deus sons fideus  [palhassas](./#vignette/palhassas) e que's presenta a las portas deu viltage entà préner las claus 🗝️.
-    Lo temps d'un dia, que difusa la holia deu Carnaval per las carrèras 🎊... plan susvelhat totun per [Carronha](./#vignette/carronha) !
+    Lo temps d'un dia, que difusa la holia deu Carnaval per las carrèras 🎊... plan susvelhat totun per [Carronha](./#vignette/carronha) e l'oeil maishant de [Carèsma](./#vignette/caresma) !
 ---
 
 ### Sa Majesté Sent Pançard
@@ -39,5 +39,5 @@ Nous l'adorons et le détestons à la fois. A notre image, il a un côté lumine
 ### Son retour
 
 En exil en Aragon, il traverse les pyrénées accompagné de ses fidèles [palhassas](./#vignette/palhassas) et se présente aux portes du village pour en prendre les clés 🗝️.
-Le temps d'une journée, il diffuse la folie du Carnaval dans les rues 🎊... sous la surveillance de [Carronha](./#vignette/carronha) !
+Le temps d'une journée, il diffuse la folie du Carnaval dans les rues 🎊... sous la surveillance de [Carronha](./#vignette/carronha)  et l'oeil réprobateur de [Carèsma](./#vignette/caresma) !
 
