@@ -16,7 +16,7 @@ oc:
   accessoire: ""
   cri: ""
   description: |
-    ### Un programa espes !
+    ### Un programa espés !
 
     Qu'ei lo **30 de genèr 2027** !!! 🎉
 
