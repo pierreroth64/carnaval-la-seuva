@@ -27,7 +27,7 @@ oc:
     ### Lo son retorn
 
     En exil en Aragon, que trauca los pireneus acompanhat deus sons fideus  [palhassas](./#vignette/palhassas) e que's presenta a las portas deu viltage entà préner las claus 🗝️.
-    Lo temps d'un dia, que difusa la holia deu Carnaval per las carrèras 🎊... plan susvelhat totun per [Carronha](./#vignette/carronha) e l'oeil maishant de [Carèsma](./#vignette/caresma) !
+    Lo temps d'un dia, que difusa la holia deu Carnaval per las carrèras 🎊... plan susvelhat totun per [Carronha](./#vignette/carronha) e l'uelh maishant de [Carèsma](./#vignette/caresma) !
 ---
 
 ### Sa Majesté Sent Pançard
