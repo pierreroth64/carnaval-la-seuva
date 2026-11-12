@@ -19,18 +19,18 @@ oc:
     ### Lo Carnaval... ua hèsta planetaria 🌍
 
     Pertot dens lo monde, qu'existeishen carnavals.
-    Hèsta pagana deu hons deus atges a las originas chamanics, qu'ei aqueth moment de **holia colectiva** - exutòri entaus pòples deu monde sancèr - qui permet de criticar los poderos e de desbrombar quauque temps los chepics de la vita. 
+    Hèsta pagana deu hons deus atges a las originas chamanics, qu'ei aqueth moment de **holia colectiva** - exutòri entaus pòples deu monde sancèr - qui permet de criticar los poderós e de desbrombar quauque temps los chepics de la vita. 
 
     ### En Biarn, un carnaval pirenenc ⛰️
 
     En Biarn, lo carnaval que's declina sus la soa fòrma pirenenca: qu'i arretrobam los medishs personatges, legendas e istuèras de part e d'aute deus pireneus et de la mar grana dinc a la mar mediterrana.
 
-    La periòda de Carnaval que correspon aci a la renavida: lo printemps que punteja ! 🌱
+    La tempsada de Carnaval que correspon ací a la renavida: lo printemps que punteja ! 🌱
 
     Sent Pançard 👑, lo rei deu Carnaval, que torna dongas cada an. 
     Que hè sortir tot çò d'esconut en cadun: la noste **fantesia** escanada per ua mòda uniformisada, la noste **revòlta** de cap a las injusticias deu monde, lo noste **costat "pèc"** plan tròp sage pendent lo restant de l'annada...
 
-    **Sent Pançard que ns'interpèla e que'ns ditz : "Destimborla-te !"**
+    **Sent Pançard que ns'interpèla e que'ns ditz : "Destimborla't !"**
 
     Alavetz que resistam ad aqueth aperet... e puish fin finau, que cedam: _be hè ben d'aver los hius qui tòcan un drinòt  !_ 🤪
 
@@ -40,13 +40,13 @@ oc:
 
     La **"Seuva"**, beròi nom - e plan balhatz 🌳 - entau noste vilatge.
 
-    Dens totas las culturas, la seuva que tira tot un imaginari misteriós : èstes maliciós e des êtres malicieux e encantadors, animaus discrets mes numerós, legendas e istuèras transmetudas de generacion en generacion...
+    Dens totas las culturas, la seuva que tira tot un imaginari misteriós : èstes maliciós  encantadors, animaus discrets mes numerós, legendas e istuèras transmetudas de generacion en generacion...
 
-    Qu'èm, Seuvetons & Seuvetonas, fièrs deu nostes vilatge, de las nostes seuvas, deus nostes arrius, d'aqueth petit tròç de Biarn, conhit au pè deus Pireneus.
+    Qu'èm, Seuvetons & Seuvetonas, fièrs deu noste vilatge, de las nostes seuvas, deus nostes arrius, d'aqueth petit tròç de Biarn, conhit au pè deus Pireneus.
 
     Fièrs de la **cultura noste** e de **la lenga noste** qui avem eritat.
 
-    Alavetz aqueth, qu'averà totas las colors d'aci. Que sia dens los decòrs, los costumas, las istuèras contadas, que sentiratz l'aulor de la tèrra, aquiu devath deus pès, la presença de la seuva qui per nos ei tan cara. 🌳
+    Alavetz aqueth, qu'averà totas las colors d'ací. Que sia dens los decòrs, los costumas, las istuèras contadas, que sentiratz l'aulor de la tèrra, aquiu devath deus pès, la presença de la seuva qui per nos ei tan cara. 🌳
 
     Tant prèssa de'vs i retrobar, qui siatz neishuts ací o aulhors.
 

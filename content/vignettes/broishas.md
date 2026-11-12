@@ -26,7 +26,7 @@ oc:
 
     ### A que semblan ?
 
-    Un chapèu o un teishut dens lo peu, un mascaratge prononçat e raubas longas. Tot au contre de ço qui's pòd imaginar, èran consideradas broishas las **hemnas "trop" berojas**, sustot quan aquera beutat que s'acompanhava d'ua fòrma d'independencia o escapava au contre-ròtle sociau.
+    Un chapèu o un teishut dens lo peu, un mascaratge prononçat e raubas longas. Tot au contre de ço qui's pòd imaginar, èran consideradas broishas las **hemnas "tròp" beròjas**, sustot quan aquera beutat que s'acompanhava d'ua fòrma d'independencia o escapava au contre-ròtle sociau.
 ---
 
 ### Les rebelles
