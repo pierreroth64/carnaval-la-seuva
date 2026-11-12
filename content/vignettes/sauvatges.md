@@ -6,13 +6,13 @@ image: "/images/sauvatges.jpg"
 fr:
   title: "Les sauvages"
   subtitle: "...pour les ados ?"
-  category: "Personnages"
+  category: "Faire Carnaval"
   accessoire: ".............."
   cri: "Rhhhhaaaaaaa !!!"
 oc:
   title: "Los sauvatges"
   subtitle: "...entaus adòs ?"
-  category: "Personatges"
+  category: "Har Carnaval"
   accessoire: "..............."
   cri: "Rhhhhaaaaaaa !!!"
   description: |
