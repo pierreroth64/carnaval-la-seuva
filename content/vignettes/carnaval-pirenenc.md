@@ -48,7 +48,7 @@ oc:
 
     Alavetz aqueth, qu'averà totas las colors d'ací. Que sia dens los decòrs, los costumas, las istuèras contadas, que sentiratz l'aulor de la tèrra, aquiu devath deus pès, la presença de la seuva qui per nos ei tan cara. 🌳
 
-    Tant prèssa de'vs i retrobar, qui siatz neishuts ací o aulhors.
+    Tant prèssa de'vs i retrobar, qui siatz vaduts ací o aulhors.
 
     🎉 Amassa **tà har petar la timpona**¹ 🎉
 
