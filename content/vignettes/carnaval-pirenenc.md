@@ -42,9 +42,9 @@ oc:
 
     Dens totas las culturas, la seuva que tira tot un imaginari misteriós : èstes maliciós  encantadors, animaus discrets mes numerós, legendas e istuèras transmetudas de generacion en generacion. Qu'èm pregondament estacats au noste vilatge, a las nostes seuvas, aus nostes arrius, ad aqueth petit tròç de Biarn, conhit au pè deus Pireneus. Alavetz aqueth carnaval, qu'averà totas las colors d'ací. Que sia dens los decòrs, los costumas, las istuèras contadas, que sentiratz l'aulor de la tèrra, aquiu devath deus pès, la presença de la seuva qui per nos ei tan cara 🌳 e qu'enteneratz dab delici las sonoritats de la lenga d'ací.
 
-    Fièrs de la **cultura noste** e de **la lenga noste** qui avem eritat, que consideram qu'ua cultura horta qu'ei ua cultura qui arcuelha. Que siatz chins deu pais o vienguts d'aulhors, d'ací o de l'aute part deu monde, **las nostas arradits que son pro pregonas entà har plaça tà tot lo monde**.
+    Fièrs de la **cultura noste** e de **la lenga noste** qui avem eritat, que consideram qu'ua cultura hòrta qu'ei ua cultura qui arcuelha. Que siatz chins deu pais o vienguts d'aulhors, d'ací o de l'aute part deu monde, **las nostas arradits que son pro pregonas entà har plaça tà tot lo monde**.
 
-    Tan pressatz de'vs retrobar lo 30 de genèr !
+    Tan pressatz de vs'arretrobar lo 30 de genèr !
 
     🎉 Amassa **tà har petar la timpona**¹ 🎉
 
