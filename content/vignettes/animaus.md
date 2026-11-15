@@ -13,7 +13,7 @@ oc:
   title: "Los animaus"
   subtitle: "...entaus mainats ?"
   category: "Har Carnaval"
-  accessoire: "Costum de palha, tela de bruta & capèth"
+  accessoire: "Costumas d'animaus, mascaratge"
   cri: "Nas de taishon ? Taishon !!!"
   description: |
     ### Los mainats en animaus de la seuva
