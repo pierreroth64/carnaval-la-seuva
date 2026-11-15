@@ -18,7 +18,7 @@ oc:
   description: |
     ### Lo gran rivau de Sent Pançard
 
-    Carèsma qu'ei lo gran rivau de [Sent Pançard](./#vignette/pancard).
+    Carèsma qu'ei lo gran rivau de [Sent Pançard](./#vignette/sentpancard).
 
     Personatge triste e escur, Carèsma qu'incarna **l'austeritat e la privacion**, la morala puritana e la volontat d'acabar los desbordaments. La soa enveja le viva: arrestar la hèsta e véder lo retorn de l'ordi 😞
 
@@ -29,7 +29,7 @@ oc:
 
 ### Le grand rival de Sent Pançard
 
-Carèsma est le grand rival de [Sent Pançard](./#vignette/pancard).
+Carèsma est le grand rival de [Sent Pançard](./#vignette/sentpancard).
 
 Personnage triste et sombre, Carèsma incarne **l'austérité et la privation**, la morale puritaine et la volonté de mettre fin aux débordements. Son désir le plus cher: mettre fin à la fête et voir le retour à l'ordre 😞
 
