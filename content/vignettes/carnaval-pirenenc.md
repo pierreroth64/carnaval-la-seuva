@@ -27,7 +27,7 @@ oc:
 
     La tempsada de Carnaval que correspon ací a la renavida: lo printemps que punteja ! 🌱
 
-    Sent Pançard 👑, lo rei deu Carnaval, que torna dongas cada an. 
+    [Sent Pançard](./#vignette/sentpancard) 👑, lo rei deu Carnaval, que torna dongas cada an. 
     Que hè sortir tot çò d'esconut en cadun: la noste **fantesia** escanada per ua mòda uniformisada, la noste **revòlta** de cap a las injusticias deu monde, lo noste **costat "pèc"** plan tròp sage pendent lo restant de l'annada...
 
     **Sent Pançard que ns'interpèla e que'ns ditz : "Destimborla't !"**
@@ -65,7 +65,7 @@ En Béarn, le carnaval se décline sous sa forme pyrénéenne: on retrouve les m
 
 La période de Carnaval correspond ici au renouveau: le printemps pointe le bout de son nez ! 🌱
 
-Sent Pançard 👑, le roi du Carnaval, revient donc chaque année. 
+[Sent Pançard](./#vignette/sentpancard) 👑, le roi du Carnaval, revient donc chaque année. 
 Il fait ressurgir tout ce qui est enfoui en chacun d'entre nous: notre **fantaisie** étouffée par une mode uniformisée, notre **révolte** face aux injustices du monde, notre **côté "déjanté"** bien trop sage pendant tout le reste de l'année...
 
 **Sent Pançard nous interpelle et nous dit : "Lâche-toi !"**
