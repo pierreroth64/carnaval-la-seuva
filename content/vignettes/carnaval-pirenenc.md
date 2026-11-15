@@ -40,15 +40,11 @@ oc:
 
     La **"Seuva"**, beròi nom - e plan balhatz 🌳 - entau noste vilatge.
 
-    Dens totas las culturas, la seuva que tira tot un imaginari misteriós : èstes maliciós  encantadors, animaus discrets mes numerós, legendas e istuèras transmetudas de generacion en generacion...
+    Dens totas las culturas, la seuva que tira tot un imaginari misteriós : èstes maliciós  encantadors, animaus discrets mes numerós, legendas e istuèras transmetudas de generacion en generacion. Qu'èm pregondament estacats au noste vilatge, a las nostes seuvas, aus nostes arrius, ad aqueth petit tròç de Biarn, conhit au pè deus Pireneus. Alavetz aqueth carnaval, qu'averà totas las colors d'ací. Que sia dens los decòrs, los costumas, las istuèras contadas, que sentiratz l'aulor de la tèrra, aquiu devath deus pès, la presença de la seuva qui per nos ei tan cara 🌳 e qu'enteneratz dab delici las sonoritats de la lenga d'ací.
 
-    Qu'èm, Seuvetons & Seuvetonas, fièrs deu noste vilatge, de las nostes seuvas, deus nostes arrius, d'aqueth petit tròç de Biarn, conhit au pè deus Pireneus.
+    Fièrs de la **cultura noste** e de **la lenga noste** qui avem eritat, que consideram qu'ua cultura horta qu'ei ua cultura qui arcuelha. Que siatz chins deu pais o vienguts d'aulhors, d'ací o de l'aute part deu monde, **las nostas arradits que son pro pregonas entà har plaça tà tot lo monde**.
 
-    Fièrs de la **cultura noste** e de **la lenga noste** qui avem eritat.
-
-    Alavetz aqueth, qu'averà totas las colors d'ací. Que sia dens los decòrs, los costumas, las istuèras contadas, que sentiratz l'aulor de la tèrra, aquiu devath deus pès, la presença de la seuva qui per nos ei tan cara. 🌳
-
-    Tant prèssa de'vs i retrobar, qui siatz vaduts ací o aulhors.
+    Tan pressatz de'vs retrobar lo 30 de genèr !
 
     🎉 Amassa **tà har petar la timpona**¹ 🎉
 
@@ -82,15 +78,11 @@ Le carnaval c'est une fête populaire permettant de décompresser devant un mond
 
 La **"Seuva"**, la forêt. C'est ainsi que s'appelle - à juste titre 🌳 - notre village.
 
-Dans toutes les cultures, la forêt tracte tout un imaginaire mystérieux : des êtres malicieux et féériques, des animaux discrets mais nombreux, des légendes et histoires qu'on se transmet de génération en génération...
+Dans toutes les cultures, la forêt porte tout un imaginaire mystérieux : des êtres malicieux et féériques, des animaux discrets mais nombreux, des légendes et histoires qu'on se transmet de génération en génération. Nous sommes profondément attaché à notre village, à nos forêts, à nos ruisseaux, à ce petit bout de Béarn, niché au pieds des Pyrénées. Alors ce carnaval, il aura toutes les couleurs d'ici. Que ce soit dans les décors, les costumes, les histoires racontées, vous sentirez l'odeur de la terre, là sous nos pieds, la présence de la forêt qui nous est si chère 🌳 et vous entendrez avec délice les sonorités la langue d'ici.
 
-Nous sommes, Lasseuboises & Lasseubois, fiers de notre village, de nos forêts, de nos ruisseaux, de ce petit bout de Béarn, niché au pieds des Pyrénées.
+Fiers de **notre langue** et de **notre culture** dont nous avons hérité, nous considérons qu'un culture forte est une culture qui accueille. Que vous soyez enfants du pays ou venus d'ailleurs, d'ici ou de l'autre bout du monde, **nos racines sont assez profondes pour faire de la place à tout le monde**.
 
-Fiers de **notre culture** et de **notre langue** dont nous avons hérité.
-
-Alors ce carnaval, il aura toutes les couleurs d'ici. Que ce soit dans les décors, les costumes, les histoires racontées, vous sentirez l'odeur de la terre, là sous nos pieds, la présence de la forêt qui nous est si chère. 🌳
-
-Tellement hâte de vous y retrouver, que vous soyez nés ici ou ailleurs.
+On a hâte de vous retrouver le 30 janvier !
 
 🎉 Ensemble **tà har petar la timpona**¹ 🎉
 
