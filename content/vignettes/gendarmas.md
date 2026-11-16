@@ -13,7 +13,7 @@ oc:
   title: "Los Gendarmas"
   subtitle: ""
   category: "Personatges"
-  accessoire: "Kepí, matraca e... botelha de vin"
+  accessoire: "Quèpi, matraca e... botelha de vin"
   cri: "Cargar !!!"
   description: |
     ### Ua banda de gaujós
@@ -24,7 +24,7 @@ oc:
 
     ### Signes distinctius
 
-    Que'us reconeisheratz a tot còp : granas casquetas, matracas miaçantas, shiulets valents mes subertot, nas un drin tròp rois... (de segur per'mor de las botelhas de vin esconudas devath deus vestons !)
+    Que'us reconeisheratz a tot còp : grans quèpis, matracas miaçantas, shiulets valents mes subertot, nas un drin tròp rois... (de segur per'mor de las botelhas de vin esconudas devath deus vestons !)
 ---
 
 ### Une bande de joyeux lurons
