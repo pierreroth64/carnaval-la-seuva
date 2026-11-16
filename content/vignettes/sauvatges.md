@@ -4,27 +4,27 @@ order: 10
 tilt: "-2.8deg"
 image: "/images/sauvatges.jpg"
 fr:
-  title: "Les sauvages"
+  title: "Los Sauvatges"
   subtitle: "...pour les ados ?"
   category: "Faire Carnaval"
   accessoire: "visage noir, habits sales, peaux de bêtes, cornes"
   cri: "Rhhhhaaaaaaa !!!"
 oc:
-  title: "Los sauvatges"
+  title: "Los Sauvatges"
   subtitle: "...entaus adòs ?"
   category: "Har Carnaval"
-  accessoire: "cara negra, vestits cascans, pèths de bestias, còrnas"
+  accessoire: "cara negra, vestits cascans, pèths de bestias, còrns"
   cri: "Rhhhhaaaaaaa !!!"
   description: |
     ### Un personatge principau
 
     Gigants cubèrts de peus, de mossa o de pèths de bestias, que viven au hons des las seuvas e de las hautas estivas. Luenh d'estar sonque simples monstres, qu'incarnan la **fòrça bruta de la natura** e que son los **guardians deus secrets ancestraus**.
 
-    Miei-omi, miei-ors, com "Jan de l'ors"¹, qu'an ua fòrça sus-umana.
+    Miei-òmi, miei-ors, com "Jan de l'ors"¹, qu'an ua fòrça sus-umana.
 
     ### Lo son ròtle
 
-    La cara negra de sueja, los òmis sauvatges qu'arriban en tot gronhar, en tot segotir las sonalhas entà caçar los maishants esperits de l'ivèrn. Que pujan pertot, son incontrolables e que hèn paur aus poquets com aus grans.
+    La cara negra de sueja, los òmis sauvatges qu'arriban en tot gronhar, en tot segotir las esquiras entà caçar los maishants esperits de l'ivèrn. Que pujan pertot, son incontrolables e que hèn paur aus poquets com aus grans.
 
     ¹ cf. la legenda de [Jan de l'ors](https://fr.wikipedia.org/wiki/Jean_de_l%27Ours) 
 ---

@@ -4,7 +4,7 @@ order: 3
 tilt: "-5.8deg"
 image: "/images/palhassas.jpg"
 fr:
-  title: "Los Palhassa"
+  title: "Los Palhassas"
   subtitle: ""
   category: "Personnages"
   accessoire: "Costume en toile de jute & chapeau de paille"
@@ -13,19 +13,19 @@ oc:
   title: "Los Palhassas"
   subtitle: ""
   category: "Personatges"
-  accessoire: "Costuma de tela de bruta & capèth de palha"
+  accessoire: "Costuma de tela de jute & capèth de palha"
   cri: "Honhar !!!"
   description: |
     ### Qui son ?
 
-    Vestits "d'uniformas" de tela de bruta empleats de palh,, los **Palhassas** que son los guardas de Sent Pançard. Aqueths personatges gualhars e cridassèrs a las caras pintradas de roi e jaune, colors deu Biarn, ne son pas plan sapiens mes que son servidors fidèus de Sa Majestat. N'esitaràn pas a desfiar los gendarmes entà entrar en fòrça dens lo viltage e portar haut lo lor Rei.
+    Vestits "d'unifòrmas" de tela de jute empleats de palha, los **Palhassas** que son los guardas de Sent Pançard. Aqueths personatges gualhards e cridassèrs dab caras pintradas de roi e jaune, colors deu Biarn, ne son pas plan sapiens mes que son servidors fidèus de Sa Majestat. N'esitaràn pas a desfiar los gendarmes entà entrar en fòrça dens lo viltage e portar haut lo lor Rei.
 
     ### Las loas caracteristicas :
 
     * Un drin (hèra !) asos.
-    * Gualhards e bagaraires
+    * Gualhards e patacaires
     * Mes còrs tenhèrs e influençables
-    * Segueishen lo medish regimi alimentari estrict que Sent Pançard 😄
+    * Segueishen lo medish regimi alimentari estrict com Sent Pançard 😄
 ---
 
 ### Qui sont-ils ?

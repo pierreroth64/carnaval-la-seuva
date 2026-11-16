@@ -13,21 +13,21 @@ oc:
   title: "Sent Pançard"
   subtitle: ""
   category: "Personatges"
-  accessoire: "Corona, colièr de saucissas & sèptre"
+  accessoire: "Corona, coret de saussissas & scèptre"
   cri: "Avisatz-ve... Que torni !"
   description: |
     ### Sa Majestat Sent Pançard
 
-    Sent Pançard qu'ei lo rei 👑 deu carnaval pirenenc. Personatge grotèsc gahat de tots los vicis, que torna cada an entà encanalhà's quauques oras.
+    Sent Pançard qu'ei lo rei 👑 deu carnaval pirenenc. Personatge grotèsc gahat de tots los vicis, que torna cada an entà encanalhà's quauquas òras.
 
-    Acusat de tots los maus de la tèrra, qu'ei lo perfèit **boc-emissari**, responsable de las injusticias e malurs deu monde.
+    Acusat de tots los maus de la tèrra, qu'ei lo perfèit **boc-emissari**, responsable de las injustícias e malurs deu monde.
 
-    Que l'adoram e que'ns hè hasti tot au cop. A la noste imatge, qu'a un costat luminos e un aute mei escur. 
+    Que l'adoram e que'ns hè hasti tot au còp. Au noste imatge, qu'a un costat luminós e un aute mei escur. 
 
     ### Lo son retorn
 
-    En exil en Aragon, que trauca los pireneus acompanhat deus sons fideus  [palhassas](./#vignette/palhassas) e que's presenta a las portas deu viltage entà préner las claus 🗝️.
-    Lo temps d'un dia, que difusa la holia deu Carnaval per las carrèras 🎊... plan susvelhat totun per [Carronha](./#vignette/carronha) e l'uelh maishant de [Carèsma](./#vignette/caresma) !
+    En exili en Aragon, que trauca los pireneus acompanhat deus sons fidèus  [palhassas](./#vignette/palhassas) e que's presenta a las pòrtas deu viltage entà préner las claus 🗝️.
+    Lo temps d'un dia, qu'espandeish la holia deu Carnaval per las carrèras 🎊... plan susvelhat totun per [Carronha](./#vignette/carronha) e l'uelh maishant de [Quaresma](./#vignette/quaresma) !
 ---
 
 ### Sa Majesté Sent Pançard
@@ -41,5 +41,5 @@ Nous l'adorons et le détestons à la fois. A notre image, il a un côté lumine
 ### Son retour
 
 En exil en Aragon, il traverse les pyrénées accompagné de ses fidèles [palhassas](./#vignette/palhassas) et se présente aux portes du village pour en prendre les clés 🗝️.
-Le temps d'une journée, il diffuse la folie du Carnaval dans les rues 🎊... sous la surveillance de [Carronha](./#vignette/carronha)  et l'oeil réprobateur de [Carèsma](./#vignette/caresma) !
+Le temps d'une journée, il diffuse la folie du Carnaval dans les rues 🎊... sous la surveillance de [Carronha](./#vignette/carronha)  et l'oeil réprobateur de [Quaresma](./#vignette/caresma) !
 

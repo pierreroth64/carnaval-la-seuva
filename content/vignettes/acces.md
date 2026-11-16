@@ -16,18 +16,18 @@ oc:
   accessoire: ""
   cri: ""
   description: |
-    ### Quin viéner / ont parcà's ?
+    ### Quin viéner / on parcà's ?
 
     * ✅ Desempuish **Pau**
       * direccion Gan, puish La Seuva au huec de la farmacia
-      * a l'entrada deu vilatge, parcà's suu parling de l'escòla o un drin mei luenh suu parking de la sala polyvalenta
+      * a l'entrada deu vilatge, parcà's suu parking de l'escòla o un drin mei luenh suu parking de la sala polivalenta
     * ✅ Desempuish **Belair**
       * direccion La Seuvetat, puish La Seuva
       * tot juste après lo camping, a man dreta, parking de la promenada
-    * ✅ Desempuish **La Commanda**
+    * ✅ Desempuish **La Comanda**
       * direccion La Seuva
       * a l'entrada deu vilatge, quauques plaças suu parking de l'ostau de santat
-    * ⚠️ Accès impossible aux parkings desempuish Estialesc
+    * ⚠️ Accès impossible aus parkings desempuish Estialesc
 ---
 
 ### Comment venir / où se garer ?

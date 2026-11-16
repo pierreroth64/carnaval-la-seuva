@@ -4,16 +4,16 @@ order: 4
 tilt: "-2.8deg"
 image: "/images/animaus.jpg"
 fr:
-  title: "Les animaux"
+  title: "Les Animaux"
   subtitle: "...pour les enfants ?"
   category: "Faire Carnaval"
   accessoire: "Costumes d'animaux, maquillage"
   cri: "Nas de taishon ? Taishon !!!"
 oc:
-  title: "Los animaus"
+  title: "Los Animaus"
   subtitle: "...entaus mainats ?"
   category: "Har Carnaval"
-  accessoire: "Costumas d'animaus, mascaratge"
+  accessoire: "Costumes d'animaus, mascaratge"
   cri: "Nas de taishon ? Taishon !!!"
   description: |
     ### Los mainats en animaus de la seuva
@@ -22,13 +22,13 @@ oc:
 
     Lo dia deu Carnaval de La Seuva que son tots de sortida ! Esquiròus, cabiròus, taishons, ausèths, vops, etc... Tots que sorteishen deu bòsc entà encanalhà's dens lo vilatge !
 
-    ### Los costumas
+    ### Los costumes
 
-    Daubuns que profieiteràn de la pausa de Nadau entà sollicitar une mair bona costurèra 🪡... d'autes que voleràn a tot prètz confeccionar lo lor costuma tot sols. Ua cause de segura: las carrèras de La Seuva que seràn negadas de gaujos animaus de tota sòrta e plan colorats !
+    Daubuns que profieiteràn de la pausa de Nadau entà sollicitar une mair bona costurèra 🪡... d'autes que voleràn a tot copar confeccionar lo lor costume tot sols. Ua causa de segura : las carrèras de La Seuva que seràn negadas d'animaus gaujós de tota sòrta e plan colorats !
 
-    ### A l'escola...
+    ### A l'escòla...
 
-    Los regents e la regentas que son assabentats: aqueth carnaval biarnés que va estar granàs ! Que preparan dab los mainats dansas e cantas ! 🎶
+    Los regents e la regentas que son assabentats : aqueth carnaval biarnés que va estar granàs ! Que preparan dab los mainats danças e cantas ! 🎶
 ---
 
 ### Les enfants en animaux de la forêt
@@ -39,7 +39,7 @@ Le jour du Carnaval de La Seuva ils sont tous de sortie ! Des écureuils, des ch
 
 ### Les costumes
 
-Certains profiteront de la pause de Noël pour solliciter une mamie couturière 🪡... d'autres tiendront à confectionner leur costume tout seuls. Une chose est sûre: les rues de Lasseube seront envahies de joyeux animaux en tout genre et haut en couleur !
+Certains profiteront de la pause de Noël pour solliciter une mamie couturière 🪡... d'autres tiendront à confectionner leur costume tout seuls. Une chose est sûre : les rues de Lasseube seront envahies de joyeux animaux en tout genre et haut en couleur !
 
 ### A l'école...
 

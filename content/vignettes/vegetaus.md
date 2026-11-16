@@ -4,23 +4,23 @@ order: 8
 tilt: "-2.8deg"
 image: "/images/vegetaus.jpg"
 fr:
-  title: "Les végétaux"
+  title: "Los Vegetaus"
   subtitle: "...pour les adultes ?"
   category: "Faire Carnaval"
   accessoire: "Lierre, fougères, maquillage vert, ..."
   cri: ""
 oc:
-  title: "Los vegetaus"
+  title: "Los Vegetaus"
   subtitle: "...entaus adultas ?"
   category: "Har Carnaval"
-  accessoire: "Gièira, fogèras, mascaratge vert, ..."
+  accessoire: "Gèira, heuç, mascaratge verd, ..."
   cri: ""
   description: |
-    ### 🌳 Los vegetaus 🌱
+    ### 🌳 Los Vegetaus 🌱
 
-    Lo Carnaval Biarnés de La Seuva que segueish la trama deu [carnaval traditionau pirenenc](./#vignette/carnavalpirenenc). Aciu, a La Seuva, la **Natura** majestuosa qu'ei a l'aunor. Quauques fogèras dens lo pèu, un drin de mascaratge vert sus mus e que seratz prèsts tà har la timpona !
+    Lo Carnaval Biarnés de La Seuva que segueish la trama deu [carnaval tradicionau pirenenc](./#vignette/carnavalpirenenc). Aciu, a La Seuva, la **Natura** majestuosa qu'ei a l'aunor. Quauquas heuç dens lo peu, un drin de mascaratge verd suu mus e que seratz prèsts tà har la timpona !
 
-    ... e que bastiratz autau un decòr magnific entaus [petits animaus](./#vignette/animaus) qui negaràn las carrèras deu vilatge !
+    ... e que bastiratz atau un decòr magnific entaus [petits animaus](./#vignette/animaus) qui invadiràn las carrèras deu vilatge !
 ---
 
 ### 🌳 Les végétaux 🌱

@@ -16,9 +16,9 @@ oc:
   accessoire: ""
   cri: ""
   description: |
-    ### Un repaish populari
+    ### Un repaish popular
 
-    Un repas populari qu'ei prepausat aus carnavalèrs a la sala polyvalenta, lòc d'arribada deu passei. Volontàriament bon mercat, que permeterà - que l'esperam - a tot lo monde de profieitar d'un bon moment tots amassa entà's rescauhar quau que sia la pregondor deu son pòrta moneda.
+    Un repas popular qu'ei prepausat aus carnavalèrs a la sala polivalenta, lòc d'arribada deu passei. Volontàriament a bon compte, que permeterà - que l'esperam - a tot lo monde de profieitar d'un bon moment tots amassa entà's rescauhar quau que sia la pregondor deu son pòrta moneda.
 
     ### Taus adultes (10 €)
 
@@ -35,7 +35,7 @@ oc:
     Un sachet dab...
     * un enterpan
     * un paquet de chips
-    * ua bebuda
+    * ua bevuda
     * quauques bonbons
 ---
 

@@ -4,7 +4,7 @@ order: 11
 tilt: "-5.8deg"
 image: "/images/vinherons.jpg"
 fr:
-  title: "Les Vignerons"
+  title: "Los Vinherons"
   subtitle: "...pour les adultes ?"
   category: "Faire Carnaval"
   accessoire: "Tunique verte, feuilles de vigne et grappes de raisin"

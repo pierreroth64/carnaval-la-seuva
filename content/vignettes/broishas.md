@@ -4,29 +4,29 @@ order: 9
 tilt: "-2.8deg"
 image: "/images/broishas.jpg"
 fr:
-  title: "Les sorcières"
+  title: "Las Broishas"
   subtitle: "...pour les ados ?"
   category: "Faire Carnaval"
-  accessoire: "Maquillage sombre, chapeau tordu et un balais"
+  accessoire: "Maquillage sombre, chapeau pointu et un balais"
   cri: ""
 oc:
-  title: "Las broishas"
+  title: "Las Broishas"
   subtitle: "...entaus adòs ?"
   category: "Har Carnaval"
-  accessoire: "Mascaratge escur, captèth torsut e ua escoba"
+  accessoire: "Mascaratge escur, capèth ponchut e ua escoba"
   cri: ""
   description: |
-    ### Las rebèlas
+    ### Las rebèllas
 
-    Dens l'imaginari pirenenc, las broishas (o posoèras) en Béarn e en Bigorre  qu'incarnan tot au cop las **forças sauvatges** de la montanha e la **cara de la rebèla marginau**.
+    Dens l'imaginari pirenenc, las broishas (o posoèras) en Béarn e en Bigòrra  qu'incarnan tot au còp las **fòrças sauvatjas** de la montanha e la **cara de la rebèlla marginau**.
 
-    Vestidas de gueilhas, armadas d'escobas, de veishigas de pòrc o de cendras que jetan sus la horrèra, las broishas que semian un desordi gaujós. Que's trufan deus notables e que'ns bremban que, lo temps de la hèsta, las règlas sociaus e son abolidas.
+    Vestidas de pendelhas, armadas d'escobas, de veishigas de pòrc o de brasas que getan sus la horrèra, las broishas que semian un desordi gaujós. Que's trufan deus notables e que'ns bremban que, lo temps de la hèsta, las règlas sociaus e son abolidas.
 
-    Au ras deus [òmis sauvatges](./#vignette/sauvatges), que simbolisan la **natura indomptada** qui sorteish de la soa torpor. La loa dansa holeta que participa au desvelh de la tèrra abanç lo printemps.
+    Au ras deus [òmis sauvatges](./#vignette/sauvatges), que simbolizan la **natura indomptada** qui sorteish de la soa torpor. La loa dança holeta que participa au desvelh de la tèrra abans lo printemps.
 
-    ### A que semblan ?
+    ### A qué semblan ?
 
-    Un chapèu o un teishut dens lo peu, un mascaratge prononçat e raubas longas. Tot au contre de ço qui's pòd imaginar, èran consideradas broishas las **hemnas "tròp" beròjas**, sustot quan aquera beutat que s'acompanhava d'ua fòrma d'independencia o escapava au contre-ròtle sociau.
+    Un capèth, un mascaratge prononçat e raubas de perrec. Tot au contre de çò qui's pòd imaginar, èran consideradas broishas las **hemnas "tròp" beròjas**, sustot quan aquera beutat e s'acompanhava d'ua fòrma d'independéncia o escapava au contròtle sociau.
 ---
 
 ### Les rebelles
@@ -39,4 +39,4 @@ Aux côtés de l'ours et des [hommes sauvages](./#vignette/sauvatges), elles sym
 
 ### A quoi ressemblent-elles ?
 
-Un chapeau ou un foulard dans les cheveux, un maquillage prononcé et des robes longues. Contrairement à ce qu'on peut imaginer, étaient considérées comme sorcières les **femmes "trop" jolies**, surtout lorsque cette beauté s'accompagnait d'une forme d'indépendance ou échappait au contrôle social.
+Un chapeau, un maquillage prononcé et des robes en haillons. Contrairement à ce qu'on peut imaginer, étaient considérées comme sorcières les **femmes "trop" jolies**, surtout lorsque cette beauté s'accompagnait d'une forme d'indépendance ou échappait au contrôle social.

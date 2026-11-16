@@ -19,16 +19,16 @@ oc:
     ### Lo Carnaval... ua hèsta planetaria 🌍
 
     Pertot dens lo monde, qu'existeishen carnavals.
-    Hèsta pagana deu hons deus atges a las originas chamanics, qu'ei aqueth moment de **holia colectiva** - exutòri entaus pòples deu monde sancèr - qui permet de criticar los poderós e de desbrombar quauque temps los chepics de la vita. 
+    Hèsta pagana deu hons deus atges a las originas chamanics, qu'ei aqueth moment de **holia collectiva** - exutòri entaus pòples deu monde sancèr - qui permet de criticar los poderós e de desbrombar quauque temps los chepics de la vita. 
 
     ### En Biarn, un carnaval pirenenc ⛰️
 
-    En Biarn, lo carnaval que's declina sus la soa fòrma pirenenca: qu'i arretrobam los medishs personatges, legendas e istuèras de part e d'aute deus pireneus et de la mar grana dinc a la mar mediterrana.
+    En Biarn, lo carnaval que's declina sus la soa fòrma pirenenca: qu'i arretrobam los medishs personatges, legendas e istuèras de part e d'aute deus pireneus e de la mar grana dinc a la mar mediterrana.
 
-    La tempsada de Carnaval que correspon ací a la renavida: lo printemps que punteja ! 🌱
+    La tempsada de Carnaval que correspon ací a la renavida : lo printemps que punteja ! 🌱
 
     [Sent Pançard](./#vignette/sentpancard) 👑, lo rei deu Carnaval, que torna dongas cada an. 
-    Que hè sortir tot çò d'esconut en cadun: la noste **fantesia** escanada per ua mòda uniformisada, la noste **revòlta** de cap a las injusticias deu monde, lo noste **costat "pèc"** plan tròp sage pendent lo restant de l'annada...
+    Que hè sortir tot çò d'esconut en cadun: la nosta **fantesia** escanada per ua mòda uniformisada, la nosta **revòlta** de cap a las injustícias deu monde, lo noste **costat "pèc"** plan tròp sage pendent lo restant de l'annada...
 
     **Sent Pançard que ns'interpèla e que'ns ditz : "Destimborla't !"**
 
@@ -38,13 +38,13 @@ oc:
 
     ### A La Seuva 🌳
 
-    La **"Seuva"**, beròi nom - e plan balhatz 🌳 - entau noste vilatge.
+    La **"Seuva"**, beròi nom - e plan balhat 🌳 - entau noste vilatge.
 
-    Dens totas las culturas, la seuva que tira tot un imaginari misteriós : èstes maliciós  encantadors, animaus discrets mes numerós, legendas e istuèras transmetudas de generacion en generacion. Qu'èm pregondament estacats au noste vilatge, a las nostes seuvas, aus nostes arrius, ad aqueth petit tròç de Biarn, conhit au pè deus Pireneus. Alavetz aqueth carnaval, qu'averà totas las colors d'ací. Que sia dens los decòrs, los costumas, las istuèras contadas, que sentiratz l'aulor de la tèrra, aquiu devath deus pès, la presença de la seuva qui per nos ei tan cara 🌳 e qu'enteneratz dab delici las sonoritats de la lenga d'ací.
+    Dens totas las culturas, la seuva que pòrta tot un imaginari misteriós : èstes maliciós  encantadors, animaus discrets mes numerós, legendas e istuèras transmetudas de generacion en generacion. Qu'èm pregondament estacats au noste vilatge, a las nostes seuvas, aus nostes arrius, ad aqueth petit tròç de Biarn, acoconat au pè deus Pireneus. Alavetz aqueth carnaval, qu'averà totas las colors d'ací. Que sia dens los decòrs, los costumes, las istuèras contadas, que sentiratz l'aulor de la tèrra, aquiu devath deus pès, la presença de la seuva qui per nos ei tan cara 🌳 e qu'enteneratz dab delici las sonoritats de la lenga d'ací.
 
-    Fièrs de la **cultura noste** e de **la lenga noste** qui avem eritat, que consideram qu'ua cultura hòrta qu'ei ua cultura qui arcuelha. Que siatz chins deu pais o vienguts d'aulhors, d'ací o de l'aute part deu monde, **las nostas arradits que son pro pregonas entà har plaça tà tot lo monde**.
+    Fièrs de la **cultura nosta** e de **la lenga nosta** de las quaus avem eritat, que consideram qu'ua cultura hòrta qu'ei ua cultura qui arcuelha. Que siatz chins deu pais o vienguts d'aulhors, d'ací o de l'aute part deu monde, **las nostas arradits que son pro pregonas entà har plaça tà tot lo monde**.
 
-    Tan pressatz de vs'arretrobar lo 30 de genèr !
+    Tan pressatz de v'i arretrobar lo 30 de genèr !
 
     🎉 Amassa **tà har petar la timpona**¹ 🎉
 

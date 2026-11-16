@@ -20,13 +20,13 @@ oc:
 
     Los adultas que pòden causir de mascà's en **"Bohèmis"**. 
     Los Bohèmis qu'èran mespresats e discriminats.
-    Atau, lo carnaval pirenenc que hasè plaça tad aquera classa sociau sovent praube per denonciar aquera praticas xenofòbs e perméter d'aficar la loa cultura shens bergonha dens las carrèras.
+    Atau, lo carnaval pirenenc que hasè plaça tad aquera classa sociau sovent praube per denonciar aqueras praticas xenofòbs e perméter d'aficar la loa cultura shens vergonha dens las carrèras.
 
-    ### Los costumas
+    ### Los costumes
 
     Los mainats en animaus de la seuva, los adultes que pòden jogar tanben !
     Beròis pendents d'aurelha, teishuts dens lo pèu e polidas raubas longas tà las daunas.
-    Chapèus e vestons taus mossurs, pantelons un drin bracs aconselhats tà mei de fantesia ! 
+    Capèths e vestons taus mossurs, pantelons un drin bracs aconselhats tà mei de fantesia ! 
 ---
 
 ### Pourquoi des "Bohémiens" ?

@@ -4,13 +4,13 @@ order: 12
 tilt: "-2.8deg"
 image: "/images/programa.jpg"
 fr:
-  title: "Le programme"
+  title: "Le Programme"
   subtitle: ""
   category: "Infos pratiques"
   accessoire: ""
   cri: ""
 oc:
-  title: "Lo programa"
+  title: "Lo Programa"
   subtitle: ""
   category: "Infòs practicas"
   accessoire: ""
@@ -20,13 +20,13 @@ oc:
 
     Qu'ei lo **30 de genèr 2027** !!! 🎉
 
-    * 17ò00 : Rendetz-vse sus la plaça deu vilatge, dabant la glèisa (musica, dansas)
-    * 18ò00 : Arribada prevista de Sent Pançard.. E passarà las pòrtas deu vilatge ?
+    * 17ò00 : Rendetz-ve sus la plaça deu vilatge, davant la glèisa (musica, danças)
+    * 18ò00 : Arribada prevista de Sent Pançard... E passarà las pòrtas deu vilatge ?
     * 18ò30 : Remesa de las claus deu viltage per M. Lo Maire
     * 18ò45 : Passei dens lo vilatge
     * 19ò45 : Cremacion deus "Chepics"
     * 20ò30 : Bals
-      * Pialots de còrdas
+      * Pialòts de còrdas
       * Kaixo Duo 
 
     🍽️ Restauracion sus plaça !
