@@ -27,4 +27,4 @@ Ces gardiens du vin de Jurançon rappellent que la vigne est avant tout une affa
 
 ### Costumes
 
-De belles feuilles de vigne, quelques grappes de raisin qui auront entaché leurs tuniques, ces joyeux lurons au nez "légèrement" rosé vous serviront avec de grands sourires un verre de vin blanc bien rempli.
+De belles feuilles de vigne, quelques grappes de raisin qui auront entaché leurs tuniques, ces joyeux lurons au nez _"légèrement"_ rosé vous serviront avec de grands sourires un verre de vin blanc bien rempli.
