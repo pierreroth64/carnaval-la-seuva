@@ -1,24 +1,28 @@
 ---
-id: "vinherons"
+id: "vinhairons"
 order: 11
 tilt: "-5.8deg"
-image: "/images/vinherons.jpg"
+image: "/images/vinhairons.jpg"
 fr:
-  title: "Los Vinherons"
+  title: "Los Vinhairons"
   subtitle: "...pour les adultes ?"
   category: "Faire Carnaval"
   accessoire: "Tunique verte, feuilles de vigne et grappes de raisin"
   cri: "Santat !!!"
 oc:
-  title: "Los Vinherons"
+  title: "Los Vinhairons"
   subtitle: "...entaus adultas ?"
   category: "Har Carnaval"
-  accessoire: "Tunica verta, huelhas de vith e grapas d'arrasim"
+  accessoire: "Tunica verda, huelhas de vit e gaspas d’arrasim"
   cri: "Santat !!!"
   description: |
-    ### Qui son ?
+    ### Los guardians deu nectar biarnés
 
-    A escriber (ref aus vinherons deu vilatge)
+    Aqueths guardians deu vin de Juranson que’ns bremban la vit qu'ei, purmèr que tot, un ahar de **partatge**, de **convivialitat** e d'**exuberància**. Dab l’espiada planvolenta de Bacchus (divinitat romana) que hèn chorrar la gaujor autant com lo vin, incarnant maravilhosament l’**esperit frondaire e generós de la hèsta**.
+
+    ### Costumes
+
+    Beròias huelhas de vit, quauquas gaspas d’arrasim qui averàn plapat las loas tunicas, aqueths gaujós esberits, lo nas un drin rosat, que’vs serviràn, dab grans arridolets, un veire de vin blanc plan plenhat.
 ---
 
 ### Les gardiens du nectar béarnais
