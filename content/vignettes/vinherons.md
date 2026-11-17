@@ -21,6 +21,10 @@ oc:
     A escriber (ref aus vinherons deu vilatge)
 ---
 
-### Qui sont-ils ?
+### Les gardiens du nectar béarnais
 
-A écrire
+Ces gardiens du vin de Jurançon rappellent que la vigne est avant tout une affaire de **partage**, de **convivialité** et d'**exubérance**. Sous le regard bienveillant de Bacchus (divinité romaine), ils font couler la joie autant que le bon vin, incarnant à merveille l'**esprit frondeur et généreux de la fête**.
+
+### Costumes
+
+De belles feuilles de vigne, quelques grappes de raisin qui auront entaché leurs tuniques, ces joyeux lurons au nez "légèrement" rosé vous serviront avec de grands sourires un verre de vin blanc bien rempli.
