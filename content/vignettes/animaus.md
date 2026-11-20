@@ -9,12 +9,14 @@ fr:
   category: "Faire Carnaval"
   accessoire: "Costumes d'animaux, maquillage"
   cri: "Nas de taishon ? Taishon !!!"
+  tip: "Bien entendu, si vos enfants désirent se déguiser autrement, aucun problème : toutes les idées sont les bienvenues pour un carnaval qui met à l'honneur la forêt !"
 oc:
   title: "Los Animaus"
   subtitle: "...entaus mainats ?"
   category: "Har Carnaval"
   accessoire: "Costumes d'animaus, mascaratge"
   cri: "Nas de taishon ? Taishon !!!"
+  tip: "Plan segur, si los vòstes mainats e desiran costumà's autament, nad chepic : totas las ideas que son las planviengudas tà un carnaval qui hica la seuva a l'aunor !"
   description: |
     ### Los mainats en animaus de la seuva
 

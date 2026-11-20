@@ -9,12 +9,14 @@ fr:
   category: "Faire Carnaval"
   accessoire: "Lierre, fougères, maquillage vert, ..."
   cri: ""
+  tip: ""
 oc:
   title: "Los Vegetaus"
   subtitle: "...entaus adultas ?"
   category: "Har Carnaval"
   accessoire: "Gèira, heuç, mascaratge verd, ..."
   cri: ""
+  tip: ""
   description: |
     ### 🌳 Los Vegetaus 🌱
 

@@ -9,12 +9,14 @@ fr:
   category: "Faire Carnaval"
   accessoire: "Maquillage sombre, chapeau pointu et un balais"
   cri: ""
+  tip: ""
 oc:
   title: "Las Broishas"
   subtitle: "...entaus adòs ?"
   category: "Har Carnaval"
   accessoire: "Mascaratge escur, capèth ponchut e ua escoba"
   cri: ""
+  tip: ""
   description: |
     ### Las rebèllas
 

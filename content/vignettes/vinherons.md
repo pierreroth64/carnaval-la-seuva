@@ -9,12 +9,14 @@ fr:
   category: "Faire Carnaval"
   accessoire: "Tunique verte, feuilles de vigne et grappes de raisin"
   cri: "Santat !!!"
+  tip: ""
 oc:
   title: "Los Vinhairons"
   subtitle: "...entaus adultas ?"
   category: "Har Carnaval"
   accessoire: "Tunica verda, huelhas de vit e gaspas d’arrasim"
   cri: "Santat !!!"
+  tip: ""
   description: |
     ### Los guardians deu nectar biarnés
 

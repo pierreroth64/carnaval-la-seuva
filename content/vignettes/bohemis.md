@@ -9,12 +9,14 @@ fr:
   category: "Faire Carnaval"
   accessoire: "Boucles d'oreille, foulard dans les cheveux, chapeaux et vestons"
   cri: "Carnaval qu'avè solièrs de papèr"
+  tip: ""
 oc:
   title: "Los Bohèmis"
   subtitle: "...entaus adultas ?"
   category: "Har Carnaval"
   accessoire: "Pendents d'aurelha, teishut dens lo peu, capèths e vestons"
   cri: "Carnaval qu'avè solièrs de papèr"
+  tip: ""
   description: |
     ### Perqué los "Bohèmis" ?
 

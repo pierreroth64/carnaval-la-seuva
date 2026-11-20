@@ -9,12 +9,14 @@ fr:
   category: "Personnages"
   accessoire: "Costume blanc austère, canne à pêche avec poisson"
   cri: "Arridetz, arridetz... bèthlèu la fin de la hèsta"
+  tip: ""
 oc:
   title: "Quarèsma"
   subtitle: ""
   category: "Personatges"
   accessoire: "Vestit de blanc triste, canabèra dab un peish"
   cri: "Arridetz, arridetz... bèthlèu la fin de la hèsta"
+  tip: ""
   description: |
     ### Lo gran rivau de Sent Pançard
 

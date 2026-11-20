@@ -9,12 +9,14 @@ fr:
   category: "Infos pratiques"
   accessoire: ""
   cri: ""
+  tip: ""
 oc:
   title: "Quin viéner ?"
   subtitle: ""
   category: "Infòs practicas"
   accessoire: ""
   cri: ""
+  tip: ""
   description: |
     ### Quin viéner / on parcà's ?
 

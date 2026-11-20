@@ -9,12 +9,14 @@ fr:
   category: "Personnages"
   accessoire: "Képi, matraque et... bouteille de vin"
   cri: "Cargar !!!"
+  tip: ""
 oc:
   title: "Los Gendarmas"
   subtitle: ""
   category: "Personatges"
   accessoire: "Quèpi, matraca e... botelha de vin"
   cri: "Cargar !!!"
+  tip: ""
   description: |
     ### Ua banda de gaujós
 

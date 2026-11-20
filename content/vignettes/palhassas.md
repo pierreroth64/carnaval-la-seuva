@@ -9,12 +9,14 @@ fr:
   category: "Personnages"
   accessoire: "Costume en toile de jute & chapeau de paille"
   cri: "Honhar !!!"
+  tip: ""
 oc:
   title: "Los Palhassas"
   subtitle: ""
   category: "Personatges"
   accessoire: "Costuma de tela de jute & capèth de palha"
   cri: "Honhar !!!"
+  tip: ""
   description: |
     ### Qui son ?
 

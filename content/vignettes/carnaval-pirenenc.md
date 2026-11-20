@@ -9,12 +9,14 @@ fr:
   category: "Histoire"
   accessoire: ""
   cri: ""
+  tip: ""
 oc:
   title: "Un carnaval Pirenenc"
   subtitle: ""
   category: "Istòria"
   accessoire: ""
   cri: ""
+  tip: ""
   description: |
     ### Lo Carnaval... ua hèsta planetaria 🌍
 

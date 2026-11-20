@@ -279,6 +279,7 @@ permalink: "index.html"
         </div>
 
         <div id="detailMarkdown" class="markdown-body"></div>
+        <div id="detailTip"></div>
 
         <div class="mt-8 pt-5 border-t-2 border-moss-200 flex justify-between items-center text-xs sm:text-sm font-title font-bold">
           <button onclick="navigateArtwork(-1)" class="px-3.5 py-2 rounded-xl bg-moss-100 hover:bg-moss-200 text-moss-900 flex items-center gap-1.5 transition">
@@ -396,6 +397,7 @@ Sent Pançard
           category: {{ item.data.fr.category | dump | safe }},
           accessoire: {{ item.data.fr.accessoire | dump | safe }},
           cri: {{ item.data.fr.cri | dump | safe }},
+          tip: {{ item.data.fr.tip | dump | safe }},
           description: {{ item.templateContent | dump | safe }}
         },
         oc: {
@@ -404,6 +406,7 @@ Sent Pançard
           category: {{ item.data.oc.category | dump | safe }},
           accessoire: {{ item.data.oc.accessoire | dump | safe }},
           cri: {{ item.data.oc.cri | dump | safe }},
+          tip: {{ item.data.oc.tip | dump | safe }},
           description: {{ item.data.oc.description | dump | safe }}
         }
       }{% if not loop.last %},{% endif %}
@@ -654,6 +657,17 @@ Sent Pançard
       } else {
         document.getElementById('detailCri').classList.add('hidden');
       }
+      document.getElementById('detailTip').innerHTML = `
+          <p class="bg-yellow-100 rounded-lg p-4 text-xs text-gray-800">
+            <i class="fa-brands fa-pagelines text-mushroom-500"></i> ${data.tip}
+          </p>
+        `;
+      if (data.tip) {
+        document.getElementById('detailTip').classList.remove('hidden');
+      } else {
+        document.getElementById('detailTip').classList.add('hidden');
+      }
+
       if (data.accessoire) {
         document.getElementById('detailAccessoire').classList.remove('hidden');
       } else {

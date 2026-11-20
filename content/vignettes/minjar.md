@@ -9,12 +9,14 @@ fr:
   category: "Infos pratiques"
   accessoire: ""
   cri: ""
+  tip: ""
 oc:
   title: "Minjar"
   subtitle: ""
   category: "Infòs practicas"
   accessoire: ""
   cri: ""
+  tip: ""
   description: |
     ### Un repaish popular
 

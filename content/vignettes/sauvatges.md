@@ -9,12 +9,14 @@ fr:
   category: "Faire Carnaval"
   accessoire: "visage noir, habits sales, peaux de bêtes, cornes"
   cri: "Rhhhhaaaaaaa !!!"
+  tip: ""
 oc:
   title: "Los Sauvatges"
   subtitle: "...entaus adòs ?"
   category: "Har Carnaval"
   accessoire: "cara negra, vestits cascans, pèths de bestias, còrns"
   cri: "Rhhhhaaaaaaa !!!"
+  tip: ""
   description: |
     ### Un personatge principau
 

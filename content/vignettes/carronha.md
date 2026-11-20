@@ -9,12 +9,14 @@ fr:
   category: "Personnages"
   accessoire: "Robe sombre, mouchoir et parapluie"
   cri: "Be'n soi malurosa !"
+  tip: ""
 oc:
   title: "Carronha"
   subtitle: ""
   category: "Personatges"
   accessoire: "Rauba escura, mocader e paraploja"
   cri: "Be'n soi malurosa !"
+  tip: ""
   description: |
     ### Carronha la mau aimada
 

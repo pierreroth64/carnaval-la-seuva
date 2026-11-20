@@ -9,12 +9,14 @@ fr:
   category: "Faire Carnaval"
   accessoire: "Tenue de camouflage, fusil et un chien"
   cri: "Quin pet !!!"
+  tip: ""
 oc:
   title: "Los Caçadors"
   subtitle: "...entaus adultas ?"
   category: "Har Carnaval"
   accessoire: "Tienguda de camoflatge, fesil e un can"
   cri: "Quin pet !!!"
+  tip: ""
   description: |
     ### Qui son ?
 

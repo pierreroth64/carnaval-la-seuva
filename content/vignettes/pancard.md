@@ -9,12 +9,14 @@ fr:
   category: "Personnages"
   accessoire: "Couronne flamboyante, collier de saucisses & sceptre"
   cri: "Avisatz-ve... Que torni !"
+  tip: ""
 oc:
   title: "Sent Pançard"
   subtitle: ""
   category: "Personatges"
   accessoire: "Corona, coret de saussissas & scèptre"
   cri: "Avisatz-ve... Que torni !"
+  tip: ""
   description: |
     ### Sa Majestat Sent Pançard
 
@@ -22,7 +24,7 @@ oc:
 
     Acusat de tots los maus de la tèrra, qu'ei lo perfèit **boc-emissari**, responsable de las injustícias e malurs deu monde.
 
-    Que l'adoram e que'ns hè hasti tot au còp. Au noste imatge, qu'a un costat luminós e un aute mei escur. 
+    **Que l'adoram e que'ns hè hasti tot au còp**. Au noste imatge, qu'a un costat luminós e un aute mei escur. 
 
     ### Lo son retorn
 
@@ -36,7 +38,7 @@ Sent Pançard est le roi 👑 du carnaval pyrénéen. Personnage grotesque incar
 
 Accusé de tous les maux de la terre, il est le parfait **bouc-émissaire**, responsable des injustices et malheurs du monde.
 
-Nous l'adorons et le détestons à la fois. A notre image, il a un côté lumineux et un côté plus sombre. 
+**Nous l'adorons et le détestons à la fois**. A notre image, il a un côté lumineux et un côté plus sombre. 
 
 ### Son retour
 
