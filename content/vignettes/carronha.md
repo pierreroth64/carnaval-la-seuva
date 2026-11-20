@@ -32,5 +32,5 @@ Dans l'ombre de son mari extraverti Sent Pançard, **Carronha** - son épouse - 
 
 ### Son costume
 
-Vous la reconnaîtrez facilement : elle est vêtue d'habits sombres et le mouchoir pour essuyer ses larmes n'est jamais très loin. Elle peut être accompagnée d'amies langues de viperres.
+Vous la reconnaîtrez facilement : elle est vêtue d'habits sombres et le mouchoir pour essuyer ses larmes n'est jamais très loin. Elle peut être accompagnée d'amies langues de vipères.
 Faites attention, elle a le coup de parapluie facile ! 

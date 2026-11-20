@@ -78,9 +78,9 @@ Le carnaval c'est une fête populaire permettant de décompresser devant un mond
 
 La **"Seuva"**, la forêt. C'est ainsi que s'appelle - à juste titre 🌳 - notre village.
 
-Dans toutes les cultures, la forêt porte tout un imaginaire mystérieux : des êtres malicieux et féériques, des animaux discrets mais nombreux, des légendes et histoires qu'on se transmet de génération en génération. Nous sommes profondément attaché à notre village, à nos forêts, à nos ruisseaux, à ce petit bout de Béarn, niché au pieds des Pyrénées. Alors ce carnaval, il aura toutes les couleurs d'ici. Que ce soit dans les décors, les costumes, les histoires racontées, vous sentirez l'odeur de la terre, là sous nos pieds, la présence de la forêt qui nous est si chère 🌳 et vous entendrez avec délice les sonorités la langue d'ici.
+Dans toutes les cultures, la forêt porte tout un imaginaire mystérieux : des êtres malicieux et féériques, des animaux discrets mais nombreux, des légendes et histoires qu'on se transmet de génération en génération. Nous sommes profondément attaché à notre village, à nos forêts, à nos ruisseaux, à ce petit bout de Béarn, niché au pieds des Pyrénées. Alors ce carnaval, il aura toutes les couleurs d'ici. Que ce soit dans les décors, les costumes, les histoires racontées, vous sentirez l'odeur de la terre, là sous nos pieds, la présence de la forêt qui nous est si chère 🌳 et vous entendrez avec délice les sonorités de la langue d'ici.
 
-Fiers de **notre langue** et de **notre culture** dont nous avons hérité, nous considérons qu'un culture forte est une culture qui accueille. Que vous soyez enfants du pays ou venus d'ailleurs, d'ici ou de l'autre bout du monde, **nos racines sont assez profondes pour faire de la place à tout le monde**.
+Fiers de **notre langue** et de **notre culture** dont nous avons hérité, nous considérons qu'une culture forte est une culture qui accueille. Que vous soyez enfants du pays ou venus d'ailleurs, d'ici ou de l'autre bout du monde, **nos racines sont assez profondes pour faire de la place à tout le monde**.
 
 On a hâte de vous retrouver le 30 janvier !
 

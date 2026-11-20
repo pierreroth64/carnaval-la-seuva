@@ -33,13 +33,13 @@ oc:
 
 ### Les enfants en animaux de la forêt
 
-Lasseube (La Seuva en Occitan) signifie la forêt. Majestueuse, elle entoure chaleureusement notre village. Dans ses multiples recoins, les animaux se cachent.
+Lasseube ("La Seuva" en Occitan) signifie la forêt. Majestueuse, elle entoure chaleureusement notre village. Dans ses multiples recoins, les animaux se cachent.
 
-Le jour du Carnaval de La Seuva ils sont tous de sortie ! Des écureuils, des chevreuils, des blaireaux, des oiseaux, des renards, etc... Tous sortent du bois pour s'encanailler dans le village !
+Le jour du Carnaval de La Seuva, ils sont tous de sortie ! Des écureuils, des chevreuils, des blaireaux, des oiseaux, des renards, etc... Tous sortent du bois pour s'encanailler dans le village !
 
 ### Les costumes
 
-Certains profiteront de la pause de Noël pour solliciter une mamie couturière 🪡... d'autres tiendront à confectionner leur costume tout seuls. Une chose est sûre : les rues de Lasseube seront envahies de joyeux animaux en tout genre et haut en couleur !
+Certains profiteront de la pause de Noël pour solliciter une mamie couturière 🪡... d'autres tiendront à confectionner leur costume tout seuls. Une chose est sûre : les rues de Lasseube seront envahies de joyeux animaux en tout genre et hauts en couleur !
 
 ### A l'école...
 
