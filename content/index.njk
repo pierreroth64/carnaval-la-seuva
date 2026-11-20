@@ -294,7 +294,36 @@ permalink: "index.html"
   </main>
 
   <footer class="mt-auto border-t-2 border-white/10 bg-foliage/90 py-5 text-center text-xs text-moss-200">
-    <p class="font-hand text-lg sm:text-xl text-firefly" id="footerQuote">🎪 "Aucun blaireau n'a été blessé durant les lancers de confettis." 🎪</p>
+    <p class="font-hand text-lg sm:text-xl text-firefly mb-4" id="footerQuote"></p>
+    <footer-logos class="w-full border-t">
+      <div class="max-w-3xl mx-auto flex flex-wrap items-center justify-center gap-6 sm:gap-10">  
+        <a href="https://lapassem.com/" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          aria-label="Visiter le site de La Passem"
+          class="transition-transform duration-200 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 rounded">
+          <img src="./images/logos/logo_ligams.png" 
+              alt="Logo La Passem" 
+              class="h-14 w-auto object-contain">
+        </a>
+        <a href="https://www.lasseube.fr/" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          class="transition-transform duration-200 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 rounded">
+          <img src="./images/logos/logo_lasseube.svg" 
+              alt="Logo Commune de Lasseube" 
+              class="h-12 w-auto object-contain">
+        </a>
+        <a href="https://www.le64.fr/" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          class="transition-transform duration-200 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 rounded">
+          <img src="./images/logos/logo_64.svg" 
+              alt="Logo Conseil Départemental 64" 
+              class="h-14 w-auto object-contain">
+        </a>
+      </div>
+    </footer-logos>
     <p class="mt-1 opacity-70">Site web deu Carnaval Biarnés de La Seuva • 100% de casa hèit per l'equipa deus Seuvetons</p>
   </footer>
 
@@ -551,7 +580,6 @@ Sent Pançard
         if (art.fr.category === 'Histoire') badgeColor = 'bg-festive-orange';
         if (art.fr.category === 'Faire Carnaval') badgeColor = 'bg-festive-teal';
         if (art.fr.category === 'Infos pratiques') badgeColor = 'bg-moss-700';
-        console.log("itemData", itemData);
 
         card.innerHTML = `
           <div>
