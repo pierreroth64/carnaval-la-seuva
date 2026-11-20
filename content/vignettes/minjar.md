@@ -18,7 +18,7 @@ oc:
   description: |
     ### Un repaish popular
 
-    Un repas popular qu'ei prepausat aus carnavalèrs a la sala polivalenta, lòc d'arribada deu passei. Volontàriament a bon compte, que permeterà - que l'esperam - a tot lo monde de profieitar d'un bon moment tots amassa entà's rescauhar quau que sia la pregondor deu son pòrta moneda.
+    Un repaish popular qu'ei prepausat aus carnavalèrs a la sala polivalenta, lòc d'arribada deu passei. Volontàriament a bon compte, que permeterà - que l'esperam - a tot lo monde de profieitar d'un bon moment tots amassa entà's rescauhar quau que sia la pregondor deu son pòrta moneda.
 
     **Menuts en cors de negociacion dab los dieteticians personaus de Sent Pançard...** 😋
 
