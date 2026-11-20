@@ -27,7 +27,7 @@ oc:
     * 18ò30 : Remesa de las claus deu viltage per M. Lo Maire
     * 18ò45 : Passei dens lo vilatge
     * 19ò45 : Cremacion deus "Chepics"
-    * 20ò30 : Bals
+    * 20ò30 : Bals (**entrada a gratís**)
       * Pialòts de còrdas
       * Kaixo Duo 
 
@@ -43,7 +43,7 @@ C'est le **30 janvier 2027** !!! 🎉
 * 18h30 : Remise des clés du village par M. Le Maire
 * 18h45 : Défilé dans le village
 * 19h45 : Crémation des "Chepics"
-* 20h30 : Bals
+* 20h30 : Bals (**entrée gratuite**)
   * Pialòts de còrdas
   * Kaixo Duo 
 
