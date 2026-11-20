@@ -29,7 +29,7 @@ oc:
       * Pialòts de còrdas
       * Kaixo Duo 
 
-    🍽️ Restauracion sus plaça !
+    🍽️ [Restauracion](./#vignette/minjar) sus plaça ! 😋
 ---
 
 ### Un programme copieux !
@@ -42,8 +42,8 @@ C'est le **30 janvier 2027** !!! 🎉
 * 18h45 : Défilé dans le village
 * 19h45 : Crémation des "Chepics"
 * 20h30 : Bals
-  * Pialots de cordas
+  * Pialòts de còrdas
   * Kaixo Duo 
 
-🍽️ Restauration sur place !
+🍽️ [Restauration](./#vignette/minjar) sur place ! 😋
 
