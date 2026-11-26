@@ -33,7 +33,7 @@ oc:
 
 Les **"gendarmes"** ne sont guère plus fûtés que les palhassas. Plus vaillants autour de l'apéritif que vraiment désireux d'arrêter les bandits en cavale, ils trouvent toujours un prétexte pour s'arrêter à une bonne table.
 Une seule chose les rend totalement fous: les [palhassas](./#vignette/palhassas) ! 
-Ils entretiennent une rivalité féroce et chaque recontre est explosive et donne lieu à des bagarres copieuses ! 
+Ils entretiennent une rivalité féroce et chaque rencontre est explosive et donne lieu à des bagarres copieuses ! 
 
 ### Signes distinctifs ?
 
