@@ -45,4 +45,4 @@ Certains profiteront de la pause de Noël pour solliciter une mamie couturière 
 
 ### A l'école...
 
-Les maîtres et maîtresses sont au courant: ce carnaval biarnés va être grandiose ! Ils préparent avec les enfants des danses et des chants ! 🎶
+Les maîtres et maîtresses sont au courant : ce carnaval biarnés va être grandiose ! Ils préparent avec les enfants des danses et des chants ! 🎶
