@@ -22,7 +22,7 @@ oc:
 
     Quaresma qu'ei lo gran rivau de [Sent Pançard](./#vignette/sentpancard).
 
-    Personatge triste e escur, Quarèsma qu'incarna **l'austeritat e la privacion**, la morala puritana e la volontat d'acabar los desbordaments. La soa enveja la mei viva: arrestar la hèsta e véder lo retorn de l'ordi 😞
+    Personatge triste e escur, Quarèsma qu'incarna **l'austeritat e la privacion**, la morala puritana e la volontat d'acabar los desbordaments. La soa enveja la mei viva : arrestar la hèsta e véder lo retorn de l'ordi 😞
 
     ### Lo son costume
 
@@ -33,7 +33,7 @@ oc:
 
 Quaresma est le grand rival de [Sent Pançard](./#vignette/sentpancard).
 
-Personnage triste et sombre, Quarèsma incarne **l'austérité et la privation**, la morale puritaine et la volonté de mettre fin aux débordements. Son désir le plus cher: mettre fin à la fête et voir le retour à l'ordre 😞
+Personnage triste et sombre, Quarèsma incarne **l'austérité et la privation**, la morale puritaine et la volonté de mettre fin aux débordements. Son désir le plus cher : mettre fin à la fête et voir le retour à l'ordre 😞
 
 ### Son costume
 

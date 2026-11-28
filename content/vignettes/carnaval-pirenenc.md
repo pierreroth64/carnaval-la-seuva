@@ -25,16 +25,16 @@ oc:
 
     ### En Biarn, un carnaval pirenenc ⛰️
 
-    En Biarn, lo carnaval que's declina sus la soa fòrma pirenenca: qu'i arretrobam los medishs personatges, legendas e istuèras de part e d'aute deus pireneus e de la mar grana dinc a la mar mediterrana.
+    En Biarn, lo carnaval que's declina sus la soa fòrma pirenenca : qu'i arretrobam los medishs personatges, legendas e istuèras de part e d'aute deus pireneus e de la mar grana dinc a la mar mediterrana.
 
     La tempsada de Carnaval que correspon ací a la renavida : lo printemps que punteja ! 🌱
 
     [Sent Pançard](./#vignette/sentpancard) 👑, lo rei deu Carnaval, que torna dongas cada an. 
-    Que hè sortir tot çò d'esconut en cadun: la nosta **fantesia** escanada per ua mòda uniformisada, la nosta **revòlta** de cap a las injustícias deu monde, lo noste **costat "pèc"** plan tròp sage pendent lo restant de l'annada...
+    Que hè sortir tot çò d'esconut en cadun : la nosta **fantesia** escanada per ua mòda uniformisada, la nosta **revòlta** de cap a las injustícias deu monde, lo noste **costat "pèc"** plan tròp sage pendent lo restant de l'annada...
 
     **Sent Pançard que ns'interpèla e que'ns ditz : "Destimborla't !"**
 
-    Alavetz que resistam ad aqueth aperet... e puish fin finau, que cedam: _be hè ben d'aver los hius qui tòcan un drinòt  !_ 🤪
+    Alavetz que resistam ad aqueth aperet... e puish fin finau, que cedam : _be hè ben d'aver los hius qui tòcan un drinòt  !_ 🤪
 
     Lo carnaval qu'ei ua hèsta populari qui permet de descompressar devant un monde de mei en mei angoishós.
 
@@ -53,7 +53,7 @@ oc:
     Amistats
 
 
-    _PS: entà estar de la partida, qu'avetz quauques ideas en clicar sus:_       <button onclick="filterCategory('Faire Carnaval', event)" class="cat-pill px-3 py-1 rounded-full text-sm font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catFaireCarnaval">🎉 Har Carnaval</button>
+    _PS : entà estar de la partida, qu'avetz quauques ideas en clicar sus :_       <button onclick="filterCategory('Faire Carnaval', event)" class="cat-pill px-3 py-1 rounded-full text-sm font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catFaireCarnaval">🎉 Har Carnaval</button>
 ---
 
 ### Le Carnaval... une fête planétaire 🌍
@@ -63,16 +63,16 @@ Fête païenne du fond des âges aux origines chamaniques, elle est ce moment de
 
 ### En Béarn, un carnaval pyrénéen ⛰️
 
-En Béarn, le carnaval se décline sous sa forme pyrénéenne: on retrouve les mêmes personnages, légendes et histoires de part et d'autres des pyrénées et de l'océan jusqu'à la mer méditerranée.
+En Béarn, le carnaval se décline sous sa forme pyrénéenne : on retrouve les mêmes personnages, légendes et histoires de part et d'autres des pyrénées et de l'océan jusqu'à la mer méditerranée.
 
-La période de Carnaval correspond ici au renouveau: le printemps pointe le bout de son nez ! 🌱
+La période de Carnaval correspond ici au renouveau : le printemps pointe le bout de son nez ! 🌱
 
 [Sent Pançard](./#vignette/sentpancard) 👑, le roi du Carnaval, revient donc chaque année. 
-Il fait ressurgir tout ce qui est enfoui en chacun d'entre nous: notre **fantaisie** étouffée par une mode uniformisée, notre **révolte** face aux injustices du monde, notre **côté "déjanté"** bien trop sage pendant tout le reste de l'année...
+Il fait ressurgir tout ce qui est enfoui en chacun d'entre nous : notre **fantaisie** étouffée par une mode uniformisée, notre **révolte** face aux injustices du monde, notre **côté "déjanté"** bien trop sage pendant tout le reste de l'année...
 
 **Sent Pançard nous interpelle et nous dit : "Lâche-toi !"**
 
-Alors nous résistons à cet appel... puis finalement cédons: _ça fait du bien d'avoir les fils qui touchent un peu !_ 🤪
+Alors nous résistons à cet appel... puis finalement cédons : _ça fait du bien d'avoir les fils qui touchent un peu !_ 🤪
 
 Le carnaval c'est une fête populaire permettant de décompresser devant un monde de plus en plus angoissant.
 
@@ -93,6 +93,6 @@ Amistats
 
 ¹ _pour faire la fête_
 
-_PS: pour être de la partie, vous avez quelques idées en cliquant sur:_       <button onclick="filterCategory('Faire Carnaval', event)" class="cat-pill px-3 py-1 rounded-full text-sm font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catFaireCarnaval">🎉 Faire Carnaval</button>
+_PS : pour être de la partie, vous avez quelques idées en cliquant sur :_       <button onclick="filterCategory('Faire Carnaval', event)" class="cat-pill px-3 py-1 rounded-full text-sm font-bold whitespace-nowrap transition border border-white/20 bg-foliage/80 text-white hover:bg-moss-500" id="catFaireCarnaval">🎉 Faire Carnaval</button>
 
 
